@@ -14,5 +14,7 @@ I'll start with a list of subjects I'd like to write about. The scope here won't
 - Interactive, immersive art and design, as distinct from "games."
 - Developing my character design skills.
 - Books I'm reading and thoughts about them.
+- Building a 3D scanner.
+- Designing personalized ergonomics with a 3D scanner and printer.
 - What I think is valuable about zen.
 
