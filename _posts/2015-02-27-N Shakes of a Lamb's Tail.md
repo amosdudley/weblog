@@ -3,10 +3,6 @@ title: "<i>n</i> Shakes of a Lamb's Tail"
 tags: [self-Amos]
 ---
 
-![self-Amos]
-
-## <i>n</i> Shakes of a Lamb's Tail
-
 My friend Zak likes to advocate the use of self-imposed consequences as a methodology for motivating oneself to action. For example, committing to burn
 (or better, donate) a thousand dollars if an important task isn't completed. Monetary consequences are convenient because they easily scale to the importance
 of the task. I like this idea in theory, especially if you have a friend who is willing to hold you to your commitments, usually by holding onto your money.
