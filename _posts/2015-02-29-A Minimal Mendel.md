@@ -6,20 +6,20 @@ tags: [self-Amos, mendelmin, reprap, prototyping]
 I was dissatisfied with the Prusa i2 design of 3D printer I had built with my friend <a href="https://alloscomp.com/">Eric</a> in 2013. It's a brilliant idea, a 3D printer that can be built
 with parts from the hardware store, but I felt that the design compromised too much. The triangular prism shaped frame of the i2 meant that it was extremely difficult to make the machine
 perfectly square on all three axes. The Z axis was also over-constrained, which was a fundamental flaw in the design that made any eccentricity in the Z drive screws visible on the models
-I printed as small ridges. There are a huge number of 3D printer designs out there; Repraps and all the variations on that principle. I wanted a machine that would use the costly parts from
+I printed as small ridges. There are a huge number of 3D printer designs out there; RepRaps and all the variations on that principle. I wanted a machine that would use the costly parts from
 my Prusa i2, and transfer them to a simpler, stronger frame, while solving a number of other problems I found with the i2.
 
 ## My upgrade goals:
 
-- More frame rigidity: a more rigid frame allows the machine to print faster and more accurately.
-- More Z print volume.
+- More frame rigidity: a more rigid frame allows the machine to print faster and more accurately
+- More Z print volume
 - More accuracy
 - More precision
 - No Z-wobble
 - No USB connectivity / interference errors
 - A better filament feed system
 - Easier bed levelling and Z home calibration
-- Easier to assemble and disassemble without messing up calibration.
+- Easier to assemble and disassemble without messing up calibration
 - Compatibility with my extruder and hot-end (MakerGear Stepper Plastruder)
 
 ## Introducing the mendelmin
