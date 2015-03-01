@@ -24,7 +24,7 @@ my Prusa i2, and transfer them to a simpler, stronger frame, while solving a num
 
 ## Introducing the mendelmin
 
-!(http://i.imgur.com/45eCEDC.png)
+![mendelmin](http://i.imgur.com/45eCEDC.png)
 
 At its core the mendelmin is a heavily modified <a href="http://reprap.org/wiki/MendelMax_2">MendelMax 2</a>, but with a smaller desk profile. It uses a right angle design made of 2020 extruded
 aluminum sections, and laser-cut acrylic components. I moved the motors to the bottom of the frame, because top motors make it difficult to remove the X carriage assembly for maintenance.
