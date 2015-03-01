@@ -1,5 +1,5 @@
 ---
-title: "A Minimal Mendel: Postmortem"
+title: "A Minimal Mendel, Postmortem"
 tags: [self-Amos][mendelmin][reprap][prototyping]
 ---
 
@@ -58,7 +58,7 @@ I see this project as a success. It's not a perfect machine, but it ended up ful
 I don't see this as a very viable design for other people, since it combines printed and laser-cut parts and requires very specific starting hardware (and a new builder easily find cheaper and better parts to start with).
 I came up with what think are a few elegant innovations, such as my Z endstop adjuster, which makes calibrating the Z home position very simple. 
 
-You can find the mendelmin on <a href="http://www.thingiverse.com/thing:185402">Thingiverse 2</a>.
+You can find the mendelmin on <a href="http://www.thingiverse.com/thing:185402">Thingiverse</a>.
 
 
 
