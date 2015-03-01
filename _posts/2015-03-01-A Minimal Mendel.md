@@ -50,7 +50,7 @@ Bowden extruder. However, I decided to keep the stock configuration of the extru
 
 The print bed is the largest shortcoming of the mendelmin. I used the old HBP (heated build platform) from my i2, which mounts to the Y carriage at four points. This makes no sense, and needs to be revisited. A planar
 surface is defined by three points, and any extra mounting points distort the build surface if they aren't precisely in plane. There are a number of existing compatible designs for Y carriages / build platforms,
-so I will probably just use one of these. I also had a bed levelling probe that would mount to the X carriage as a goal, but it was an extra feature that I cut from the final design. The X carriage didn't need extra weight.
+so I will probably just use one of these. I also had in mind a bed levelling probe that would mount to the X carriage, but it was an extra feature that I cut from the final design. The X carriage didn't need extra weight.
 
 ## Success rate
 
