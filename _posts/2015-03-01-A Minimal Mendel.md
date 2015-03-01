@@ -37,7 +37,7 @@ an LCD Smart Controller, which allows the printer to load files directly from an
 
 ## Where I fell short
 
-Resorting to laser-cutting components is a major failure for an open-source 3D printer design in my opinion, because very few people have access to one. It violates the core principle of a RepRap, which
+Resorting to laser-cutting components is a major failure for an open-source 3D printer design in my opinion, because very few people have access to a laser cutter. It violates the core principle of a RepRap, which
 is that one printer can make all the specialized hardware for another printer. I originally designed the components to be printable, but upon printing them I realized that my design required more precision
 than my printer could accomplish. Bearings weren't perfectly aligned, and the printer didn't move smoothly.
 
