@@ -5,8 +5,8 @@ tags: [self-Amos, mendelmin, reprap, prototyping]
 
 I was dissatisfied with the Prusa i2 design of 3D printer I had built with my friend <a href="https://alloscomp.com/">Eric</a> in 2013. It's a brilliant idea, a 3D printer that can be built
 with parts from the hardware store, but I felt that the design compromised too much. The triangular prism shaped frame of the i2 meant that it was extremely difficult to make the machine
-perfectly square on all three axes. The Z axis was also over-constrained, which was a fundamental flaw in the design that made any eccentricity in the Z drive screws visible on the models
-I printed as small ridges. There are a huge number of 3D printer designs out there; RepRaps and all the variations on that principle. I wanted a machine that would use the costly parts from
+perfectly square on all three axes. The Z axis was also over-constrained, which was a fundamental flaw in the design that made any eccentricity in the Z drive screws apparent as small ridges
+on prints. There are a huge number of 3D printer designs out there; RepRaps and all the variations on that principle. I wanted a machine that would use the costly parts from
 my Prusa i2, and transfer them to a simpler, stronger frame, while solving a number of other problems I found with the i2.
 
 ## My upgrade goals:
@@ -55,7 +55,7 @@ so I will probably just use one of these. I also had in mind a bed levelling pro
 ## Success rate
 
 I see this project as a success. It's not a perfect machine, but it ended up fully functional and an upgrade to my i2 in almost every way. Total cost to upgrade was roughly 200 dollars, which was pretty much exactly on budget.
-I don't see this as a very viable design for other people, since it combines printed and laser-cut parts and requires very specific starting hardware (and a new builder easily find cheaper and better parts to start with).
+I don't see this as a very viable design for other people, since it combines printed and laser-cut parts and requires very specific starting hardware (and a new builder could easily find cheaper and better parts to start with).
 I came up with what think are a few elegant innovations, such as my Z endstop adjuster, which makes calibrating the Z home position very simple. 
 
 You can find the mendelmin on <a href="http://www.thingiverse.com/thing:185402">Thingiverse</a>.
