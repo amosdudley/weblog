@@ -3,7 +3,7 @@ title: "A Minimal Mendel, Postmortem"
 tags: [self-Amos, mendelmin, reprap, prototyping]
 ---
 
-I was dissatisfied with the Prusa i2 design of 3D printer I had built with my friend <a href="https://alloscomp.com/">Eric</a> in 2013. It's a brilliant idea, a 3D printer that can be built
+The Prusa i2 design of 3D printer I had built with my friend <a href="https://alloscomp.com/">Eric</a> in 2013 was a great little 3D printer that can be built
 with parts from the hardware store, but I felt that the design compromised too much. The triangular prism shaped frame of the i2 meant that it was extremely difficult to make the machine
 perfectly square on all three axes. The Z axis was also over-constrained, which was a fundamental flaw in the design that made any eccentricity in the Z drive screws apparent as small ridges
 on prints. There are a huge number of 3D printer designs out there; RepRaps and all the variations on that principle. I wanted a machine that would use the costly parts from
