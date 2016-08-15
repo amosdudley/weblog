@@ -113,6 +113,7 @@ The next design took the Agfa shutter and rotated mechanism 90 degrees to be per
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmLS_L-Ripc" frameborder="0" allowfullscreen></iframe>
 
+##  
 A printed spring “flicked” the cylinder between its two positions.
 
 A shorter focal length is a necessity for a printed camera - a long focal length equates to a narrow field of view. It’s very hard to get a specific object into the frame with a narrow FOV and no viewfinder.
