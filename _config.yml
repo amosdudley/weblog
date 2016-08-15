@@ -45,11 +45,6 @@ defaults:
     values:
       layout: "post"
 
- gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
- # This will require each of these gems automatically.
-gem install jekyll-coffeescript jekyll-watch jekyll-assets
-
-
 flickr_set:
   gallery_tag:   'p'
   gallery_class: 'gallery'
