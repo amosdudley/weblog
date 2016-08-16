@@ -53,7 +53,7 @@ I work on a Form 2 printer, which draws parts out of laser cured resin. The resi
 
 Film is drawn through the camera by a sprocket rod, and then loosely gathered by a secondary takeup spool. The sprocket is geared to an indicator that shows you when you’re at the next frame. Six revolutions of the indicator is a roll of 24 shots.
 
-[Gif of the indicator]
+<iframe src='https://gfycat.com/ifr/CharmingExcitableAsp' frameborder='0' scrolling='no' width='640' height='361' allowfullscreen></iframe>
 
 ## The Lens
 
