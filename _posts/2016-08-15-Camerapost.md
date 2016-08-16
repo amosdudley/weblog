@@ -31,8 +31,8 @@ The basic elements of a camera are:
 - A door to access the film
 - A lightproof box to hold it all
 
-
-Functional massing
+![polisher](http://i.imgur.com/MJBn0e8.png)
+*Functional massing*
 
 A 3D printed camera body could look like anything, but I decided to optimize the design for printing speed and material usage. Most of the larger parts are designed without overhangs in one orientation, so they can be printed without supports, straight off the build platform. Separating the body into modules let me prototype each component individually. The shutter and lens are modules, and can be swapped out for different designs without reprinting the entire camera.
  
@@ -126,6 +126,7 @@ I needed a plane shutter that would take up less depth and allow for a wider ang
 I used Blender’s animation system to optimize the mechanism for space- maximizing the aperture size while minimizing the space used. I used the same toggling rack-and-pinion drive from the cylinder. The link bar neatly slides under the button rack when it’s in the up position, and gets out of the way as it lowers.
 
 ![Animation](http://i.imgur.com/LqqKzAg.gif)
+*Progression of shutter optimization*
 
 It works!
 
