@@ -95,7 +95,7 @@ The lenses had a theoretical focal length, determined by the lens equation.
 
 The process of grinding and dipping lenses almost definitely changes the focal length, by flattening the surface an unknown amount. Testing the lens in the printed camera would be slow and expensive, so I created a printed lens tester. It’s basically an oversized, hollow micrometer, which allows the lens to mount to an Olympus OM-D Micro Four Thirds camera. By turning the wheel, the lens slowly threads in or out, adjusting the distance of the lens from the focal plane.
 
-![Tester](http://i.imgur.com/m6e5zaG.jpg) 
+![Tester](http://i.imgur.com/CVlBzzW.jpg)
 
 This way I could immediately see whether or not a lens was good enough for my camera, and test the actual focal length of each one.
 
