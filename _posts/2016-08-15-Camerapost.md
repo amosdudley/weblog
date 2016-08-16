@@ -91,7 +91,7 @@ I noticed that the resin gets very clear when covered in epoxy, or other viscous
 
 The lenses had a theoretical focal length, determined by the lens equation.
 
-![equation](http://i.imgur.com/WyrnaI4.gif)
+![equation](http://i.imgur.com/3kR06ay.png)
 
 The process of grinding and dipping lenses almost definitely changes the focal length, by flattening the surface an unknown amount. Testing the lens in the printed camera would be slow and expensive, so I created a printed lens tester. It’s basically an oversized, hollow micrometer, which allows the lens to mount to an Olympus OM-D Micro Four Thirds camera. By turning the wheel, the lens slowly threads in or out, adjusting the distance of the lens from the focal plane.
 
@@ -111,10 +111,8 @@ I started with a design based on the Agfa Ansco Shur-Shot, which had a spring lo
 
 The next design took the Agfa shutter and rotated mechanism 90 degrees to be perpendicular to the lens. I turned the disk into a rotating cylinder with two slots cut out of opposing sides that would reveal the frame as the cylinder rotated. This design worked in theory and early prototypes, but the spring that flipped the cylinder would break after about 20 shots. Also, the cylinder was quite massive and took up a lot of space. This meant that the camera was being limited to lenses with a focal length longer than 70mm, and the camera would shake when the shutter turned.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LmLS_L-Ripc" frameborder="0" allowfullscreen></iframe>
-
-##  
-A printed spring “flicked” the cylinder between its two positions.
+<iframe src='https://gfycat.com/ifr/BitterImpressiveAidi' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
+*A printed spring “flicked” the cylinder between its two positions.*
 
 A shorter focal length is a necessity for a printed camera - a long focal length equates to a narrow field of view. It’s very hard to get a specific object into the frame with a narrow FOV and no viewfinder.
 
