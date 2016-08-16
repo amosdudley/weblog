@@ -46,7 +46,7 @@ A 3D printed camera body could look like anything, but I decided to optimize the
 </p>
 </div>
 
-Lap joints throughout prevent light from entering the camera body
+*Lap joints throughout prevent light from entering the camera body*
 
 35mm is the most common film standard, and the natural choice for the SLO. It’s also the only film size that’s still relatively easy to get developed at a reasonable price. The choice of a film size informs many aspects of a camera’s design and function. 35mm film defines a camera as a handheld portable - and a lens from a 35mm camera can be used on a full-frame digital camera, as well as smaller sensors such as the Olympus Micro 4/3 (with some crop).
 
@@ -55,6 +55,12 @@ I work on a Form 2 printer, which draws parts out of laser cured resin. The resi
 Film is drawn through the camera by a sprocket rod, and then loosely gathered by a secondary takeup spool. The sprocket is geared to an indicator that shows you when you’re at the next frame. Six revolutions of the indicator is a roll of 24 shots.
 
 <iframe src='https://gfycat.com/ifr/CharmingExcitableAsp' frameborder='0' scrolling='no' width='640' height='361' allowfullscreen></iframe>
+
+Film is loaded through a hinged door in the back.
+
+![rearview](http://i.imgur.com/u6VA87D.jpg)
+
+*The access door locks with a button to pop it open*
 
 ## The Lens
 
@@ -127,6 +133,7 @@ I needed a plane shutter that would take up less depth and allow for a wider ang
 I used Blender’s animation system to optimize the mechanism for space- maximizing the aperture size while minimizing the space used. I used the same toggling rack-and-pinion drive from the cylinder. The link bar neatly slides under the button rack when it’s in the up position, and gets out of the way as it lowers.
 
 ![Animation](http://i.imgur.com/LqqKzAg.gif)
+
 *Progression of shutter optimization*
 
 It works!
