@@ -79,7 +79,7 @@ Running the polishing machine for a few minutes smoothed out a lot of smaller sc
 
 I simulated my lenses in Optical Ray Tracer to find out if a single spherical objective lens could ever be capable of resolving an image at low R values. A decent image can be resolved provided that the aperture is appropriately small. 
 
-![Simulation](http://i.imgur.com/uOR3z2J.jpg)
+![Simulation](http://i.imgur.com/GAuSunV.jpg)
 
 A single spherical lens can’t focus off-axis light well, so I limit it with a 16mm, or f/3.125 aperture. Even f/3 turns out to be too large an aperture for my lens, though I’m glad to have the option to make more complex lenses in the future.
 
@@ -91,7 +91,7 @@ I noticed that the resin gets very clear when covered in epoxy, or other viscous
 
 The lenses had a theoretical focal length, determined by the lens equation.
 
-![equation](http://i.imgur.com/rJAiOwd.png) 
+![equation](http://i.imgur.com/WyrnaI4.gif) 
 
 The process of grinding and dipping lenses almost definitely changes the focal length, by flattening the surface an unknown amount. Testing the lens in the printed camera would be slow and expensive, so I created a printed lens tester. It’s basically an oversized, hollow micrometer, which allows the lens to mount to an Olympus OM-D Micro Four Thirds camera. By turning the wheel, the lens slowly threads in or out, adjusting the distance of the lens from the focal plane.
 
