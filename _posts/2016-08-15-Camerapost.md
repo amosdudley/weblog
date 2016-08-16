@@ -101,7 +101,7 @@ This way I could immediately see whether or not a lens was good enough for my ca
 
 It looks like resin-dipping a lens makes it very clear!
 
-[Digital camera test shots]
+![Tester](http://i.imgur.com/iIOBUtL.jpg)
 
 ## The Shutter
 
