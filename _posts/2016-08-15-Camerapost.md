@@ -107,7 +107,7 @@ It looks like resin-dipping a lens makes it very clear!
 
 I started with a design based on the Agfa Ansco Shur-Shot, which had a spring loaded disk shutter. The disk had a circular hole cut into it that would pass by the aperture as it rotated. The size of the disk has to be very large compared to the size of the aperture. The Agfa has a very small fixed aperture, and is quite a large camera. It wouldn’t fit in the SLO.
 
-![Animation](http://i.imgur.com/5ijeOV2.gif)
+<iframe src='https://gfycat.com/ifr/HandsomeEsteemedIguana' frameborder='0' scrolling='no' width='640' height='432' allowfullscreen></iframe>
 
 The next design took the Agfa shutter and rotated mechanism 90 degrees to be perpendicular to the lens. I turned the disk into a rotating cylinder with two slots cut out of opposing sides that would reveal the frame as the cylinder rotated. This design worked in theory and early prototypes, but the spring that flipped the cylinder would break after about 20 shots. Also, the cylinder was quite massive and took up a lot of space. This meant that the camera was being limited to lenses with a focal length longer than 70mm, and the camera would shake when the shutter turned.
 
@@ -119,8 +119,7 @@ A shorter focal length is a necessity for a printed camera - a long focal length
 I needed a plane shutter that would take up less depth and allow for a wider angle lens. I abandoned spring drives and moved to a gear system which wouldn’t be vulnerable to breaking. I found a reference of a shutter from 1885, with two counter-rotating planes and a translating linkage. 
 
 ![Shutterorig](http://i.imgur.com/2XhgVVQ.jpg)
-
-This is the only image I could find of CJ Wollaston’s mechanism, but it’s enough to replicate it digitally. 
+*This is the only image I could find of CJ Wollaston’s mechanism, but it’s enough to replicate it digitally.* 
 
 I used Blender’s animation system to optimize the mechanism for space- maximizing the aperture size while minimizing the space used. I used the same toggling rack-and-pinion drive from the cylinder. The link bar neatly slides under the button rack when it’s in the up position, and gets out of the way as it lowers.
 
