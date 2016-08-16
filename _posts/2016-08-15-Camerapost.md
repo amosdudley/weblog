@@ -99,9 +99,10 @@ The process of grinding and dipping lenses almost definitely changes the focal l
 
 This way I could immediately see whether or not a lens was good enough for my camera, and test the actual focal length of each one.
 
-It looks like resin-dipping a lens makes it very clear!
+![Lens closeup](http://i.imgur.com/2THPoyx.jpg)
+*It looks like resin-dipping a lens makes it very clear!*
 
-![Tester](http://i.imgur.com/iIOBUtL.jpg)
+
 
 ## The Shutter
 
