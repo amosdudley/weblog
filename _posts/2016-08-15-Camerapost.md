@@ -107,7 +107,7 @@ It looks like resin-dipping a lens makes it very clear!
 
 I started with a design based on the Agfa Ansco Shur-Shot, which had a spring loaded disk shutter. The disk had a circular hole cut into it that would pass by the aperture as it rotated. The size of the disk has to be very large compared to the size of the aperture. The Agfa has a very small fixed aperture, and is quite a large camera. It wouldn’t fit in the SLO.
 
-<iframe src='https://gfycat.com/LimitedPreciousJackal' frameborder='0' scrolling='no' width='640' height='432' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/LimitedPreciousJackal' frameborder='0' scrolling='no' width='640' height='432' allowfullscreen></iframe>
 
 The next design took the Agfa shutter and rotated mechanism 90 degrees to be perpendicular to the lens. I turned the disk into a rotating cylinder with two slots cut out of opposing sides that would reveal the frame as the cylinder rotated. This design worked in theory and early prototypes, but the spring that flipped the cylinder would break after about 20 shots. Also, the cylinder was quite massive and took up a lot of space. This meant that the camera was being limited to lenses with a focal length longer than 70mm, and the camera would shake when the shutter turned.
 
