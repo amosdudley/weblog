@@ -151,10 +151,11 @@ There’s no adjustment for shutter speed, except for the speed the button is pr
 
 I worked with photographer Rob Chron to test the camera at different aperture settings, shot on Fujicolor Superia 400. Here are the results.
 
-<div style="width:772px;height:512px;text-align:center;margin:auto;" ><object width="772" height="512" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"> <param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F49572702%40N02%2Falbums%2F72157671585731802%2Fshow&amp;page_show_back_url=%2Fphotos%2F49572702%40N02%2Falbums%2F72157671585731802%2F&amp;user_id=49572702@N02" /> <param name="allowFullScreen" value="true" /> <param name="src" value="https://www.flickr.com/apps/slideshow/show.swf?v=71649" /> <embed width="772" height="512" type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=71649" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F49572702%40N02%2Falbums%2F72157671585731802%2Fshow&amp;page_show_back_url=%2Fphotos%2F49572702%40N02%2Falbums%2F72157671585731802%2F&amp;user_id=49572702@N02" allowFullScreen="true" /> </object><br /><small>Created with <a href="http://www.flickrslideshow.com">flickr slideshow</a>.</small></div>
+<div style="width:772px;height:512px;text-align:center;margin:auto;" ><object width="772" height="512" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"> <param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F49572702%40N02%2Falbums%2F72157671585731802%2Fshow&amp;page_show_back_url=%2Fphotos%2F49572702%40N02%2Falbums%2F72157671585731802%2F&amp;user_id=49572702@N02" /> <param name="allowFullScreen" value="true" /> <param name="src" value="https://www.flickr.com/apps/slideshow/show.swf?v=71649" /> <embed width="772" height="512" type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=71649" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F49572702%40N02%2Falbums%2F72157671585731802%2Fshow&amp;page_show_back_url=%2Fphotos%2F49572702%40N02%2Falbums%2F72157671585731802%2F&amp;user_id=49572702@N02" allowFullScreen="true" /> </object><br /></div>
+
+
+You can download the 3D files from Pinshape if you have a Form 2 and want to make your own.
 
 //Link to pinshape 3D files
-
-Here are the 3D files, if you have a Form 2 printer and want to make your own.
 
 Thanks for looking!
