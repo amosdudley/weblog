@@ -32,6 +32,7 @@ The basic elements of a camera are:
 - A lightproof box to hold it all
 
 ![massing](http://i.imgur.com/XBtKhLD.png)
+
 *Functional massing*
 
 A 3D printed camera body could look like anything, but I decided to optimize the design for printing speed and material usage. Most of the larger parts are designed without overhangs in one orientation, so they can be printed without supports, straight off the build platform. Separating the body into modules let me prototype each component individually. The shutter and lens are modules, and can be swapped out for different designs without reprinting the entire camera.
