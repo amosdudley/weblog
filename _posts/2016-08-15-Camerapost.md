@@ -59,7 +59,7 @@ Film is drawn through the camera by a sprocket rod, and then loosely gathered by
 
 Finally, an adjustable aperture sits behind the lens mount.
 
-![rearview](http://i.imgur.com/SNhKKUK.gif
+![Aperture](http://i.imgur.com/SNhKKUK.gif)
 
 Film is loaded via a door in the back of the camera. There are two shutter buttons that toggle with each shutter press and can be pressed flat for a long exposure. More on that later!
 
