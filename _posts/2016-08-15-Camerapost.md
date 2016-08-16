@@ -59,8 +59,12 @@ Film is drawn through the camera by a sprocket rod, and then loosely gathered by
 
 Film is loaded via a door in the back of the camera. There are two shutter buttons that toggle with each shutter press and can be pressed flat for a long exposure. More on that later!
 
-![rearview](http://i.imgur.com/u6VA87D.jpg)
-*The access door locks with a button to pop it open*
+![rearview](http://i.imgur.com/Letz9EV.jpg)
+*The access door locks with a button to pop it open.*
+
+Finally, an adjustable aperture sits behind the lens mount.
+
+![rearview](http://i.imgur.com/SNhKKUK.gifv)
 
 ## The Lens
 
@@ -134,7 +138,7 @@ I used Blender’s animation system to optimize the mechanism for space- maximiz
 
 ![Animation](http://i.imgur.com/LqqKzAg.gif)
 
-*Progression of shutter optimization*
+*Shutter optimization steps.*
 
 It works!
 
@@ -148,9 +152,7 @@ I worked with photographer Rob Chron to test the camera at different aperture se
 
 [Photo tests]
 
-Some photos through the printed lens, attached to an Olympus digital camera.
-
-3D files
+//Link to pinshape 3D files
 
 Here are the 3D files, if you have a Form 2 printer and want to make your own.
 
