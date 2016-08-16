@@ -52,14 +52,14 @@ A 3D printed camera body could look like anything, but I decided to optimize the
 
 I work on a Form 2 printer, which draws parts out of laser cured resin. The resins have different material properties, varying in strength and flexibility. Resin parts need to be designed to the right scale to balance friction, mass, and durability. I found that parts printed on the Form 2 need to be designed with ±0.075mm tolerances to reliably fit together, and .25mm clearances to move smoothly in kinetic assemblies. Most resin parts have high friction and need to be well lubricated, or they will quickly wear down. 
 
-Film is drawn through the camera by a sprocket rod, and then loosely gathered by a secondary takeup spool. The sprocket is geared to an indicator that shows you when you’re at the next frame. Six revolutions of the indicator is a roll of 24 shots.
+Film is drawn through the camera by a sprocket rod, and then loosely gathered by a secondary takeup spool. The sprocket is geared to an indicator that shows you when you’re at the next frame.
 
 <iframe src='https://gfycat.com/ifr/CharmingExcitableAsp' frameborder='0' scrolling='no' width='640' height='361' allowfullscreen></iframe>
+*Six revolutions of the indicator is a roll of 24 shots.*
 
-Film is loaded through a hinged door in the back.
+Film is loaded via a door in the back of the camera. There are two shutter buttons that toggle with each shutter press and can be pressed flat for a long exposure. More on that later!
 
 ![rearview](http://i.imgur.com/u6VA87D.jpg)
-
 *The access door locks with a button to pop it open*
 
 ## The Lens
