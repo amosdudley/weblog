@@ -50,7 +50,7 @@ A 3D printed camera body could look like anything, but I decided to optimize the
 
 35mm is the most common film standard, and the natural choice for the SLO. It’s also the only film size that’s still relatively easy to get developed at a reasonable price. The choice of a film size informs many aspects of a camera’s design and function. 35mm film defines a camera as a handheld portable - and a lens from a 35mm camera can be used on a full-frame digital camera, as well as smaller sensors such as the Olympus Micro 4/3 (with some crop).
 
-I work on a Form 2 printer, which draws parts out of laser cured resin. The resins have different material properties, varying in strength and flexibility. Resin parts need to be designed to the right scale to balance friction, mass, and durability. I found that parts printed on the Form 2 need to be designed with ±0.075mm tolerances to reliably fit together, and .25mm clearances to move smoothly in kinetic assemblies. Most resin parts have high friction and need to be well lubricated, or they will quickly wear down. 
+I work on a <a href="http://formlabs.com/products/3d-printers/form-2/">Form 2 SLA printer</a>, which draws parts out of laser cured resin. The resins have different material properties, varying in strength and flexibility. Resin parts need to be designed to the right scale to balance friction, mass, and durability. I found that parts printed on the Form 2 need to be designed with ±0.075mm tolerances to reliably fit together, and .25mm clearances to move smoothly in kinetic assemblies. Most resin parts have high friction and need to be well lubricated, or they will quickly wear down. 
 
 Film is drawn through the camera by a sprocket rod, and then loosely gathered by a secondary takeup spool. The sprocket is geared to an indicator that shows you when you’re at the next frame.
 
@@ -111,7 +111,6 @@ This way I could immediately see whether or not a lens was good enough for my ca
 
 *It looks like resin-dipping a lens makes it very clear!*
 
-
 ## The Shutter
 
 I started with a design based on the Agfa Ansco Shur-Shot, which had a spring loaded disk shutter. The disk had a circular hole cut into it that would pass by the aperture as it rotated. The size of the disk has to be very large compared to the size of the aperture. The Agfa has a very small fixed aperture, and is quite a large camera. It wouldn’t fit in the SLO.
@@ -152,8 +151,11 @@ I worked with photographer Rob Chron to test the camera at different aperture se
 
 The outdoor shots were taken with an f/16 aperture placed in front of the lens, to cut down on <a href="https://en.wikipedia.org/wiki/Petzval_field_curvature">off-axis light</a>. The result is that the photos have a spooky, vingetted effect. 
 
-You can download the 3D files from Pinshape if you have a Form 2 and want to make your own. Feel free to help me develop it further!
+You can <a href="https://pinshape.com/items/25871-3d-printed-slo-printed-lens-camera">download the 3D files from Pinshape</a> if you have a Form 2 and want to make your own. Feel free to develop it further!
 
-//Link to pinshape 3D files
+You can also read more here:
+
+<a href="http://formlabs.com/creating-camera-lenses-with-stereolithography/">Creating Camera Lenses with Stereolithography</a>
+<a href="http://formlabs.com/photos-from-a-3d-printed-camera/">Photos from a 3D Printed Camera</a>
 
 Thanks for looking!
