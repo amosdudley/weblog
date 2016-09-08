@@ -1,6 +1,6 @@
 ---
 tags: [self-Amos, making, orthodontics, DIY, commentary]
-title: "SLO"
+title: "SLO Printed Lens Camera"
 ---
 
 ![Hero](http://i.imgur.com/qWCgLGq.jpg)
