@@ -5,7 +5,7 @@ title: "SLO: 3D Printed Camera"
 
 ![Hero](http://i.imgur.com/qWCgLGq.jpg)
 
-## The Concept:
+## The Concept
 
 Some people take photos to record moments for the future. Others take photos to enlarge the present. 
 
