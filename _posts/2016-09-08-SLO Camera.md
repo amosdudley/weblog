@@ -1,5 +1,5 @@
 ---
-tags: [self-Amos, making, orthodontics, DIY, commentary]
+tags: [self-Amos, making, camera, DIY, printed lens]
 title: "SLO: 3D Printed Camera"
 ---
 
