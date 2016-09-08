@@ -73,13 +73,9 @@ Creating a lens with a 3D printer is a challenge - your typical FDM printer won�
 
 Unlike acrylic, clear resin can’t be flame polished, or acetone vapor polished like ABS plastic. It can be sanded smooth!
 
-
-
 I started by hand at 400 grit and went up to 12000 grit by increments of 200 and a set of micro-mesh polishing pads. This process took about 5-6 hours per lens and a lot of elbow grease. I tried to sand as uniformly as possible to avoid unevenly grinding flat regions into the lens. The result was mixed- the lenses looked transparent, but weren’t optically sharp. Surface reflections were still blurry, which is a sign that a surface still has microscopic grooves that scatter light. 
 
-
 <iframe src='https://gfycat.com/ifr/UnequaledSecondhandBull' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
-
 
 I decided to try a process similar to what’s used in commercial lens making, where a lens is ground against a spherical form (concave or convex) with an abrasive slurry between the two. I prototyped a machine that would do this for me, hopefully removing an even amount of material from the lens in a way that wasn’t possible by hand.
  
@@ -143,7 +139,7 @@ I used Blender’s animation system to optimize the mechanism for space- maximiz
 
 It works!
 
-//[shutter gif]
+<iframe src='https://gfycat.com/ifr/HoarsePerfectBlackrussianterrier' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
 
 There’s no adjustment for shutter speed, except for the speed the button is pressed by your finger. 
 
