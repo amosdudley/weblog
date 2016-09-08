@@ -101,11 +101,11 @@ The lenses had a theoretical focal length, determined by the lens equation.
 
 ![equation](http://i.imgur.com/3kR06ay.png)
 
-The process of grinding and dipping lenses almost definitely changes the focal length, by flattening the surface an unknown amount. Testing the lens in the printed camera would be slow and expensive, so I created a printed lens tester. It’s basically an oversized, hollow micrometer, which allows the lens to mount to an Olympus OM-D Micro Four Thirds camera. By turning the wheel, the lens slowly threads in or out, adjusting the distance of the lens from the focal plane.
+The process of grinding and dipping lenses almost definitely changes the focal length, by flattening the surface an unknown amount. Testing the lens in the printed camera would be slow and expensive, so I created a printed lens tester. It’s basically an oversized, hollow micrometer, which allows the lens to mount to an Olympus OM-D Micro Four Thirds camera.
 
 ![Tester](http://i.imgur.com/eeGD8AK.jpg)
 
-This way I could immediately see whether or not a lens was good enough for my camera, and test the actual focal length of each one.
+By turning the wheel, the lens slowly moves in or out on printed threads, adjusting the distance of the lens from the focal plane. This way I could immediately see whether or not a lens was good enough for my camera, and test the actual focal length of each one.
 
 ![Lens closeup](http://i.imgur.com/2THPoyx.jpg)
 
@@ -156,6 +156,9 @@ You can <a href="https://pinshape.com/items/25871-3d-printed-slo-printed-lens-ca
 You can also read more here:
 
 <a href="http://formlabs.com/creating-camera-lenses-with-stereolithography/">Creating Camera Lenses with Stereolithography</a>
+
 <a href="http://formlabs.com/photos-from-a-3d-printed-camera/">Photos from a 3D Printed Camera</a>
 
 Thanks for looking!
+
+Also, a lot of thanks to Daniel Willenson, Ben Frantzdale, Rob Chron and Formlabs for all your support! 
