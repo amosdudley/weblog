@@ -155,9 +155,9 @@ You can <a href="https://pinshape.com/items/25871-3d-printed-slo-printed-lens-ca
 
 You can also read more here:
 
-<a href="http://formlabs.com/creating-camera-lenses-with-stereolithography/">Creating Camera Lenses with Stereolithography</a>
+<a href="http://formlabs.com/stories/creating-camera-lenses-with-stereolithography/">Creating Camera Lenses with Stereolithography</a>
 
-<a href="http://formlabs.com/photos-from-a-3d-printed-camera/">Photos from a 3D Printed Camera</a>
+<a href="http://formlabs.com/stories/photos-from-a-3d-printed-camera/">Photos from a 3D Printed Camera</a>
 
 Thanks for looking!
 
