@@ -13,7 +13,7 @@ I’ve always assumed a camera should be impartial. Sharp and bright, lacking co
 
 Analog photography takes the sense of a moment and turns it into a tangible image. My 3D printer turns the content of my thoughts into real shape and form. I wanted to know if there’s a more authentic photograph to be found at the intersection of design and photography - so I set out to make a camera with only a 3D printer. 
 
-The result is the SLO, where the act of recording a moment expands to include the creation of the recorder. SLO is a single lens objective. SLO is the mechanical shutter. SLO is the speed of good design, and the feeling of capturing life with a camera you made yourself. 
+The result is the SLO, whereby the act of recording a moment expands to include the creation of the recorder. SLO is a single lens objective. SLO is the mechanical shutter. SLO is the speed of good design, and the feeling of capturing life with a camera you made yourself. 
 
 ## The Design
 
