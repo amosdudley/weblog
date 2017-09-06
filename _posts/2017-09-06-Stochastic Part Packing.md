@@ -3,7 +3,9 @@ tags: [self-Amos, computation, fabrication, architecture, packing, SLS]
 title: "Stochastic Part Packing for 3D Prints"
 ---
 ## (Or how to make lots of different stuff, all at once) 
+
 ![Hero](https://i.imgur.com/0Ceqegu.jpg)
+
 
 If the idea of 3D printing hundreds of baseball-sized parts seems daunting, slow, and expensive, you’re probably making two big assumptions: that each part is printed sequentially, and that they are printed with supports. SLS (powder) printing solves the second issue by eliminating the first. 
 
@@ -14,6 +16,7 @@ We took an unusual approach to 3D part packing for the Fuse Pavilion, which used
 ## Physically simulating 3D packing
 
 <div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/AlarmingLawfulAsianconstablebutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+
 
 Imagine pouring a bunch of toys into a toy chest. If there are too many toys, the chest will overflow and the lid won’t close… but that doesn’t mean that all the toys couldn’t fit into the chest if they were oriented correctly. 
 
