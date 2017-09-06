@@ -19,7 +19,7 @@ Imagine pouring a bunch of toys into a toy chest. If there are too many toys, th
 
 This scenario is almost identical to what we can do in Blender! We used Blender’s physics engine to pour parts into a virtual volume, then exploited its collision-avoidance behavior to re-sort them into a tight 3D packing optimized for overlapping concavity.
 
-<iframe src='https://gfycat.com/ifr/AlarmingLawfulAsianconstablebutterfly' frameborder='0' scrolling='no' width=‘534’ height=‘300’ allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/AlarmingLawfulAsianconstablebutterfly' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
 
 ## Set up the scene:
 
