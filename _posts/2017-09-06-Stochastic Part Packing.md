@@ -13,7 +13,7 @@ We took an unusual approach to 3D part packing for the Fuse Pavilion, which used
 
 ## Physically simulating 3D packing
 
-<iframe src='https://gfycat.com/ifr/AlarmingLawfulAsianconstablebutterfly' frameborder='0' scrolling='no' width='800' height=‘550’ allowfullscreen></iframe>
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/AlarmingLawfulAsianconstablebutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
 
 Imagine pouring a bunch of toys into a toy chest. If there are too many toys, the chest will overflow and the lid won’t close… but that doesn’t mean that all the toys couldn’t fit into the chest if they were oriented correctly. 
 
