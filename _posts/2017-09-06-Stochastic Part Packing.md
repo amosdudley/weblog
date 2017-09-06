@@ -11,7 +11,7 @@ If the idea of 3D printing hundreds of baseball-sized parts seems daunting, slow
 
 A person can save time by filling the largest percent of each print layer with parts as possible. Why? Printing objects sequentially is the same as adding Z height to your print, and building on the Z axis of a 3D print is considerably slower than on the X and Y axes. By using a powder-based printer we can print without support material, and nest parts close together vertically and horizontally to give the best possible ratio of part to empty space per layer. This is called 3D part packing. 
 
-We took an unusual approach to 3D part packing for the Fuse Pavilion, which used 144 unique nylon joints 3D printable in a single build volume. Here’s how to pack hundreds of high-detail STL models very quickly with a physics sim and open source software.
+We took an unusual approach to 3D part packing for the <a href="https://formlabs.com/blog/3d-printing-at-scale-fuse-pavilion">Fuse Pavilion</a>, which used 144 unique nylon joints 3D printable in a single build volume. Here’s how to pack hundreds of high-detail STL models very quickly with a physics sim and open source software.
 
 ## Physically simulating 3D packing
 
