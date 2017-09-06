@@ -17,7 +17,6 @@ We took an unusual approach to 3D part packing for the Fuse Pavilion, which used
 
 <div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/AlarmingLawfulAsianconstablebutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
 
-
 Imagine pouring a bunch of toys into a toy chest. If there are too many toys, the chest will overflow and the lid won’t close… but that doesn’t mean that all the toys couldn’t fit into the chest if they were oriented correctly. 
 
 This scenario is almost identical to what we can do in Blender! We used Blender’s physics engine to pour parts into a virtual volume, then exploited its collision-avoidance behavior to re-sort them into a tight 3D packing optimized for overlapping concavity.
