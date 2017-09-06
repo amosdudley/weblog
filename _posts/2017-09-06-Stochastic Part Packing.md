@@ -13,13 +13,12 @@ We took an unusual approach to 3D part packing for the Fuse Pavilion, which used
 
 ## Physically simulating 3D packing
 
-Imagine pouring a bunch of toys into a toy chest. If there are too many toys, the chest will overflow and the lid won’t close… but that doesn’t mean that all the toys couldn’t fit into the chest if they were oriented correctly. 
+<iframe src='https://gfycat.com/ifr/AlarmingLawfulAsianconstablebutterfly' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
 
-![toybox](http://i.imgur.com/OGq5dIX.jpg)
+Imagine pouring a bunch of toys into a toy chest. If there are too many toys, the chest will overflow and the lid won’t close… but that doesn’t mean that all the toys couldn’t fit into the chest if they were oriented correctly. 
 
 This scenario is almost identical to what we can do in Blender! We used Blender’s physics engine to pour parts into a virtual volume, then exploited its collision-avoidance behavior to re-sort them into a tight 3D packing optimized for overlapping concavity.
 
-<iframe src='https://gfycat.com/ifr/AlarmingLawfulAsianconstablebutterfly' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
 
 ## Set up the scene:
 
@@ -57,16 +56,21 @@ When objects in the Blender physics engine are forced to intersect, they will fl
 
 Instead of simply falling into the volume, the parts are now compressed to the point where they start intersecting. In Blender’s collision model intersection is kind of a ‘high energy’ state, and the parts will wiggle around semi-randomly until they find a ‘lower energy’ state where they don’t intersect. If there is no low-energy position for a part to land, it will simply continue to wiggle. 
 
+![toybox](http://i.imgur.com/OGq5dIX.jpg)
+
 ## Tips & Tricks:
 
-If your simulation speed is too slow, test out different decimation settings for your proxy objects. 
+- If your simulation speed is too slow, test out different decimation settings for your proxy objects. 
 
-If you are working with a large number of objects and want to adjust packing settings for all parts at once, simply join all your proxy objects before changing settings, and “separate by loose objects” afterwards.
+- If you are working with a large number of objects and want to adjust packing settings for all parts at once, simply join all your proxy objects before changing settings, and *“separate by loose objects”* afterwards.
 
-If objects are clipping through during compression, slow down motion of the press by moving its last keyframe to the right on the timeline. You can also increase simulation Steps per Second and Solver Iterations in Rigid Body Settings.
+- If objects are clipping through during compression, slow down motion of the press by moving its last keyframe to the right on the timeline. You can also increase simulation Steps per Second and Solver Iterations in Rigid Body Settings.
 
 ## Conclusion:
 
 If your parts are simple convex shapes, you will probably get a better packing by simply stacking or arraying them. If you have large concave regions or significant geometric variation between parts, automatic part packing quickly becomes worthwhile. This physics solution isn’t fully automated - it’s a somewhat naive solution that doesn’t detect when your parts are packed or exactly how many can ultimately fit. It is very fast and effective for a certain part packing scenario (ours). I’d love to hear if you test this out for a particular application and find it works better or worse than other methods.
 
 This blog post is a technical follow up about the FUSE Pavilion, <a href="https://formlabs.com/blog/3d-printing-at-scale-fuse-pavilion">a 15-foot installation designed and 3D printed in June 2017</a> with the help of <a href="http://www.aashmangoghari.com"> Aashman Goghari</a>.
+
+![Pavilion2](http://i.imgur.com/zXu5fRh.jpg)
+
