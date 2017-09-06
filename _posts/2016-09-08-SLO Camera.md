@@ -5,16 +5,6 @@ title: "SLO: 3D Printed Camera"
 
 ![Hero](http://i.imgur.com/qWCgLGq.jpg)
 
-## The Concept
-
-Some people take photos to record moments for the future. Others take photos to enlarge the present. 
-
-I’ve always assumed a camera should be impartial. Sharp and bright, lacking consideration or mystery, randomness or error. Lately we’re asked to apply a filter to add a gloss of emotion after the fact. 
-
-Analog photography takes the sense of a moment and turns it into a tangible image. My 3D printer turns the content of my thoughts into real shape and form. I wanted to know if there’s a more authentic photograph to be found at the intersection of design and photography - so I set out to make a camera with only a 3D printer. 
-
-The result is the SLO, whereby the act of recording a moment expands to include the creation of the recorder. SLO is a single lens objective. SLO is the mechanical shutter. SLO is the speed of good design, and the feeling of capturing life with a camera you made yourself. 
-
 ## The Design
 
 The design of the camera body evolved from a simplified massing of functional elements to refinements based on ergonomics and scale, as I learned more about the strength of the material.
