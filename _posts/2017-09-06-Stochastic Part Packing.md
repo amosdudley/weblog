@@ -9,6 +9,9 @@ title: "Stochastic Part Packing for 3D Prints"
 
 If the idea of 3D printing hundreds of baseball-sized parts seems daunting, slow, and expensive, you’re probably making two big assumptions: that each part is printed sequentially, and that they are printed with supports. SLS (powder) printing solves the second issue by eliminating the first. 
 
+![Pavilion1](http://i.imgur.com/RVHoZpu.jpg)
+*Construction connectors printed on Fuse 1 beta hardware*
+
 A person can save time by filling the largest percent of each print layer with parts as possible. Why? Printing objects sequentially is the same as adding Z height to your print, and building on the Z axis of a 3D print is considerably slower than on the X and Y axes. By using a powder-based printer we can print without support material, and nest parts close together vertically and horizontally to give the best possible ratio of part to empty space per layer. This is called 3D part packing. 
 
 We took an unusual approach to 3D part packing for the Fuse Pavilion, which used 144 unique nylon joints 3D printable in a single build volume. Here’s how to pack hundreds of high-detail STL models very quickly with a physics sim and open source software.
