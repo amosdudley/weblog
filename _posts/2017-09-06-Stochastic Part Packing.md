@@ -62,9 +62,9 @@ Instead of simply falling into the volume, the parts are now compressed to the p
 
 - If your simulation speed is too slow, test out different decimation settings for your proxy objects. 
 
-- If you are working with a large number of objects and want to adjust packing settings for all parts at once, simply join all your proxy objects before changing settings, and *“separate by loose objects”* afterwards.
+- If you are working with a large number of objects and want to adjust packing settings for all parts at once, simply join all your proxy objects before changing settings, and *Separate by Loose Objects* afterwards.
 
-- If objects are clipping through during compression, slow down motion of the press by moving its last keyframe to the right on the timeline. You can also increase simulation Steps per Second and Solver Iterations in Rigid Body Settings.
+- If objects are clipping through the boundary during compression, slow down the motion of the press by moving its last keyframe to the right on the timeline. You can also increase simulation *Steps per Second* and *Solver Iterations* in Rigid Body Settings.
 
 ## Conclusion:
 
