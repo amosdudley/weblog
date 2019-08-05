@@ -3,6 +3,7 @@ tags: [self-Amos, glass art, kiln casting, fabrication, kilncasting, lost-resin,
 title: "Casting Glass from 3D Printed Molds"
 ---
 ![Hero](https://i.imgur.com/9wuDaCE.jpg)
+*Prime lens, Amos Dudley, 2018*
 
 I had a chance to dip my toes into the wonderful world of glass art, and learn a new way to make things from my friends <a href="http://yoav-reches.com/">Yoav</a>, <a href="http://www.angelathwaites.com/about_my_work.html">Angela</a>, and <a href="https://www.noamandmichal.com/">Noam</a> at the Pilchuck Glass School. We taught the class called “New Footprints in Glass”, using unusual digital techniques to make glass objects. 
 
@@ -47,12 +48,11 @@ A depth map is a great way to eliminate undercuts, because it cannot encode anyt
 In case you don’t know how to make a depth map, here’s a <a href="https://github.com/amosdudley/weblog/raw/gh-pages/Model_to_relief.blend">Blender project</a> that does this automatically - all you need is a 3D model, and this will convert it to a 3D printable slab with an embossed relief.
 
 
-Instructions will appear when you open it. Note, this only works with <a href="https://www.blender.org/download/releases/2-79/">Blender 2.79</a>. Should look like this:
+Instructions will appear when you open it. This file only works with <a href="https://www.blender.org/download/releases/2-79/">Blender 2.79</a>. Should look like this:
 
 ![Blenderproj](https://i.imgur.com/KvJcLSu.png)
 
-## Making 'Prime Slab'
-
+## Making a sculpted brick
 
 Here’s a few detail shots of the moldmaking and casting process. I wanted a very smooth surface, so I used a Form 2 (resin) printer. Any layer lines in the print end up transferring through to the glass, which makes polishing a lot more difficult.
 
@@ -64,10 +64,10 @@ To create the refractory mold surface, I poured plaster silica into a temporary 
 
 I added four walls around the plaster brick with a wrap of ceramic paper, to contain the molten glass during casting. A slab of billet glass was simply placed on top of the open mold, and allowed to melt onto it.
 
+![primelens2](https://i.imgur.com/Cedfvvp.jpg)
+*Prime lens, Amos Dudley, 2018*
 
-Prime slab, Amos Dudley, 2018
-
-Lost-resin glass casting
+## Lost-resin glass casting
 
 I suspect you might not be satisfied only making reliefs. With lost-resin casting, you have much more freedom in what you create - virtually any shape is possible. So what’s the catch? Lost-resin is a casting process that involves a plastic burnout stage. This can only be done with great kiln ventilation, like a big fume hood or by rolling your kiln outside. 
 
