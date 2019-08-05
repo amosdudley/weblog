@@ -56,13 +56,13 @@ Instructions will appear when you open it. This file only works with <a href="ht
 
 Here’s a few detail shots of the moldmaking and casting process. I wanted a very smooth surface, so I used a Form 2 (resin) printer. Any layer lines in the print end up transferring through to the glass, which makes polishing a lot more difficult.
 
-![moldbox](https://i.imgur.com/DXldx9I.png)
-
 To create the refractory mold surface, I poured plaster silica into a temporary mold box. The positive is absolutely glistening with silicone mold release.
 
-![aftermelting](https://i.imgur.com/eFnZljS.png)
+![moldbox](https://i.imgur.com/DXldx9I.png)
 
 I added four walls around the plaster brick with a wrap of ceramic paper, to contain the molten glass during casting. A slab of billet glass was simply placed on top of the open mold, and allowed to melt onto it.
+
+![aftermelting](https://i.imgur.com/eFnZljS.png)
 
 ## Lost-resin glass casting
 
