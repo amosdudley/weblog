@@ -19,7 +19,8 @@ If you’re a fine arts person, you can use basically any 3D printer to make gla
 
 I think the most useful thing I can talk about is a few ways to make forms, and how to turn them into molds. 
 
-![Prime slab](https://i.imgur.com/0yUj4rC.jpg)
+![primelens2](https://i.imgur.com/Cedfvvp.jpg)
+*Prime lens, Amos Dudley, 2018*
 
 ## 2.5D Reliefs
 
@@ -63,9 +64,6 @@ To create the refractory mold surface, I poured plaster silica into a temporary 
 ![aftermelting](https://i.imgur.com/eFnZljS.png)
 
 I added four walls around the plaster brick with a wrap of ceramic paper, to contain the molten glass during casting. A slab of billet glass was simply placed on top of the open mold, and allowed to melt onto it.
-
-![primelens2](https://i.imgur.com/Cedfvvp.jpg)
-*Prime lens, Amos Dudley, 2018*
 
 ## Lost-resin glass casting
 
