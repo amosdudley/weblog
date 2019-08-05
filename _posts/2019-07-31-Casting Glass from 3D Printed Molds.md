@@ -108,7 +108,6 @@ One of our students, Iole Alessandrini, used a combination of the three techniqu
 Then she 3D scanned it, extracted 2.5D projection of the surface, and placed this onto a massive solid volume. For the matching piece, she subtracted this volume from a similar shape. 
 
 ![iole1](https://i.imgur.com/femb8qc.png)
-
 *Iole Alessandrini, 2018. 3D scan of crumpled paper, turned into nesting three dimensional volumes.*
 
 
