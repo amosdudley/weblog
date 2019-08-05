@@ -23,7 +23,7 @@ I think the most useful thing I can talk about is a few ways to make forms, and 
 
 ## 2.5D Reliefs
 
-If you are planning to do some work at home, or in an open studio, reliefs let you to make casting forms without any “burnout”. Burnout is exactly what it sounds like - in some casting methods, you burn (or melt) the positive out of the mold. People who are running glass fusing kilns (in makerspaces, at home, or commercial settings) usually don’t have enough ventilation for plastic burnout. Reliefs are a great way to make glass forms without fumigating the building.
+If you are planning to do some work at home, or in an open studio, 2.5D reliefs let you to make casting forms without any “burnout”. Burnout is exactly what it sounds like - in some casting methods (eg. Lost-resin described below), you burn the positive out of the mold. People who are running glass fusing kilns (in makerspaces, at home, or commercial settings) usually don’t have enough ventilation for plastic burnout. Reliefs are a great way to make glass forms without fumigating the building.
 
 With some clever design design you can create a positive that can be pulled off of the plaster mold away from the positive without causing any damage. Let’s look at how this is done:
 
@@ -38,7 +38,7 @@ Once you have a model, the problem you need to solve is how to make a model with
 ![Undercuts](https://i.imgur.com/MeMsA4Z.png)
 *Source: <a href="https://www.instructables.com/lesson/Introduction-to-Mold-Making-Casting/">Instructables Tutorial</a> on moldmaking.*
 
-Most arbitrary 3D shapes are not designed no undercuts. However, **all** shapes can be turned into a relief, by digitally “projecting” the shape onto a surface. We need to make a “depth map”, which is an image that encodes depth. Pure white will be the highest spot in the relief, pure black will be the lowest, with shades of grey all the heights in between.
+Most arbitrary 3D shapes are not designed no undercuts. However, **all** shapes can be turned into a 2.5D relief, by digitally “projecting” the shape onto a surface. We need to make a “depth map”, which is an image that encodes depth. Pure white will be the highest spot in the relief, pure black will be the lowest, with shades of grey all the heights in between.
 
 ![Relief-Flow](https://i.imgur.com/oV6q0Nw.png)
 *Left to right: Original model, Depth Map, and 3D printable relief.*
