@@ -2,7 +2,7 @@
 tags: [self-Amos, glass art, kiln casting, fabrication, kilncasting, lost-resin, lost-wax]
 title: "Casting Glass from 3D Printed Molds"
 ---
-![Hero](https://i.imgur.com/214q06y.jpg)
+![Hero](https://i.imgur.com/9wuDaCE.jpg)
 
 I had a chance to dip my toes into the wonderful world of glass art, and learn a new way to make things from my friends <a href="http://yoav-reches.com/">Yoav</a>, <a href="http://www.angelathwaites.com/about_my_work.html">Angela</a>, and <a href="https://www.noamandmichal.com/">Noam</a> at the Pilchuck Glass School. We taught the class called “New Footprints in Glass”, using unusual digital techniques to make glass objects. 
 
