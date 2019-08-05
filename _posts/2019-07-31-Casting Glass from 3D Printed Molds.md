@@ -38,7 +38,7 @@ Once you have a model, the problem you need to solve is how to make a model with
 ![Undercuts](https://i.imgur.com/MeMsA4Z.png)
 *Source: <a href="https://www.instructables.com/lesson/Introduction-to-Mold-Making-Casting/">Instructables Tutorial</a> on moldmaking.*
 
-99% of shapes are not set up to have no undercuts. However, **all** shapes can be turned into a relief, by digitally “projecting” the shape onto a surface. We need to make a “depth map”, which is an image that encodes depth. Pure white will be the highest spot in the relief, pure black will be the lowest, with shades of grey all the heights in between.
+Most arbitrary 3D shapes are not designed no undercuts. However, **all** shapes can be turned into a relief, by digitally “projecting” the shape onto a surface. We need to make a “depth map”, which is an image that encodes depth. Pure white will be the highest spot in the relief, pure black will be the lowest, with shades of grey all the heights in between.
 
 ![Relief-Flow](https://i.imgur.com/oV6q0Nw.png)
 *Left to right: Original model, Depth Map, and 3D printable relief.*
