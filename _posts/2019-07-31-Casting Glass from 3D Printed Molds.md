@@ -17,7 +17,7 @@ How can you turn a digital model into glass? Kilncasting is best answer I've fou
 
 *Note:* *This isn’t going to be an exhaustive kilncasting tutorial. You can find very good instructions <a href="https://www.bullseyeglass.com/images/stories/bullseye/PDF/TipSheets/tipsheet_08.pdf">online</a>!*
 
-I think the most useful thing I can talk about is a few ways to make forms, and how to turn them into molds. 
+I think the most useful thing I can talk about is a few approaches to making forms, and how to turn them into molds. 
 
 ![Prime slab](https://i.imgur.com/PY1Bju3.jpg)
 
