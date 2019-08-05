@@ -23,7 +23,7 @@ I think the most useful thing I can talk about is a few ways to make forms, and 
 
 ## 2.5D Reliefs
 
-If you are planning to do some work at home, or in an open studio, 2.5D reliefs let you to make casting forms without any “burnout”. Burnout is exactly what it sounds like - in some casting methods (eg. Lost-resin described below), you burn the positive out of the mold. People who are running glass fusing kilns (in makerspaces, at home, or commercial settings) usually don’t have enough ventilation for plastic burnout. Reliefs are a great way to make glass forms without fumigating the building.
+If you are planning to do some work at home, or in an open studio, the concept of a 2.5D relief lets you to make casting forms without any “burnout”. Burnout is exactly what it sounds like - in some casting methods (eg. Lost-resin described below), you burn the positive out of the mold. People who are running glass fusing kilns (in makerspaces, at home, or commercial settings) usually don’t have enough ventilation for plastic burnout. Reliefs are a great way to make glass forms without fumigating the building.
 
 With some clever design design you can create a positive that can be pulled off of the plaster mold away from the positive without causing any damage. Let’s look at how this is done:
 
