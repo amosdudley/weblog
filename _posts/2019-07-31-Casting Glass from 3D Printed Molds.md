@@ -2,7 +2,7 @@
 tags: [self-Amos, glass art, kiln casting, fabrication, kilncasting, lost-resin, lost-wax]
 title: "Casting Glass from 3D Printed Molds"
 ---
-![Hero](https://i.imgur.com/0yUj4rC.jpg)
+![Hero](https://i.imgur.com/214q06y.jpg)
 
 I had a chance to dip my toes into the wonderful world of glass art, and learn a new way to make things from my friends <a href="http://yoav-reches.com/">Yoav</a>, <a href="http://www.angelathwaites.com/about_my_work.html">Angela</a>, and <a href="https://www.noamandmichal.com/">Noam</a> at the Pilchuck Glass School. We taught the class called “New Footprints in Glass”, using unusual digital techniques to make glass objects. 
 
@@ -18,7 +18,7 @@ If you’re a fine arts person, you can use basically any 3D printer to make gla
 
 I think the most useful thing I can talk about is a few ways to make forms, and how to turn them into molds. 
 
-![Prime slab](https://i.imgur.com/214q06y.jpg)
+![Prime slab](https://i.imgur.com/0yUj4rC.jpg)
 
 ## 2.5D Reliefs
 
@@ -34,6 +34,7 @@ You can use any method of making digital 3D models here. Our students at Pilchuc
 
 Once you have a model, the problem you need to solve is how to make a model with no undercuts, which will break when you go to remove the 3D printed positive:
 
+![Undercuts](https://i.imgur.com/MeMsA4Z.png)
 *Source: <a href="https://www.instructables.com/lesson/Introduction-to-Mold-Making-Casting/">Instructables Tutorial</a> on moldmaking.*
 
 99% of shapes are not set up to have no undercuts. However, **all** shapes can be turned into a relief, by digitally “projecting” the shape onto a surface. We need to make a “depth map”, which is an image that encodes depth. Pure white will be the highest spot in the relief, pure black will be the lowest, with shades of grey all the heights in between.
