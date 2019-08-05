@@ -18,6 +18,8 @@ If you’re a fine arts person, you can use basically any 3D printer to make gla
 
 I think the most useful thing I can talk about is a few ways to make forms, and how to turn them into molds. 
 
+![Prime slab](https://i.imgur.com/214q06y.jpg)
+
 ## 2.5D Reliefs
 
 If you are planning to do some work at home, or in an open studio, reliefs let you to make casting forms without any “burnout”. Burnout is exactly what it sounds like - in some casting methods, you burn (or melt) the positive out of the mold. People who are running glass fusing kilns (in makerspaces, at home, or commercial settings) usually don’t have enough ventilation for plastic burnout. Reliefs are a great way to make glass forms without fumigating the building.
