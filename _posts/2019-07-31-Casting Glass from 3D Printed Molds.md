@@ -14,7 +14,7 @@ If you’re a 3D printing person, and not a glass artist yet, this is something 
 
 If you’re a fine arts person, you can use basically any 3D printer to make glass art (along with a kiln, same as above). Again, makerspaces or university fab labs are your friend. You definitely don’t need digital skills to cast glass, but they open a lot of new doors in terms of form, texture, and precision. 
 
-**Note:** *This isn’t going to be a kilncasting tutorial - you can find very good instructions <a href="https://www.bullseyeglass.com/images/stories/bullseye/PDF/TipSheets/tipsheet_08.pdf">online</a>.*
+*Note:* *This isn’t going to be a kilncasting tutorial - you can find very good instructions <a href="https://www.bullseyeglass.com/images/stories/bullseye/PDF/TipSheets/tipsheet_08.pdf">online</a>.*
 
 I think the most useful thing I can talk about is a few ways to make forms, and how to turn them into molds. 
 
@@ -26,7 +26,7 @@ With some clever design design you can create a positive that can be pulled off 
 
 **Eliminating undercuts**
 
-Note: I’m assuming some level of digital fluency here, but you don’t need to be an advanced 3D modeler. You’ll need to know how import models into Blender, and navigate the basic interface. 
+*Note: I’m assuming some level of digital fluency here, but you don’t need to be an advanced 3D modeler. You’ll need to know how import models into Blender, and navigate the basic interface.* 
 
 You can use any method of making digital 3D models here. Our students at Pilchuck used 3D scanning, which is a great way to make 3D forms from found objects, nature, or even traditionally sculpted shapes. No expensive equipment required, you can use a camera and some <a href="https://www.3dbeginners.com/list-of-free-photogrammetry-software/">nifty software</a> to capture 3D models. 
 
