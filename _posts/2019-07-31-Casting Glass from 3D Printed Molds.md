@@ -11,7 +11,7 @@ Our class was only 8 people, so I wanted to share these ideas with a wider audie
 
 How can you turn a digital model into glass? Kilncasting is best answer I've found. When you kilncast glass, you make a <a href="https://en.wikipedia.org/wiki/Refractory">refractory</a> mold, place chunks of glass in the mold, and then heat it to about 1500°F, until the glass runs like honey and fills the void.
 
-- If you’re a 3D printing person, and not a glass artist yet, this is something that you can do with access to a glass fusing kiln. As around at your local makerspaces or glass studios. They also just aren’t that <a href="https://www.paragonweb.com/FireFly_Digital.cfm">expensive</a>. Heck, you can even fuse glass in a <a href="https://www.amazon.com/Large-Microwave-Kiln-Glass-Fusing/dp/B012EV9LES">microwave</a>. 
+- If you’re a 3D printing person, and not a glass artist yet, this is something that you can do with access to a glass fusing kiln. Ask around at your local makerspaces or glass studios. They also just aren’t that <a href="https://www.paragonweb.com/FireFly_Digital.cfm">expensive</a>. Heck, you can even fuse glass in a <a href="https://www.amazon.com/Large-Microwave-Kiln-Glass-Fusing/dp/B012EV9LES">microwave</a>. 
 
 - If you’re a fine arts person, you can use basically any 3D printer to make glass art (along with a kiln, same as above). Again, makerspaces or university fab labs are your friend. You definitely don’t need digital skills to cast glass, but they open a lot of new doors in terms of form, texture, and precision. 
 
@@ -31,7 +31,7 @@ With some clever design design you can create a positive that can be pulled off 
 
 *Note: I’m assuming some level of digital fluency here, but you don’t need to be an advanced 3D modeler. You’ll need to know how import models into Blender, and navigate the basic interface.* 
 
-You can use any method of making digital 3D models here. Our students at Pilchuck used 3D scanning, which is a great way to make 3D forms from found objects, nature, or even traditionally sculpted shapes. No expensive equipment required, you can use a camera and some <a href="https://www.3dbeginners.com/list-of-free-photogrammetry-software/">nifty software</a> to capture 3D models. 
+You can use any method of making digital 3D models. Our students at Pilchuck used 3D scanning, which is a great way to make 3D forms from found objects, nature, or even traditionally sculpted shapes. No expensive equipment required, you can use a camera and some <a href="https://www.3dbeginners.com/list-of-free-photogrammetry-software/">nifty software</a> to capture 3D models. There are countless other ways to make one, from <a href="https://pixologic.com/sculptris/">freeform 3D sculpting</a> to <a href="https://www.onshape.com/">precision solid modeling</a>. Whatever way you choose is valid.
 
 Once you have a model, the problem you need to solve is how to make a model with no undercuts. Undercuts will make it impossible to remove the 3D printed positive:
 
