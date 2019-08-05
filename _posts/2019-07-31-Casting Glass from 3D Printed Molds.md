@@ -66,7 +66,7 @@ I added four walls around the plaster brick with a wrap of ceramic paper, to con
 
 ## Lost-resin glass casting
 
-I suspect you might not be satisfied only making reliefs. With lost-resin casting, you have much more freedom in what you create - virtually any shape is possible. So what’s the catch? Lost-resin is a casting process that involves a plastic burnout stage. This can only be done with great kiln ventilation, like a big fume hood or by rolling your kiln outside. 
+If you're reading this, I suspect you might not be satisfied only making 2.5D reliefs. With lost-resin casting, you have much more freedom in what you create - virtually any shape is possible. So what’s the catch? Lost-resin is a casting process that involves a plastic burnout stage. This can only be done with great kiln ventilation, like a big fume hood or by rolling your kiln outside. 
 
 You’ll need a kiln that can reach ~750°C to <a href="https://media.formlabs.com/m/6b4018a61335afb9/original/-ENUS-P-Castable-Wax-Jewelry-Pattern-Burnout-Process.pdf">burn out the resin from the mold</a>. This can double as your glass fusing kiln, although the mold will need to fully cool before you can load it with glass.
 
