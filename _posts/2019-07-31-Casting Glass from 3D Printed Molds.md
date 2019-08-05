@@ -84,28 +84,29 @@ After burnout, soda-lime glass is placed into the feed cone and the molds are se
 
 The result: Glass Stanford bunnies, with some fun textures. More techno-kitsch than art, but I like them anyway.
 
-
 Negative Space Inversions
 
-A beautiful aspect of glass is that you can embed visible forms inside other shapes! This is really easy to do with digital design and kilncasting.
+A wonderful aspect of glass is that you can embed visible forms inside other shapes! This is really easy to do with digital design and kilncasting.
 
-Take two shapes and overlay them in CAD so that they partially overlap. There needs to be a large and robust connection from the inner shape to the outer shape.
-Subtract the inner object from the outer.
-3D print positive, use lost-resin investment casting as above.
-High polish the outside of the casting. The inside remains frosted and visible.
-(Optional): Fill the hollow inner void with some colored resin.
+- Take two shapes and overlay them in CAD so that they partially overlap. There needs to be a large and robust connection from the inner shape to the outer shape.
+- Subtract the inner object from the outer.
+- 3D print positive, use lost-resin investment casting as above.
+- High polish the outside of the casting. The inside remains frosted and visible.
+- (Optional): Fill the hollow inner void with some colored resin.
 
-
-
-Negative-space snake. Or negative space-snake? Amos Dudley, 2018
+![spacesnake](https://i.imgur.com/qVJ74Ls.png)
+*Negative-space snake. Or negative space-snake? Amos Dudley, 2018*
 
 One of our students, Iole Alessandrini, used a combination of the three techniques to make this piece, which I thought was pretty cool. She started (in classic architectural fashion) by crumpling a piece of paper.
 
-Then she 3D scanned it, extracted 2.5D projection of the surface, and pulled the edges downwards to make a solid volume. For the matching piece, she subtracted this volume from a similar shape. 
+Then she 3D scanned it, extracted 2.5D projection of the surface, and placed this onto a massive solid volume. For the matching piece, she subtracted this volume from a similar shape. 
 
-Iole Alessandrini, 2018. 3D scan of crumpled paper, turned into nesting three dimensional volumes.
+![iole1](https://i.imgur.com/LH7VPhH.png)
+
+*Iole Alessandrini, 2018. 3D scan of crumpled paper, turned into nesting three dimensional volumes.*
+
+![iole2](https://i.imgur.com/jLverhk.png)
 
 
-
-Let me know in the comments if you give this a shot! I’m happy to go into more detail about anything I’ve glossed over. 
+Let me know in the comments if you give this a shot! I’m happy to go into more detail about anything I’ve glossed over.  
 
