@@ -39,8 +39,8 @@ Once you have a model, the problem you need to solve is how to make a model with
 
 99% of shapes are not set up to have no undercuts. However, **all** shapes can be turned into a relief, by digitally “projecting” the shape onto a surface. We need to make a “depth map”, which is an image that encodes depth. Pure white will be the highest spot in the relief, pure black will be the lowest, with shades of grey all the heights in between.
 
-
-Left to right: Original model, Depth Map, and 3D printable relief.
+![Relief-Flow](https://i.imgur.com/oV6q0Nw.png)
+*Left to right: Original model, Depth Map, and 3D printable relief.*
 
 A depth map is a great way to eliminate undercuts, because it cannot encode anything that’s hidden from view from a given perspective. As it turns out, anything that is hidden is an undercut.
 
