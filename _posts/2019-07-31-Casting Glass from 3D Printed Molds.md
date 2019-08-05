@@ -33,7 +33,7 @@ With some clever design design you can create a positive that can be pulled off 
 
 You can use any method of making digital 3D models here. Our students at Pilchuck used 3D scanning, which is a great way to make 3D forms from found objects, nature, or even traditionally sculpted shapes. No expensive equipment required, you can use a camera and some <a href="https://www.3dbeginners.com/list-of-free-photogrammetry-software/">nifty software</a> to capture 3D models. 
 
-Once you have a model, the problem you need to solve is how to make a model with no undercuts, which will break when you go to remove the 3D printed positive:
+Once you have a model, the problem you need to solve is how to make a model with no undercuts. Undercuts will make it impossible to remove the 3D printed positive:
 
 ![Undercuts](https://i.imgur.com/MeMsA4Z.png)
 *Source: <a href="https://www.instructables.com/lesson/Introduction-to-Mold-Making-Casting/">Instructables Tutorial</a> on moldmaking.*
