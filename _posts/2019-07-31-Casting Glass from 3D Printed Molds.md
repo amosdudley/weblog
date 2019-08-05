@@ -44,20 +44,23 @@ Once you have a model, the problem you need to solve is how to make a model with
 
 A depth map is a great way to eliminate undercuts, because it cannot encode anything that’s hidden from view from a given perspective. As it turns out, anything that is hidden is an undercut.
 
-In case you don’t know how to make a depth map, here’s a Blender project that does this automatically - all you need is a 3D model, and this will convert it to a 3D printable slab with an embossed relief.
-
-Instructions will appear when you open it. Note, this only works with Blender 2.79. Should look like this:
+In case you don’t know how to make a depth map, here’s a <a href="https://github.com/amosdudley/weblog/raw/gh-pages/Model_to_relief.blend">Blender project</a> that does this automatically - all you need is a 3D model, and this will convert it to a 3D printable slab with an embossed relief.
 
 
+Instructions will appear when you open it. Note, this only works with <a href="https://www.blender.org/download/releases/2-79/">Blender 2.79</a>. Should look like this:
 
-Making the Prime Slab
+![Blenderproj](https://i.imgur.com/KvJcLSu.png)
+
+## Making 'Prime Slab'
 
 
 Here’s a few detail shots of the moldmaking and casting process. I wanted a very smooth surface, so I used a Form 2 (resin) printer. Any layer lines in the print end up transferring through to the glass, which makes polishing a lot more difficult.
 
+![moldbox](https://i.imgur.com/DXldx9I.png)
 
 To create the refractory mold surface, I poured plaster silica into a temporary mold box. The positive is absolutely glistening with silicone mold release.
 
+![aftermelting](https://i.imgur.com/eFnZljS.png)
 
 I added four walls around the plaster brick with a wrap of ceramic paper, to contain the molten glass during casting. A slab of billet glass was simply placed on top of the open mold, and allowed to melt onto it.
 
