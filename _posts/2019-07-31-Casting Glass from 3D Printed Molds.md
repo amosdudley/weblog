@@ -106,5 +106,5 @@ Then she 3D scanned it, extracted 2.5D projection of the surface, and placed thi
 *Iole Alessandrini, 2018. 3D scan of crumpled paper, turned into nesting three dimensional volumes.*
 
 
-Let me know in the comments if you give this a shot, or if you'd like more details on how to do any part of this!  
+Let me know in the comments if you give this a shot, or if you'd like more details on how to do any part of it!  
 
