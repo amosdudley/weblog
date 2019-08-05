@@ -68,18 +68,21 @@ I added four walls around the plaster brick with a wrap of ceramic paper, to con
 
 I suspect you might not be satisfied only making reliefs. With lost-resin casting, you have much more freedom in what you create - virtually any shape is possible. So what’s the catch? Lost-resin is a casting process that involves a plastic burnout stage. This can only be done with great kiln ventilation, like a big fume hood or by rolling your kiln outside. 
 
-You’ll need a kiln that can reach ~750°C to burn out the resin from the mold. This can double as your glass fusing kiln, although the mold will need to fully cool before you can load it with glass.
+You’ll need a kiln that can reach ~750°C to <a href="https://media.formlabs.com/m/6b4018a61335afb9/original/-ENUS-P-Castable-Wax-Jewelry-Pattern-Burnout-Process.pdf">burn out the resin from the mold</a>. This can double as your glass fusing kiln, although the mold will need to fully cool before you can load it with glass.
 
 Silica refractory molds are extremely fragile, so we needed to print the parts hollow with very thin (~0.7 mm) walls. Otherwise, the force of the expanding resin will break the mold as you burn off the positive. If you’re using FDM 3D printed positives (ie. PLA plastic), this is less important - but the less infill you can get away with the better. 
 
+![Sprue setup](https://i.imgur.com/8A59ZYY.png)
 
 Some modeling clay forms a “feed cone” that is scooped out before burning the pattern. We use string to create thin channels for air to escape — this helps prevent air from getting trapped by the molten glass as it flows through the mold.
 
+![Feedglass](https://i.imgur.com/dVZJMKZ.png)
 
 After burnout, soda-lime glass is placed into the feed cone and the molds are set into the kiln to be cast. Over the next three days, gravity and heat do the rest of the work. Make sure to place these molds in sand - they can break in casting, and the sand will protect the bottom of the kiln.
 
+![glassbun](https://i.imgur.com/dyap3tT.png)
 
-Some stanford bunnies. More techno-kitsch than art, but I like them anyway.
+The result: Glass Stanford bunnies, with some fun textures. More techno-kitsch than art, but I like them anyway.
 
 
 Negative Space Inversions
