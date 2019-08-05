@@ -19,8 +19,7 @@ If you’re a fine arts person, you can use basically any 3D printer to make gla
 
 I think the most useful thing I can talk about is a few ways to make forms, and how to turn them into molds. 
 
-![primelens2](https://i.imgur.com/Cedfvvp.jpg)
-*Prime lens, Amos Dudley, 2018*
+![Prime slab](https://i.imgur.com/PY1Bju3.jpg)
 
 ## 2.5D Reliefs
 
