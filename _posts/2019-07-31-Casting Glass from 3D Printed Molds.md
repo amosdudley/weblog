@@ -14,7 +14,7 @@ If you’re a 3D printing person, and not a glass artist yet, this is something 
 
 If you’re a fine arts person, you can use basically any 3D printer to make glass art (along with a kiln, same as above). Again, makerspaces or university fab labs are your friend. You definitely don’t need digital skills to cast glass, but they open a lot of new doors in terms of form, texture, and precision. 
 
-<h2 id="alerts">**Note:** *This isn’t going to be a kilncasting tutorial - you can find very good instructions <a href="https://www.bullseyeglass.com/images/stories/bullseye/PDF/TipSheets/tipsheet_08.pdf">online</a>.*</h2>
+**Note:** *This isn’t going to be a kilncasting tutorial - you can find very good instructions <a href="https://www.bullseyeglass.com/images/stories/bullseye/PDF/TipSheets/tipsheet_08.pdf">online</a>.*
 
 I think the most useful thing I can talk about is a few ways to make forms, and how to turn them into molds. 
 
@@ -24,7 +24,7 @@ If you are planning to do some work at home, or in an open studio, reliefs let y
 
 With some clever design design you can create a positive that can be pulled off of the plaster mold away from the positive without causing any damage. Let’s look at how this is done:
 
-# Eliminating undercuts from any 3D model
+**Eliminating undercuts**
 
 Note: I’m assuming some level of digital fluency here, but you don’t need to be an advanced 3D modeler. You’ll need to know how import models into Blender, and navigate the basic interface. 
 
