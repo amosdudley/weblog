@@ -11,9 +11,9 @@ Our class was only 8 people, so I wanted to get these techniques to a wider audi
 
 How can you turn a digital model into glass? Kilncasting is best answer I've found. When you kilncast glass, you make a <a href="https://en.wikipedia.org/wiki/Refractory">refractory</a> mold, place chunks of glass in the mold, and then heat it to about 1500°F, until the glass runs like honey and fills the void.
 
-If you’re a 3D printing person, and not a glass artist yet, this is something that you can do with access to a glass fusing kiln. As around at your local makerspaces or glass studios. They also just aren’t that <a href="https://www.paragonweb.com/FireFly_Digital.cfm">expensive</a>. Heck, you can even fuse glass in a <a href="https://www.amazon.com/Large-Microwave-Kiln-Glass-Fusing/dp/B012EV9LES">microwave</a>. 
+- If you’re a 3D printing person, and not a glass artist yet, this is something that you can do with access to a glass fusing kiln. As around at your local makerspaces or glass studios. They also just aren’t that <a href="https://www.paragonweb.com/FireFly_Digital.cfm">expensive</a>. Heck, you can even fuse glass in a <a href="https://www.amazon.com/Large-Microwave-Kiln-Glass-Fusing/dp/B012EV9LES">microwave</a>. 
 
-If you’re a fine arts person, you can use basically any 3D printer to make glass art (along with a kiln, same as above). Again, makerspaces or university fab labs are your friend. You definitely don’t need digital skills to cast glass, but they open a lot of new doors in terms of form, texture, and precision. 
+- If you’re a fine arts person, you can use basically any 3D printer to make glass art (along with a kiln, same as above). Again, makerspaces or university fab labs are your friend. You definitely don’t need digital skills to cast glass, but they open a lot of new doors in terms of form, texture, and precision. 
 
 *Note:* *This isn’t going to be a kilncasting tutorial - you can find very good instructions <a href="https://www.bullseyeglass.com/images/stories/bullseye/PDF/TipSheets/tipsheet_08.pdf">online</a>.*
 
