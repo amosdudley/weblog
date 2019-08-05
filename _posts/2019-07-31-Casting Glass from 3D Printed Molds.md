@@ -84,7 +84,7 @@ After burnout, soda-lime glass is placed into the feed cone and the molds are se
 
 The result: Glass Stanford bunnies, with some fun textures. More techno-kitsch than art, but I like them anyway.
 
-Negative Space Inversions
+## Negative Space Inversions
 
 A wonderful aspect of glass is that you can embed visible forms inside other shapes! This is really easy to do with digital design and kilncasting.
 
