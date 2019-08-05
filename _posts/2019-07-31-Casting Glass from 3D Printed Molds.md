@@ -7,7 +7,7 @@ title: "Casting Glass from 3D Printed Molds"
 
 I had a chance to dip my toes into the wonderful world of glass art, and learn a new way to make things from my friends <a href="http://yoav-reches.com/">Yoav</a>, <a href="http://www.angelathwaites.com/about_my_work.html">Angela</a>, and <a href="https://www.noamandmichal.com/">Noam</a> at the Pilchuck Glass School. We taught the class called “New Footprints in Glass”, using unusual digital techniques to make glass objects. 
 
-Our class was only 8 people, so I wanted to share these ideas with a wider audience! I can’t get over how satisfying glass is. It is surprisingly heavy and cool to the touch, and it’s a hard material which counterintuitively means that it’s easy to polish to a mirror finish. Unlike plastic, it will last **forever.** 
+Our class was only 8 people, so I wanted to share these ideas with a wider audience! I can’t get over how satisfying glass is. It is surprisingly heavy and cool to the touch, and it’s a hard material, which (counterintuitively) means that it’s easier to polish to a mirror finish. Unlike plastic, it will last **forever.** 
 
 How can you turn a digital model into glass? Kilncasting is best answer I've found. When you kilncast glass, you make a <a href="https://en.wikipedia.org/wiki/Refractory">refractory</a> mold, place chunks of glass in the mold, and then heat it to about 1500°F, until the glass runs like honey and fills the void.
 
