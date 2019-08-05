@@ -9,7 +9,7 @@ I had a chance to dip my toes into the wonderful world of glass art, and learn a
 
 Our class was only 8 people, so I wanted to get these techniques to a wider audience! I can’t get over how satisfying glass is. It is surprisingly heavy and cool to the touch, and it’s a hard material which counterintuitively means that it’s easy to polish to a mirror finish. Unlike plastic, it will last **forever.** 
 
-You’re probably aware of glass blowing - it is indeed exciting, unpredictable, and even a bit performative. I prefer to have more control over my art, and that drew me to *“kilncasting”*. In a way kilncasting is the opposite of glassblowing: slow, deliberate, and very precise. When you kilncast glass, you make a <a href="https://en.wikipedia.org/wiki/Refractory">refractory</a> mold, place chunks of glass in the mold, and then heat it to about 1500°F, until the glass runs like honey and fills the shape.
+How can you turn a digital model into glass? Kilncasting is best answer I've found. When you kilncast glass, you make a <a href="https://en.wikipedia.org/wiki/Refractory">refractory</a> mold, place chunks of glass in the mold, and then heat it to about 1500°F, until the glass runs like honey and fills the void.
 
 If you’re a 3D printing person, and not a glass artist yet, this is something that you can do with access to a glass fusing kiln. As around at your local makerspaces or glass studios. They also just aren’t that <a href="https://www.paragonweb.com/FireFly_Digital.cfm">expensive</a>. Heck, you can even fuse glass in a <a href="https://www.amazon.com/Large-Microwave-Kiln-Glass-Fusing/dp/B012EV9LES">microwave</a>. 
 
