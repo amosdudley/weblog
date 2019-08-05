@@ -108,5 +108,5 @@ Then she 3D scanned it, extracted 2.5D projection of the surface, and placed thi
 ![iole2](https://i.imgur.com/jLverhk.png)
 
 
-Let me know in the comments if you give this a shot! I’m happy to go into more detail about anything I’ve glossed over.  
+Let me know in the comments if you give this a shot, or if you'd like more details on how to do any part of this!  
 
