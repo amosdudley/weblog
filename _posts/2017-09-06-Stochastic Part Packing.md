@@ -1,6 +1,6 @@
 ---
 tags: [self-Amos, computation, fabrication, architecture, packing, SLS]
-title: "Stochastic Part Packing for 3D Prints"
+title: "Stochastic Part Packing SLS 3D Prints"
 ---
 ## (Or how to make lots of different stuff, all at once) 
 
