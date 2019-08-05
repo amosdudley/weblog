@@ -45,7 +45,7 @@ Most arbitrary 3D shapes are not designed no undercuts. However, **all** shapes 
 
 A depth map is a great way to eliminate undercuts, because it cannot encode anything that’s hidden from view from a given perspective. As it turns out, anything that is hidden is an undercut.
 
-In case you don’t know how to make a depth map, here’s a <a href="https://github.com/amosdudley/weblog/raw/gh-pages/Model_to_relief.blend">Blender project</a> that does this automatically - all you need is a 3D model, and this will convert it to a 3D printable slab with an embossed relief.
+In case you don’t know how to make a depth map, I've made a <a href="https://github.com/amosdudley/weblog/raw/gh-pages/Model_to_relief.blend">Blender project</a> that does this for you automatically - all you need is a 3D model, and this will convert it to a 3D printable slab with an embossed relief.
 
 
 Instructions will appear when you open it. This file only works with <a href="https://www.blender.org/download/releases/2-79/">Blender 2.79</a>. Should look like this:
