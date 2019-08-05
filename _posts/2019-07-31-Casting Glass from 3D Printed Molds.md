@@ -35,7 +35,7 @@ You can use any method of making digital 3D models. Our students at Pilchuck use
 
 Once you have a model, the problem you need to solve is how to make a model with no undercuts. Undercuts will make it impossible to remove the 3D printed positive:
 
-![Undercuts](https://i.imgur.com/MeMsA4Z.png)
+![Undercuts](https://i.imgur.com/R1ZNlec.png)
 *Source: <a href="https://www.instructables.com/lesson/Introduction-to-Mold-Making-Casting/">Instructables Tutorial</a> on moldmaking.*
 
 Most arbitrary 3D shapes are not designed no undercuts. However, **all** shapes can be turned into a 2.5D relief, by digitally “projecting” the shape onto a surface. We need to make a “depth map”, which is an image that encodes depth. Pure white will be the highest spot in the relief, pure black will be the lowest, with shades of grey all the heights in between.
