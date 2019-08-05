@@ -76,13 +76,19 @@ Silica refractory molds are extremely fragile, so we needed to print the parts h
 
 Some modeling clay forms a “feed cone” that is scooped out before burning the pattern. We use string to create thin channels for air to escape — this helps prevent air from getting trapped by the molten glass as it flows through the mold.
 
-![Feedglass](https://i.imgur.com/dVZJMKZ.png)
+The moldmaking step is fun: we mix plaster, 300 mesh silica, and water. It's slathered onto the part with a spatula in thick layers, with fiberglass wrapping each layer. You can also use a <a href="https://www.ajstools.com/Certus_Investment_Powder_Prestige_OPTIMA_50_lb_p/14-001-3s.htm">pre-mixed investment powder</a>, just add water.
+
+![Slather](https://i.imgur.com/Kna34yk.jpg)
 
 After burnout, soda-lime glass is placed into the feed cone and the molds are set into the kiln to be cast. Over the next three days, gravity and heat do the rest of the work. Make sure to place these molds in sand - they can break in casting, and the sand will protect the bottom of the kiln.
 
-![glassbun](https://i.imgur.com/dyap3tT.png)
+![Feedglass](https://i.imgur.com/dVZJMKZ.png)
 
 The result: Glass Stanford bunnies, with some fun textures. More techno-kitsch than art, but I like them anyway.
+
+![glassbun](https://i.imgur.com/dyap3tT.png)
+
+
 
 ## Negative Space Inversions
 
