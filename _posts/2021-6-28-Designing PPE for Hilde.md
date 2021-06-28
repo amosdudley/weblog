@@ -36,7 +36,7 @@ Looks rough, but enough of her head shape is there to guess at the rest.
 
 ## Design, prototype, print
 
-I'm going to come clean here. My design is clearly derivative of a piece of <a href="https://i.redd.it/o3qucseyjsz01.jpg">existing equipment</a> I've seen on police dogs. Using this concept, I jumped directly into CAD, without spending too many cycles wondering if it would succeed in attatching to Hilde's head.
+I'm going to come clean here. My design is clearly derivative of a piece of <a href="https://i.redd.it/o3qucseyjsz01.jpg">existing equipment</a> I've seen on police dogs. Using this concept, I jumped directly into CAD, without spending too many cycles wondering if it would succeed in attaching to Hilde's head.
 
 The steps to model an object like this were:
 
