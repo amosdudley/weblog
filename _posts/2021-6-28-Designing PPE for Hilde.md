@@ -29,7 +29,7 @@ The design I built replaces the soft bag with a thin helmet shell that conforms 
 
 ## 3D Scanning a dog
 
-Dogs are difficult to measure. They're all curves, they are fuzzy instead of solid, and they move around a lot. My "good" 3D scanner (an HP SLS 3) wasn't going to work. The scan speed is way too slow, and it doesn't do well with hair or fur. The only other option available to me is the iPhone Truedepth sensor, which as it turns out is a fairly acceptable scanner when you use the right app. I used ‎Scandy Pro. If you want to scan your animal, it works pretty well. For the higher resolution scan, I needed to use the front camera, which makes seeing what you're doing rather challenging. Scandy sells a little periscope mirror to flip the scanner so you can point it forwards, but I was impatient and got a good enough result without it.
+Dogs are hard to measure. They're all curves, they are fuzzy instead of solid, and they move around a lot. My "good" 3D scanner (an HP SLS 3) wasn't going to work. The scan speed is way too slow, and it doesn't do well with hair or fur. The only other option available to me is the iPhone Truedepth sensor, which as it turns out is a fairly acceptable scanner when you use the right app. I used ‎Scandy Pro. If you want to scan your animal, it works pretty well. For the higher resolution scan, I needed to use the front camera, which makes seeing what you're doing rather challenging. Scandy sells a little periscope mirror to flip the scanner so you can point it forwards, but I was impatient and got a good enough result without it.
 
 ![Hildescan](https://i.imgur.com/CAvqBTm.jpg)
 Looks rough, but enough of her head shape is there to guess at the rest.
