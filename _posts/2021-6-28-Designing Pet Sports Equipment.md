@@ -45,24 +45,24 @@ The final part:
 
 I decided to make custom lenses rather than design around off-the-shelf lenses. I was curious to try a new lensmaking technique, where the outer (in this case 3D-curved) rim of the lens is fixed in place while heating a sheet of plastic, and the center part (which needs to be clear) is allowed to droop freely into a hole in the mold form. Vacuum forming (where the lens is sucked against an explicitly defined shape) might have worked as well - but in my experience you get the best lens clarity when nothing touches the hot plastic during forming. A previous attempt at vacuum forming a motorcycle helmet face shield resulted in a hazed surface an a lot of layer lines where I needed clarity. It might be possible to flame-polish the haze away, I'll have to try that route in a future build.
 
-Here's one of the lens molds in the vacuum former. There's no temperature control, so I just heated the acrylic as far away from the element as possible: 
+Here's one of the lens molds in the vacuum former. There's no temperature control, so I just heated the acrylic as far away from the element as possible:
 
 ![lensform](https://i.imgur.com/veXK5KU.png)
 
 
 After adding straps, here's a view of the inside:
 ![lensform](https://i.imgur.com/wXOftjT.jpg)
-Left: design prototype 1, printed in Draft resin. Right: Finished piece, with EVA foam padding and resin inserts to hold replaceable lenses and ear protectors in place.
+**Left:** design prototype 1, printed in Draft resin. **Right:** Finished piece, with EVA foam padding and resin inserts to hold replaceable lenses and ear protectors in place.
 
 ## How did it go?
 
-*The good:* Quality-wise, I'm very happy with the build. Since I wanted to get the outer shell to the printer ASAP, before I had finished designing the retaining inserts for the eye and ear protectors, I didn't have many screw holes defined in the shell. To get things moving a little faster, I hand-drilled the holes for heat-set inserts using the retaining inserts as a drill guide - which worked like a charm, if a little labor intensive. Printing or molding the insert holes would be the way to go if this were manufactured at any scale.
+**The good:** Quality-wise, I'm very happy with the build. Since I wanted to get the outer shell to the printer ASAP, before I had finished designing the retaining inserts for the eye and ear protectors, I didn't have many screw holes defined in the shell. To get things moving a little faster, I hand-drilled the holes for heat-set inserts using the retaining inserts as a drill guide - which worked like a charm, if a little labor intensive. Printing or molding the insert holes would be the way to go if this were manufactured at any scale.
 
-*The bad:* In testing, my ignorance of the vagaries of dog psychology became clear. It seems like other dogs don't react very well to this headgear, either. Larger dogs in particular find it threatening, which makes me cautious of using it at the dog park for Hilde's safety. So instead, it will be reserved for hikes and other activities.
+**The bad:** In testing, my ignorance of the vagaries of dog psychology became clear. It seems like other dogs don't react very well to this headgear, either. Larger dogs in particular find it threatening, which makes me cautious of using it at the dog park for Hilde's safety. So instead, it will be reserved for hikes and other activities.
 
 Several people have told me that dogs are very sensitive to silhouettes. I had hoped that the silhouette of this helmet would be closer to "dog" than the OutFox, but evidently that's not the whole picture. I might try making a v2 where both ears are in a single "bonnet", perhaps that would be different enough to be unusual rather than threatening. Other questions for the field of dog psychology: Does color play a role? Maybe painting with dog-like colors would help.  
 
-*The silver lining:* The helmet seems comfortable on Hilde, and it works very well as a mounting point for a GoPro. It's very fun to see the world from her perspective. Who knew dogs move so fast?
+**The silver lining:** The helmet seems comfortable on Hilde, and it works very well as a mounting point for a GoPro. It's very fun to see the world from her perspective. Who knew dogs move so fast?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lNzlvwt1wMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
