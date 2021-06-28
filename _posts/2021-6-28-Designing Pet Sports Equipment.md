@@ -3,6 +3,7 @@ tags: [self-Amos, product design, 3D printing, dog, helmet, mask, foxtails, OutF
 title: "(Over)designing PPE for a dog"
 ---
 ![Hero](https://i.imgur.com/2jNfUL5.jpg)
+*Hildegard in her new gear*
 
 While much of the country was staying put during COVID, I moved to the SF Bay Area and adopted Hildegard. The Bay Area is a paradise for dogs and lovers of the outdoors, with incredible hikes a stone's throw away and one of the largest off-leash dog parks in the state of California. What I didn't know is that a silent danger lurks in the grass [cue dramatic music] the foxtail weed!
 
