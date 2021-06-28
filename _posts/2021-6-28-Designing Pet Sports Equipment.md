@@ -1,5 +1,5 @@
 ---
-tags: [self-Amos, product design, 3D printing, dog, helmet, mask, foxtails]
+tags: [self-Amos, product design, 3D printing, dog, helmet, mask, foxtails, OutFox, product-design]
 title: "(Over)designing sports equipment for a dog"
 ---
 ![Hero](https://i.imgur.com/2jNfUL5.jpg)
