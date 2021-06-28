@@ -45,7 +45,8 @@ The final part:
 
 I decided to make custom lenses rather than design around off-the-shelf lenses. I was curious to try a new lensmaking technique, where the outer (in this case 3D-curved) rim of the lens is fixed in place while heating a sheet of plastic, and the center part (which needs to be clear) is allowed to droop freely into a hole in the mold form. Vacuum forming (where the lens is sucked against an explicitly defined shape) might have worked as well - but in my experience you get the best lens clarity when nothing touches the hot plastic during forming. A previous attempt at vacuum forming a motorcycle helmet face shield resulted in a hazed surface an a lot of layer lines where I needed clarity. It might be possible to flame-polish the haze away, I'll have to try that route in a future build.
 
-Here's one of the lens molds in the vacuum former. There's no temperature control, so I just heated the acrylic as far away from the element as possible. 
+Here's one of the lens molds in the vacuum former. There's no temperature control, so I just heated the acrylic as far away from the element as possible: 
+
 ![lensform](https://i.imgur.com/veXK5KU.png)
 
 
