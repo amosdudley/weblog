@@ -17,7 +17,7 @@ Our first response was get an "OutFox Field Guard", which is a $50 vinyl coated 
 - it triggers aggression in certain dogs, who bite at it and rip it off her head. This is a little dangerous for Hilde, and quickly puts purpose-defeating holes in a rather expensive mesh bag.
 - some uninformed humans mistake the Outfox for a muzzle, and assume your dog is dangerous.
 - it's much harder to dispense treats quickly, which is an important part of conditioning your dog to associate treat with action. Since her mouth is blocked, they have to go in the side. Awkward.
-- she can't catch anything in her mouth, although she can carry a ball (again, puncturing the expensive bag when she chomps down)
+- she can't catch anything in her mouth, although she can carry a ball (again, puncturing the expensive bag when she chomps down).
 
 If you set aside the lovely universality and simplicity of a bag, I thought it might be possible to make foxtail protection that fits better, is more durable, and doesn't block her mouth for treats and fetch.
 
