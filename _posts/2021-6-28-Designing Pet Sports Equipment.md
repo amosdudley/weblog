@@ -59,7 +59,7 @@ Left: design prototype 1, printed in Draft resin. Right: Finished piece, with EV
 
 Several people have told me that dogs are very sensitive to silhouettes. I had hoped that the silhouette of this helmet would be closer to "dog" than the OutFox, but evidently that's not the whole picture. I might try making a v2 where both ears are in a single "bonnet", perhaps that would be different enough to be unusual rather than threatening. Other questions for the field of dog psychology: Does color play a role? Maybe painting with dog-like colors would help.  
 
-*The silver lining:* The helmet seems comfortable on Hilde, and it works very well as a mounting point for a GoPro camera.
+*The silver lining:* The helmet seems comfortable on Hilde, and it works very well as a mounting point for a GoPro. It's very fun to see the world from her perspective. Who knew dogs move so fast?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lNzlvwt1wMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
