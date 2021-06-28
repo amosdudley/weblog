@@ -19,7 +19,7 @@ Our first response was get an "OutFox Field Guard", which is a $50 vinyl coated 
 - it's much harder to dispense treats quickly, which is an important part of conditioning your dog to associate treat with action. Since her mouth is blocked, they have to go in the side. Awkward.
 - she can't catch anything in her mouth, although she can carry a ball (again, puncturing the expensive bag when she chomps down)
 
-I couldn't help but think that the mouth isn't a major foxtail entry point. If you set aside the lovely universality and simplicity of a bag, it might be possible to make foxtail protection that fits better, is more durable, and doesn't block her mouth for treats and fetch.
+If you set aside the lovely universality and simplicity of a bag, I thought it might be possible to make foxtail protection that fits better, is more durable, and doesn't block her mouth for treats and fetch.
 
 ## Ideas
 
