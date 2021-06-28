@@ -9,6 +9,9 @@ While much of the country was staying put during COVID, I moved to the SF Bay Ar
 
 Foxtails are a pernicious seed that find their way into dog's ears, nose, eyes, and skin. They have unidirectional barbs that cause them to quickly migrate into the dog, causing infection and even death. The majority of dog owners seem to think that the risk is low enough to chance it. We got unlucky - Hilde got a foxtail in her ear two weeks into the season, which meant a trip to the emergency vet and negative 400 dollars.
 
+![Hero](https://i.imgur.com/0bquK9P.jpg)
+*The Outfox, looking like a cross between a dog and a piece of lawn furniture*
+
 Our first response was get an "OutFox Field Guard", which is a $50 vinyl coated mesh bag that covers and protects the dog's head. I noticed the Outfox had a few problems:
 
 - it triggers aggression in certain dogs, who bite at it and rip it off her head. This is dangerous for Hilde, and quickly makes a rather expensive mesh bag mostly useless.
