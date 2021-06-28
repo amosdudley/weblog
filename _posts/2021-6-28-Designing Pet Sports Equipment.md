@@ -5,7 +5,7 @@ title: "(Over)designing PPE for a dog"
 ![Hero](https://i.imgur.com/2jNfUL5.jpg)
 *Hildegard in her new gear*
 
-While much of the country was staying put during COVID, I moved to the SF Bay Area and adopted Hildegard. The Bay Area is a paradise for dogs and lovers of the outdoors, with incredible hikes a stone's throw away and one of the largest off-leash dog parks in the state of California. What I didn't know is that a silent danger lurks in the grass [cue dramatic music] the foxtail weed!
+While much of the country was staying put during COVID, I moved to the SF Bay Area and adopted Hildegard. The Bay Area is a paradise for dogs, but what I didn't know is that a silent danger lurks in the grass *[cue dramatic music]* the foxtail weed!
 
 Foxtails are a pernicious seed that find their way into dog's ears, nose, eyes, and skin. They have unidirectional barbs that cause them to quickly migrate into the dog, causing infection and even death. The majority of dog owners seem to think that the risk is low enough to chance it. We got unlucky - Hilde got a foxtail in her ear two weeks into the season, which meant a trip to the emergency vet and negative 400 dollars.
 
