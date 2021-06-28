@@ -14,12 +14,12 @@ Foxtails are a pernicious seed that find their way into dog's ears, nose, eyes, 
 
 Our first response was get an "OutFox Field Guard", which is a $50 vinyl coated mesh bag that covers and protects the dog's head. I noticed the Outfox had a few problems:
 
-- it triggers aggression in certain dogs, who bite at it and rip it off her head. This is dangerous for Hilde, and quickly makes a rather expensive mesh bag mostly useless.
+- it triggers aggression in certain dogs, who bite at it and rip it off her head. This is a little dangerous for Hilde, and quickly puts purpose-defeating holes in a rather expensive mesh bag.
 - some uninformed humans mistake the Outfox for a muzzle, and assume your dog is dangerous.
 - it's much harder to dispense treats quickly, which is an important part of conditioning your dog to associate treat with action. Since her mouth is blocked, they have to go in the side. Awkward.
 - she can't catch anything in her mouth, although she can carry a ball (again, puncturing the expensive bag when she chomps down)
 
-I couldn't help but think, the mouth isn't a major foxtail entry point. If you set aside the lovely universality and simplicity of a bag, it might be possible to make foxtail protection that fits better, is more durable, and doesn't block her mouth for treats and fetch.
+I couldn't help but think that the mouth isn't a major foxtail entry point. If you set aside the lovely universality and simplicity of a bag, it might be possible to make foxtail protection that fits better, is more durable, and doesn't block her mouth for treats and fetch.
 
 ## Ideas
 
