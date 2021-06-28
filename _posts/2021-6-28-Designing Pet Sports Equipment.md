@@ -52,7 +52,7 @@ Here's one of the lens molds in the vacuum former. There's no temperature contro
 
 After adding straps, here's a view of the inside:
 ![lensform](https://i.imgur.com/wXOftjT.jpg)
-**Left:** design prototype 1, printed in Draft resin. **Right:** Finished piece, with EVA foam padding and resin inserts to hold replaceable lenses and ear protectors in place.
+**Left:** Design & fit prototype 1, printed in Draft resin. **Right:** Finished piece, with EVA foam padding and resin inserts to hold replaceable lenses and ear protectors in place.
 
 ## How did it go?
 
