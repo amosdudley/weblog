@@ -3,7 +3,7 @@ tags: [self-Amos, product-design, metal casting, jewelry, 3D design]
 title: "Motions in Jewelry"
 ---
 <div class="sketchfab-embed-wrapper"> <iframe title="High Arabesque" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="960" height="540" src="https://sketchfab.com/models/f3a685f63954411eb524851a9b57c428/embed?ui_theme=dark"> </iframe> </div>
-*"High Arabesque"*
+*"High Arabesque"* (click in for more!)
 
 I'm terribly delinquent in updating this blog, but I do still make stuff. I took some time to upload some of the jewelry I've designed, for commercial purposes and otherwise. Many of these have been cast & finished, but I don't have great photos of that- and I'd rather not duplicate imagery between here and what shows up in any marketing material. There isn't much to say about these pieces, so I'll let the forms talk.
 
