@@ -1,6 +1,6 @@
 ---
 tags: [self-Amos, product-design, 3D printing, dog, helmet, mask, foxtails, OutFox]
-title: "(Over)designing PPE for a dog"
+title: "Puppy PPE"
 ---
 ![Hero](https://i.imgur.com/2jNfUL5.jpg)
 *Hildegard in her new gear*
