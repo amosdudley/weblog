@@ -53,7 +53,7 @@ As I've described, the main difference here is that the tool in sinker ECM moves
 
 ## Electroplating Resin
 
-Depending on the plate thickness, it can have a relatively negligible impact on the overall dimensions of the part.
+Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part.
 
 <a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/WGS2In8.png" height="700" title="source: imgur.com"/></a>
 
