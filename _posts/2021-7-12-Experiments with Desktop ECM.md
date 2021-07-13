@@ -4,7 +4,7 @@ title: "Machining Steel with 3D Printed Plastic"
 ---
 ## Experiments in Sinker ECM
 ![ecmCAD](https://i.imgur.com/asmgMvv.png)
-*Schematic of ECM testbed*
+*Schematic of ECM testbed - first machining results at the end of the page*
 
 **ECM Wiki**
 
@@ -21,7 +21,7 @@ ECM has some very interesting advantages compared to "mechanical" machining, whi
 - No heat affected zone, and no heat-treating equipment required for annealing / rehardening
 - Theoretically high accuracy (though, we'll get to that later)
 
-ECM is scarcely seen outside of industry, and is a technology that seems to have gotten stuck in the 1950s. Part of the reason for that is, making ECM tools has always been challenging and expensive. The ECM tools themselves have to be conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
+ECM is scarcely seen outside of industry, and truly is a technology that seems to have gotten stuck in the 1950s. Part of the reason for that is, making ECM tools has always been challenging and expensive. The ECM tools themselves have to be conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
 
 <a href="https://i.imgur.com/RgAL5J7.png"><img src="https://i.imgur.com/RgAL5J7.png" height="300" title="source: imgur.com"/></a>
 
@@ -47,9 +47,14 @@ If these folks can cut helical groves in (hopefully) barrel-grade steel, with wh
 
 The rifling process uses a static tool and controls the groove depth by running constant current for a set amount of time, which gradually widens the grooves as steel closest to the helical wire erodes away. As a starting point, I used the same electrolyte concentration and current they do. I'll put the specifics into a wiki page soon after this post goes up.
 
+<iframe class="imgur-embed" height="720" frameborder="0" src="https://i.imgur.com/n45vC1d.gifv#embed"></iframe>
+
 As I've described, the main difference here is that the tool in sinker ECM moves towards the workpiece. In this case, it moves at a constant rate. Theoretically, it should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
 
 <a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/EghvbqZ.png" height="700" title="source: imgur.com"/></a>
+
+## Designing a Tool
+<a href="https://i.imgur.com/PuXgKHd.jpg"><img src="https://i.imgur.com/PuXgKHd.jpg" height="400" title="source: imgur.com"/></a>
 
 ## Electroplating Resin
 
@@ -57,7 +62,6 @@ Depending on the plate thickness, plating can have a relatively minimal impact o
 
 <a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/WGS2In8.png" height="700" title="source: imgur.com"/></a>
 
-## Designing a Tool
-<a href="https://i.imgur.com/PuXgKHd.jpg"><img src="https://i.imgur.com/PuXgKHd.jpg" height="400" title="source: imgur.com"/></a>
+## Results
 
 <a href="https://i.imgur.com/3vxXUz3.jpg"><img src="https://i.imgur.com/3vxXUz3.jpg" height="700" title="source: imgur.com"/></a>
