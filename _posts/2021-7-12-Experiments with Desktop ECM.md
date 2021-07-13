@@ -58,6 +58,6 @@ Depending on the plate thickness, it can have a relatively negligible impact on 
 <a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/WGS2In8.png" height="700" title="source: imgur.com"/></a>
 
 ## Designing a Tool
-<a href="https://i.imgur.com/IvPbf30.jpg"><img src="https://i.imgur.com/IvPbf30.jpg" height="797" title="source: imgur.com"/></a>
+<a href="https://i.imgur.com/IvPbf30.jpg"><img src="https://i.imgur.com/IvPbf30.jpg" height="400" title="source: imgur.com"/></a>
 
 <a href="https://i.imgur.com/3vxXUz3.jpg"><img src="https://i.imgur.com/3vxXUz3.jpg" height="700" title="source: imgur.com"/></a>
