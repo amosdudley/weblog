@@ -1,6 +1,6 @@
 ---
 tags: [self-Amos, reprap, ECM, electrochemistry, electroplating]
-title: "Desktop Ram-ECM Experiments"
+title: "Experiments in Sinker ECM"
 ---
 
 ![ecmCAD](https://i.imgur.com/auGRB7k.png)
