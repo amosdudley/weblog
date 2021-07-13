@@ -41,7 +41,13 @@ I embarked on this foolhardy journey with only the foggiest understanding of che
 
 ## Build Overview
 
-Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work. If these folks can cut helical groves in (hopefully) barrel-grade steel with what amounts to a wire wrapped plastic churro and some salt water, maybe it's not that big a stretch to expect some kind of results with a metallized 3D print that's attached to the Z stage of a RepRap.    
+Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work.
+
+If these folks can cut helical groves in (hopefully) barrel-grade steel, with what amounts to a wire wrapped plastic churro and some salt water, it didn't seem unreasonable to expect something in the realm of "results" with a copper-coated 3D print.
+
+The rifling process uses a static tool and controls the groove depth by running constant current for a set amount of time, which gradually widens the grooves as steel closest to the helical wire erodes away. As a starting point, I used the same electrolyte concentration and current they do. I'll put the specifics into a wiki page soon after this post goes up.
+
+As I've described, the main difference here is that the tool in sinker ECM moves towards the workpiece. In this case, it moves at a constant rate. Theoretically, it should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
 
 <a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/EghvbqZ.png" height="700" title="source: imgur.com"/></a>
 
@@ -52,4 +58,6 @@ Depending on the plate thickness, it can have a relatively negligible impact on 
 <a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/WGS2In8.png" height="700" title="source: imgur.com"/></a>
 
 ## Designing a Tool
+<a href="https://i.imgur.com/IvPbf30.jpg"><img src="https://i.imgur.com/IvPbf30.jpg" height="797" title="source: imgur.com"/></a>
+
 <a href="https://i.imgur.com/3vxXUz3.jpg"><img src="https://i.imgur.com/3vxXUz3.jpg" height="700" title="source: imgur.com"/></a>
