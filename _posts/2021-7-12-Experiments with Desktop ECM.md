@@ -60,10 +60,9 @@ I used a Caswell copper plating kit, but I've found that a quality silver conduc
 
 Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part.
 
-<a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/WGS2In8.png" height="700" title="source: imgur.com"/></a>
+<a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/WGS2In8.png" height="350" title="source: imgur.com"/></a>
 
-<a href="https://i.imgur.com/z7eNbk9.jpg"><img src="https://i.imgur.com/z7eNbk9.jpg" height="700" title="source: imgur.com"/></a>
-
+<a href="https://i.imgur.com/z7eNbk9.jpg"><img src="https://i.imgur.com/z7eNbk9.jpg" height="350" title="source: imgur.com"/></a>
 
 ## Results
 
