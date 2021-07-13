@@ -19,7 +19,7 @@ ECM has some very interesting advantages compared to "mechanical" machining, whi
 - No heat affected zone, and no heat-treating equipment required for annealing / rehardening.
 - Theoretically high accuracy (though, we'll get to that later).
 
-ECM is uncommon outside of industrial settings (think machining turbine blades), so don't feel bad if you haven't heard of it. It's a technology that seems to have gotten stuck in the 1950s. Part of the reason for that is, making ECM tools has always been challenging and expensive. ECM tools are themselves conventionally machined out of copper or other soft conductors, and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
+ECM is practically nonexistent outside of industrial settings, so don't feel bad if you haven't heard of it. It's a technology that seems to have gotten stuck in the 1950s. Part of the reason for that is, making ECM tools has always been challenging and expensive. The ECM tools themselves have to be conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
 
 <a href="https://i.imgur.com/RgAL5J7.png"><img src="https://i.imgur.com/RgAL5J7.png" height="300" title="source: imgur.com"/></a>
 
