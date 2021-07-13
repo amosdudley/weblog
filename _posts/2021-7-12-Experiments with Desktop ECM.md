@@ -22,19 +22,26 @@ ECM has some very interesting advantages compared to "mechanical" machining, whi
 - No heat affected zone, and no heat-treating equipment required for annealing / rehardening.
 - Theoretically high accuracy (though, we'll get to that later).
 
-If you haven't heard of ECM, you're in the majority. ECM is uncommon outside of industrial settings (think machining turbine blades), because making the ECM tool is challenging and expensive. ECM tools are themselves conventionally machined out of copper or other soft conductors, and work kind of like sinker EDM, in that they have the inverse shape to the part you want to cut.
-
-The big difference is that an ECM tool needs to inject pressurized electrolytic fluid, right at the interface between the tool and the workpiece. This fluid is the chemical transfer medium that provokes metal ions to come off the metal stock, and also flushes the unwanted particles (which quickly form a thick sludge) away at high speed.
-
-Copper also happens to be one of the easiest metals to plate over plastic parts (with one of the least toxic plating baths).
-
-I imagined a process where a positive 3D printed "tool" is plated with a very thin layer of metal. Then, these tools could be used in a way similar to Ram E**D**M, to machine complex net shapes with resin-print-like tolerances, in tough metals like pre-hardened steels.
+ECM is uncommon outside of industrial settings (think machining turbine blades), so don't feel bad if you haven't heard of it. It's a technology that seems to have gotten stuck in the 1950s. Part of the reason for that is, making ECM tools has always been challenging and expensive. ECM tools are themselves conventionally machined out of copper or other soft conductors, and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
 
 <a href="https://i.imgur.com/RgAL5J7.png"><img src="https://i.imgur.com/RgAL5J7.png" height="300" title="source: imgur.com"/></a>
 
 *Diagram by Okuwobi et al.*
 
+The big difference is that an ECM tool needs to inject pressurized electrolytic fluid, right at the interface between the tool and the workpiece. This fluid is the chemical transfer medium that provokes metal ions to come off the metal stock, and also flushes the unwanted particles (which quickly form a thick sludge) away at high speed. From what I can tell, controlling the fluid behavior of the electrolyte through tool design (where the conduits go, etc.) is the main reason ECM is expensive, and there's some degree of trial and error involved.
+
+![massing](https://i.imgur.com/fkzxFaT.gif)
+
+So an ECM tool is not really trivial to make. Or hasn't been. It's rather easy to make arbitrary 3D shapes with a 3D printer, and copper happens to be the easiest metal that one can use to plate over plastic parts (with one of the least toxic plating baths). Combine those two things, and maybe you can take most of the expense out of the tool making step.  
+
+I imagined a process where a positive 3D printed "tool" is plated with a very thin layer of metal. Then, these tools could be used in a way similar to sinker EDM, to machine complex net shapes with resin-print-like tolerances, in tough metals like pre-hardened steels.
+
+I embarked on this foolhardy journey with only the foggiest understanding of chemistry and electricity. Armed with an SLA printer, a sacrificial RepRap, and some plating chemicals (with a general idea of how to use them), I forged into the unknown.  
+
 ## Build Overview
+
+Ok, not totally unknown. 
+
 <a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/EghvbqZ.png" height="700" title="source: imgur.com"/></a>
 
 ## Electroplating Resin
