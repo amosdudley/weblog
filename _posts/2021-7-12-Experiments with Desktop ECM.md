@@ -41,7 +41,7 @@ I embarked on this foolhardy journey with only the foggiest understanding of che
 
 ## Build Overview
 
-<a href="https://i.imgur.com/n45vC1d.gif"><img style='border:100px' src="https://i.imgur.com/n45vC1d.gif" height="480" width="270" align=right title="Ram ECM with Suzanne"/></a>
+<img style='border:100px' src="https://i.imgur.com/n45vC1d.gif" height="480" width="270" align=right title="Ram ECM with Suzanne"/>
 
 Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work.
 
