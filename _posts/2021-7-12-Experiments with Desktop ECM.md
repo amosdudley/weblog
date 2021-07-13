@@ -58,6 +58,6 @@ Depending on the plate thickness, plating can have a relatively minimal impact o
 <a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/WGS2In8.png" height="700" title="source: imgur.com"/></a>
 
 ## Designing a Tool
-<a href="https://i.imgur.com/PuXgKHd.jpg"><img src="https://i.imgur.com/PuXgKHd.jpg" height="400" title="source:
+<a href="https://i.imgur.com/PuXgKHd.jpg"><img src="https://i.imgur.com/PuXgKHd.jpg" height="400" title="source: imgur.com"/></a>
 
 <a href="https://i.imgur.com/3vxXUz3.jpg"><img src="https://i.imgur.com/3vxXUz3.jpg" height="700" title="source: imgur.com"/></a>
