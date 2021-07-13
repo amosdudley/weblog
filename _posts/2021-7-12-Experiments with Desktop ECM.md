@@ -4,6 +4,7 @@ title: "Cutting Steel with (Electroplated) Plastic"
 ---
 ## Experiments in Sinker ECM
 ![ecmCAD](https://i.imgur.com/asmgMvv.png)
+
 *Schematic of ECM testbed - first machining results at the end of the page*
 
 **Writing in progress... divert your eyes.**
@@ -31,7 +32,7 @@ From what I can tell, controlling the fluid behavior of the electrolyte through 
 
 ![plants-crave](https://i.imgur.com/fkzxFaT.gif)
 
-So an ECM tool is not really trivial to make. Or hasn't been. But, it's rather easy to make arbitrary 3D shapes with a 3D printer, and copper happens to be the easiest metal that one can use to plate over plastic parts (with one of the least toxic plating baths). Combine those two things, I thought, and maybe you can take most of the expense out of the tool making step. Maybe, just maybe, it would be possible to electrochemically machine steel stuff in the enforced quietude of my apartment.
+So an ECM tool is not really trivial to make. Or hasn't been. But, it's rather easy to make arbitrary 3D shapes with a 3D printer, and copper happens to be one of the easiest metals to plate over plastic parts (plating baths for copper rank only moderately toxic, compared to, say plating chromium). Combine those two things, I thought, and maybe you can take most of the expense out of the tool making step. Maybe, just maybe, it would be possible to electrochemically machine steel stuff in the enforced quietude of my apartment.
 
 I imagined a process where a positive 3D printed "tool" is plated with a very thin layer of metal. Then, these tools could be used in a way similar to sinker EDM, to machine complex net shapes with resin-print-like tolerances, in tough metals like pre-hardened steels. If you wanted to cut a profile, maybe it would be possible to print a "cookie cutter" geometry, where the inside of the cutting tool is insulative and the edge is conductive.
 
@@ -50,6 +51,8 @@ The rifling process uses a static tool and controls the groove depth by running 
 In sinker ECM, the tool moves towards the workpiece - I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
 
 <img src="https://i.imgur.com/EghvbqZ.png" style="margin:20px;height:900px;"/>
+
+A little about the mechanics of this machine.
 
 ## Designing the ECM Tools
 
