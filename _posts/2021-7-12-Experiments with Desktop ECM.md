@@ -7,7 +7,8 @@ title: "Experiments in Sinker ECM"
 *"Schematic of ECM testbed"*
 
 Test
-![Concept](https://i.imgur.com/xGIBi0c.png)
+![Concept](https://i.imgur.com/UhelJdu.png)
+*"Diagram by Okuwobi et al."*
 
 ![Build-Overview](https://i.imgur.com/EghvbqZ.jpg)
 
