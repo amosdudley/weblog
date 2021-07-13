@@ -41,7 +41,7 @@ I embarked on this foolhardy journey with only the foggiest understanding of che
 
 ## Build Overview
 
-<img src="https://i.imgur.com/n45vC1d.gif" style="margin:20px;height:480px;width:270px;" align="right" title="Ram ECM with Suzanne">
+<img src="https://i.imgur.com/n45vC1d.gif" style="margin:20px;height:320px;width:180px;" align="right" title="Ram ECM with Suzanne">
 
 Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work.
 
@@ -51,7 +51,7 @@ The rifling process uses a static tool and controls the groove depth by running 
 
 In sinker ECM, the tool moves towards the workpiece - I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
 
-<img src="https://i.imgur.com/EghvbqZ.png" height="700" title="source: imgur.com"/>
+<img src="https://i.imgur.com/EghvbqZ.png" height="900" title="source: imgur.com"/>
 
 ## Designing the ECM Tools
 
@@ -63,9 +63,9 @@ I used a Caswell copper plating kit, but I've found that a quality silver conduc
 
 Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part.
 
-<img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;height:480px;width:270px;" align="right" title="Spray-coated Suzanne">
+<img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;height:512px;width:512px;" align="right" title="Spray-coated Suzanne">
 
-<img src="https://i.imgur.com/WGS2In8.png" height="350" title="Spray-coated knife-outline"/>
+<img src="https://i.imgur.com/WGS2In8.png" style="margin:20px;height:512px;width:900px;" align="right" title="Spray-coated Suzanne">
 
 ## Results
 
