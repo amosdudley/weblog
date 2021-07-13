@@ -6,7 +6,7 @@ title: "Machining Steel with 3D Printed Plastic"
 ![ecmCAD](https://i.imgur.com/asmgMvv.png)
 *Schematic of ECM testbed - first machining results at the end of the page*
 
-**ECM Wiki**
+**Writing in progress... divert your eyes.**
 
 ## From Gun Barrels to Cookie Cutters
 
@@ -47,16 +47,18 @@ If these folks can cut helical groves in (hopefully) barrel-grade steel, with wh
 
 The rifling process uses a static tool and controls the groove depth by running constant current for a set amount of time, which gradually widens the grooves as steel closest to the helical wire erodes away. As a starting point, I used the same electrolyte concentration and current they do. I'll put the specifics into a wiki page soon after this post goes up.
 
-<a href="https://i.imgur.com/n45vC1d.gif"><img src="https://i.imgur.com/n45vC1d.gif" width="720" title="source: imgur.com"/></a>
+<a href="https://i.imgur.com/n45vC1d.gif"><img src="https://i.imgur.com/n45vC1d.gif" height="1280" width="720" title="source: imgur.com"/></a>
 
 In sinker ECM, the tool moves towards the workpiece. I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
 
 <a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/EghvbqZ.png" height="700" title="source: imgur.com"/></a>
 
 ## Designing a Tool
-<a href="https://i.imgur.com/FtDlYBG.png"><img src="https://i.imgur.com/FtDlYBG.png" height="400" title="source: imgur.com"/></a>
+<a href="https://i.imgur.com/FtDlYBG.png"><img src="https://i.imgur.com/FtDlYBG.png" height="700" title="source: imgur.com"/></a>
 
 ## Electroplating Resin
+
+I used a Caswell copper plating kit, but I've found that a quality silver conductive spray is the key to electroplating plastic parts with any success. Caswell sells a servicable one. The best quality spray I've found is from Pino Technology (a Swiss company with operations in China). If you attempt to plate a plastic part and it fails, most likely you don't have a great conductive layer, and need a better spray coat.
 
 Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part.
 
