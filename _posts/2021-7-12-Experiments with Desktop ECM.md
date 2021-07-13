@@ -35,7 +35,7 @@ From what I can tell, controlling the fluid behavior of the electrolyte through 
 
 So an ECM tool is not really trivial to make. Or hasn't been. But, it's rather easy to make arbitrary 3D shapes with a 3D printer, and copper happens to be the easiest metal that one can use to plate over plastic parts (with one of the least toxic plating baths). Combine those two things, I thought, and maybe you can take most of the expense out of the tool making step. Maybe, just maybe, it would be possible to electrochemically machine steel stuff in the enforced quietude of my apartment.
 
-I imagined a process where a positive 3D printed "tool" is plated with a very thin layer of metal. Then, these tools could be used in a way similar to sinker EDM, to machine complex net shapes with resin-print-like tolerances, in tough metals like pre-hardened steels.
+I imagined a process where a positive 3D printed "tool" is plated with a very thin layer of metal. Then, these tools could be used in a way similar to sinker EDM, to machine complex net shapes with resin-print-like tolerances, in tough metals like pre-hardened steels. If you wanted to cut a profile, maybe it would be possible to print a "cookie cutter" geometry, where the inside of the cutting tool is insulative and the edge is conductive.
 
 I embarked on this foolhardy journey with only the foggiest understanding of chemistry and electricity. Armed with an SLA printer, a sacrificial RepRap, some plating chemicals, and a general idea of how to use them, I forged into the unknown.  
 
@@ -45,11 +45,9 @@ Ok, not totally unknown. In the past year or two, intrepid souls on the internet
 
 If these folks can cut helical groves in (hopefully) barrel-grade steel, with what amounts to a wire wrapped plastic churro and some salt water, it didn't seem unreasonable to expect something in the realm of "results" with a copper-coated 3D print.
 
-The rifling process uses a static tool and controls the groove depth by running constant current for a set amount of time, which gradually widens the grooves as steel closest to the helical wire erodes away. As a starting point, I used the same electrolyte concentration and current they do. I'll put the specifics into a wiki page soon after this post goes up.
+The rifling process uses a static tool and controls the groove depth by running constant current for a set amount of time, which gradually widens the grooves as steel closest to the helical wire erodes away. As a starting point, I used the same electrolyte concentration and amperage they do. I'll put the specifics into a wiki page soon after this post goes up.
 
-<a href="https://i.imgur.com/n45vC1d.gif"><img src="https://i.imgur.com/n45vC1d.gif" height="640" width="360" title="source: imgur.com"/></a>
-
-In sinker ECM, the tool moves towards the workpiece. I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
+<a href="https://i.imgur.com/n45vC1d.gif"><img src="https://i.imgur.com/n45vC1d.gif" height="640" width="360" align=right border=10px title="Ram ECM with Suzanne"/></a><p>In sinker ECM, the tool moves towards the workpiece. I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.</p>
 
 <a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/EghvbqZ.png" height="700" title="source: imgur.com"/></a>
 
