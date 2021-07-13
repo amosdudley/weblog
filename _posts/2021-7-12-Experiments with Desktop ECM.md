@@ -49,7 +49,7 @@ The rifling process uses a static tool and controls the groove depth by running 
 
 In sinker ECM, the tool moves towards the workpiece - I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
 
-<img src="https://i.imgur.com/EghvbqZ.png" style="margin:20px;height:900px;width:180px;"/>
+<img src="https://i.imgur.com/EghvbqZ.png" style="margin:20px;height:900px;"/>
 
 ## Designing the ECM Tools
 
