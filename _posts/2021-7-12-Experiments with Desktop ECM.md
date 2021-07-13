@@ -1,6 +1,6 @@
 ---
 tags: [self-Amos, reprap, ECM, electrochemistry, electroplating]
-title: "Machining Steel with 3D Printed Plastic"
+title: "Cutting Steel with (Electroplated) Plastic"
 ---
 ## Experiments in Sinker ECM
 ![ecmCAD](https://i.imgur.com/asmgMvv.png)
@@ -68,6 +68,6 @@ Depending on the plate thickness, plating can have a relatively minimal impact o
 
 ## Results
 
-Right now the ECM is still controlled by an open loop, and requires a lot of babysitting. This bottlenecks experiments I'd like to run to start to relate surface area, cutting speed, and current density. 
+Right now the ECM is still controlled by an open loop, and requires a lot of babysitting. This bottlenecks experiments I'd like to run to start to relate surface area, cutting speed, and current density.
 
 <img src="https://i.imgur.com/3vxXUz3.jpg" height="700" title="source: imgur.com"/>
