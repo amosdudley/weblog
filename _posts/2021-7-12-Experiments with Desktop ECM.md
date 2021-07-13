@@ -9,7 +9,7 @@ title: "Cutting Steel with (Electroplated) Plastic"
 
 **Writing in progress... divert your eyes.**
 
-If you're interested in ECM and want to get involved with an open-source project to design a useful desktop-scale machine, send me a message on Discord. 
+If you're interested in ECM and want to get involved with an open-source project to design a useful desktop-scale machine, send me a message on Discord.
 
 ## Cookie Cutters and Rubber Stamps
 
