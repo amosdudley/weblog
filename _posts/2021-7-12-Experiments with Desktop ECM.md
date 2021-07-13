@@ -8,7 +8,7 @@ title: "Machining Steel with 3D Printed Plastic"
 
 **Writing in progress... divert your eyes.**
 
-## From Gun Barrels to Cookie Cutters
+## Cookie Cutters and Rubber Stamps
 
 Electrochemical machining (ECM) is an unusual way of machining hard metals. If you're familiar with electroplating, it's like that, but in reverse. Instead of adding metal to the surface of an object with electricity, you remove metal in a controlled way. ECM is used to cut tiny parts very accurately (micromachining), bore holes with very large aspect ratios, and create complex surfaces in hard metals.
 
