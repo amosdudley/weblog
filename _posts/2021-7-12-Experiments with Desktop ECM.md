@@ -4,6 +4,10 @@ title: "Experiments in Sinker ECM"
 ---
 
 ![ecmCAD](https://i.imgur.com/auGRB7k.png)
-*"Test"*
+*"Schematic of ECM testbed"*
+
 Test
+
 ![Build-Overview](https://i.imgur.com/C3Dd8ft.jpg)
+
+![Build-Overview](https://i.imgur.com/4Ac6Gg4.jpg)
