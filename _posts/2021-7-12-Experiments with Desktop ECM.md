@@ -41,9 +41,9 @@ I embarked on this foolhardy journey with only the foggiest understanding of che
 
 ## Build Overview
 
-Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work.
+<a href="https://i.imgur.com/n45vC1d.gif"><img src="https://i.imgur.com/n45vC1d.gif" height="320" width="180" align=right border=100px title="Ram ECM with Suzanne"/></a>
 
-<a href="https://i.imgur.com/n45vC1d.gif"><img src="https://i.imgur.com/n45vC1d.gif" height="640" width="360" align=right border=100px title="Ram ECM with Suzanne"/></a>
+Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work.
 
 If these folks can cut helical groves in (hopefully) barrel-grade steel, with what amounts to a wire wrapped plastic churro and some salt water, it didn't seem unreasonable to expect something in the realm of "results" with a copper-coated 3D print.
 
