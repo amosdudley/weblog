@@ -57,7 +57,7 @@ In sinker ECM, the tool moves towards the workpiece - I've had it moving at a co
 
 ## Electroplating Resin
 
-<img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;height:512px;width:512px;" align="right" title="Spray-coated Suzanne Cutter"/>
+<img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;height:450px" align="right" title="Spray-coated Suzanne Cutter"/>
 
 I used a Caswell copper plating kit, but I've found that a quality silver conductive spray is the key to electroplating plastic parts with any success. Caswell sells a servicable one. The best quality spray I've found is from Pino Technology (a Swiss company with operations in China). If you attempt to plate a plastic part and it fails, most likely you don't have a great conductive layer, and need a better spray coat.
 
@@ -65,7 +65,7 @@ Depending on the plate thickness, plating can have a relatively minimal impact o
 
 <img src="https://i.imgur.com/WGS2In8.png" style="margin:20px;height:512px;width:900px;" align="right" title="Spray-coated Knife Cutter"/>
 
-The inner surface of the cookie cutter needs to be unplated in order to avoid ECM erosion from the middle of the part. 
+The inner surface of the cookie cutter needs to be unplated in order to avoid ECM erosion from the middle of the part.
 
 ## Results
 
