@@ -15,13 +15,13 @@ Electrochemical machining (ECM) is an unusual way of machining hard metals. If y
 ECM has some very interesting advantages compared to "mechanical" machining, which I think would be underexploited in the maker world, if it were possible to ECM metals at a small scale:
 
 - Zero tool wear. The tool doesn't come in contact with the workpiece, it simply advances towards the metal while chemically eroding material away at the same rate.
-- No tool marks or burrs.
-- No large forces on the workpiece or the tool, which makes it possible to machine very delicate structures.
-- ECM is virtually silent (the only noise is produced by a few pumps).
-- No heat affected zone, and no heat-treating equipment required for annealing / rehardening.
-- Theoretically high accuracy (though, we'll get to that later).
+- No tool marks or burrs
+- No large forces on the workpiece or the tool, which makes it possible to machine very delicate structures
+- ECM is virtually silent (the only noise is produced by a few pumps)
+- No heat affected zone, and no heat-treating equipment required for annealing / rehardening
+- Theoretically high accuracy (though, we'll get to that later)
 
-ECM is scarcely seen outside of industrial settings, so don't feel bad if you haven't heard of it. It's a technology that seems to have gotten stuck in the 1950s. Part of the reason for that is, making ECM tools has always been challenging and expensive. The ECM tools themselves have to be conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
+ECM is scarcely seen outside of industry, and is a technology that seems to have gotten stuck in the 1950s. Part of the reason for that is, making ECM tools has always been challenging and expensive. The ECM tools themselves have to be conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
 
 <a href="https://i.imgur.com/RgAL5J7.png"><img src="https://i.imgur.com/RgAL5J7.png" height="300" title="source: imgur.com"/></a>
 
