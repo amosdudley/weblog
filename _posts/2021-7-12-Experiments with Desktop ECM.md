@@ -11,7 +11,7 @@ title: "Experiments in Sinker ECM"
 
 The design of the camera body evolved from a simplified massing of functional elements to refinements based on ergonomics and scale, as I learned more about the strength of the material.
 
-<a href="https://imgur.com/RgAL5J7"><img src="https://i.imgur.com/RgAL5J7.png" width="1787" height="900" title="source: imgur.com"/></a>
+<a href="https://imgur.com/RgAL5J7"><img src="https://i.imgur.com/RgAL5J7.png" width="1024" title="source: imgur.com"/></a>
 
 ![Concept](https://i.imgur.com/RgAL5J7.png)
 *"Diagram by Okuwobi et al."*
