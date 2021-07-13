@@ -45,7 +45,7 @@ Ok, not totally unknown. In the past year or two, intrepid souls on the internet
 
 If these folks can cut helical groves in (hopefully) barrel-grade steel, with what amounts to a wire wrapped plastic churro and some salt water, it didn't seem unreasonable to expect something in the realm of "results" with a copper-coated 3D print.
 
-The rifling process uses a static tool and controls the groove depth by running constant current for a set amount of time, which gradually widens the grooves as steel closest to the helical wire erodes away. As a starting point, I used the same electrolyte concentration and amperage they do. I'll put the specifics into a wiki page soon after this post goes up.
+The rifling process uses a static tool and controls the groove depth by running constant current for a set amount of time, which gradually widens the grooves as the steel closest to the helical wire erodes away. As a starting point, I used the same electrolyte concentration and amperage they do. I'll put the specifics into a wiki page soon after this post goes up.
 
 In sinker ECM, the tool moves towards the workpiece - I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
 
