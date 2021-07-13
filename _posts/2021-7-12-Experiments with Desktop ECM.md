@@ -6,8 +6,14 @@ title: "Experiments in Sinker ECM"
 ![ecmCAD](https://i.imgur.com/auGRB7k.png)
 *"Schematic of ECM testbed"*
 
-Test
-![Concept](https://i.imgur.com/UhelJdu.png)
+
+## The Design
+
+The design of the camera body evolved from a simplified massing of functional elements to refinements based on ergonomics and scale, as I learned more about the strength of the material.
+
+<div class="small-image"><iframe width="640" height="480" src="https://i.imgur.com/RgAL5J7.png" frameborder="0"></iframe>
+
+![Concept](https://i.imgur.com/RgAL5J7.png)
 *"Diagram by Okuwobi et al."*
 
 ![Build-Overview](https://i.imgur.com/EghvbqZ.jpg)
