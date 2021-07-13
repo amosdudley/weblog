@@ -6,6 +6,8 @@ title: "Machining Steel with 3D Printed Plastic"
 ![ecmCAD](https://i.imgur.com/asmgMvv.png)
 *Schematic of ECM testbed*
 
+**ECM Wiki**
+
 ## From Gun Barrels to Cookie Cutters
 
 Electrochemical machining (ECM) is an unusual way of machining hard metals. If you're familiar with electroplating, it's like that, but in reverse. Instead of adding metal to the surface of an object with electricity, you remove metal in a controlled way. ECM is used to cut tiny parts very accurately (micromachining), bore holes with very large aspect ratios, and create complex surfaces in hard metals.
@@ -19,7 +21,7 @@ ECM has some very interesting advantages compared to "mechanical" machining, whi
 - No heat affected zone, and no heat-treating equipment required for annealing / rehardening.
 - Theoretically high accuracy (though, we'll get to that later).
 
-ECM is practically nonexistent outside of industrial settings, so don't feel bad if you haven't heard of it. It's a technology that seems to have gotten stuck in the 1950s. Part of the reason for that is, making ECM tools has always been challenging and expensive. The ECM tools themselves have to be conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
+ECM is scarcely seen outside of industrial settings, so don't feel bad if you haven't heard of it. It's a technology that seems to have gotten stuck in the 1950s. Part of the reason for that is, making ECM tools has always been challenging and expensive. The ECM tools themselves have to be conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
 
 <a href="https://i.imgur.com/RgAL5J7.png"><img src="https://i.imgur.com/RgAL5J7.png" height="300" title="source: imgur.com"/></a>
 
@@ -39,7 +41,7 @@ I embarked on this foolhardy journey with only the foggiest understanding of che
 
 ## Build Overview
 
-Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work. If these folks can stick what amounts to a 3D printed
+Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work. If these folks can cut helical groves in (hopefully) barrel-grade steel with what amounts to a wire wrapped plastic churro and some salt water, maybe it's not that big a stretch to expect some kind of results with a metallized 3D print that's attached to the Z stage of a RepRap.    
 
 <a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/EghvbqZ.png" height="700" title="source: imgur.com"/></a>
 
