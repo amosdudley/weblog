@@ -23,7 +23,7 @@ ECM has some very interesting advantages compared to "mechanical" machining, whi
 
 ECM is scarcely seen outside of industry, and truly is a technology that seems to have gotten stuck in the 1950s. Part of the reason for that is, making ECM tools has always been challenging and expensive. The ECM tools themselves have to be conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
 
-<a href="https://i.imgur.com/RgAL5J7.png"><img src="https://i.imgur.com/RgAL5J7.png" height="300" title="source: imgur.com"/></a>
+<img src="https://i.imgur.com/RgAL5J7.png" height="300" title="source: imgur.com"/>
 
 *Diagram by Okuwobi et al.*
 
@@ -51,11 +51,11 @@ The rifling process uses a static tool and controls the groove depth by running 
 
 In sinker ECM, the tool moves towards the workpiece - I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
 
-<a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/EghvbqZ.png" height="700" title="source: imgur.com"/></a>
+<img src="https://i.imgur.com/EghvbqZ.png" height="700" title="source: imgur.com"/>
 
 ## Designing the ECM Tools
 
-<a href="https://i.imgur.com/FtDlYBG.png"><img src="https://i.imgur.com/FtDlYBG.png" height="700" title="source: imgur.com"/></a>
+<img src="https://i.imgur.com/FtDlYBG.png" height="700" title="source: imgur.com"/>
 
 ## Electroplating Resin
 
@@ -63,10 +63,10 @@ I used a Caswell copper plating kit, but I've found that a quality silver conduc
 
 Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part.
 
-<a href="https://i.imgur.com/z7eNbk9.jpg"><img src="https://i.imgur.com/z7eNbk9.jpg" height="350" title="Spray-coated Suzanne"/></a>
+<img src="https://i.imgur.com/z7eNbk9.jpg" height="350" title="Spray-coated Suzanne"/>
 
-<a href="https://i.imgur.com/WGS2In8.png"><img src="https://i.imgur.com/WGS2In8.png" height="350" title="Spray-coated knife-outline"/></a>
+<img src="https://i.imgur.com/WGS2In8.png" height="350" title="Spray-coated knife-outline"/>
 
 ## Results
 
-<a href="https://i.imgur.com/3vxXUz3.jpg"><img src="https://i.imgur.com/3vxXUz3.jpg" height="700" title="source: imgur.com"/></a>
+<img src="https://i.imgur.com/3vxXUz3.jpg" height="700" title="source: imgur.com"/>
