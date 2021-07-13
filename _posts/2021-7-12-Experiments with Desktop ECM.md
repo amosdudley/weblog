@@ -23,9 +23,7 @@ ECM has some very interesting advantages compared to "mechanical" machining, whi
 
 ECM is scarcely seen outside of industry, and truly is a technology that seems to have gotten stuck in the 1950s. Part of the reason for that is, making ECM tools has always been challenging and expensive. The ECM tools themselves have to be conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
 
-<img src="https://i.imgur.com/RgAL5J7.png" height="300" title="source: imgur.com"/>
-
-*Diagram by Okuwobi et al.*
+<img src="https://i.imgur.com/RgAL5J7.png" height="300" title="source: Okuwobi et al."/>
 
 The big difference is that an ECM tool needs to inject pressurized electrolytic fluid, right at the interface between the tool and the workpiece. The electrolyte is the chemical transfer medium that provokes metal ions to cleave off the metal stock, and also flushes the unwanted particles (which quickly form a thick sludge) away at high speed.
 
@@ -41,7 +39,7 @@ I embarked on this foolhardy journey with only the foggiest understanding of che
 
 ## Build Overview
 
-<img src="https://i.imgur.com/n45vC1d.gif" style="margin:20px;height:320px;width:180px;" align="right" title="Ram ECM with Suzanne">
+<img src="https://i.imgur.com/n45vC1d.gif" style="margin:20px;height:320px;width:180px;" align="right" title="Ram ECM with Suzanne"/>
 
 Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work.
 
@@ -51,7 +49,7 @@ The rifling process uses a static tool and controls the groove depth by running 
 
 In sinker ECM, the tool moves towards the workpiece - I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
 
-<img src="https://i.imgur.com/EghvbqZ.png" height="900" title="source: imgur.com"/>
+<img src="https://i.imgur.com/EghvbqZ.png" style="margin:20px;height:900px;width:180px;"/>
 
 ## Designing the ECM Tools
 
