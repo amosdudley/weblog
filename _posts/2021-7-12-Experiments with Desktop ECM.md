@@ -30,7 +30,7 @@ ECM is scarcely seen outside of its niche manufacturing uses, and truly is a tec
 
 <img src="https://i.imgur.com/RgAL5J7.png" title="source: Okuwobi et al." style="margin:20px;height:80%;width:80%;">
 
-The big difference is that an ECM tool needs to inject pressurized electrolytic fluid directly at the interface between the tool and the workpiece. The electrolyte is the chemical transfer medium that provokes metal ions to cleave off the metal stock, and also flushes the unwanted particles (which quickly form a thick sludge) away at high speed.
+A big difference between EDM tooling and ECM, is that the ECM tool needs to inject pressurized electrolytic fluid directly at the interface between the tool and the workpiece. The electrolyte is the chemical transfer medium that provokes metal ions to cleave off the metal stock, and also flushes the unwanted particles (which quickly form a thick sludge) away at high speed.
 
 From what I can tell, controlling the fluid behavior of the electrolyte through tool design (where the conduits go, etc.) is the main reason ECM is expensive, because there's an unavoidable amount of trial and error involved.
 
