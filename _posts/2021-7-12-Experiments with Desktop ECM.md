@@ -13,7 +13,9 @@ title: "Cutting Steel with (Electroplated) Plastic"
 
 ## What the hell is it
 
-Electrochemical machining (ECM) is an unusual way of machining hard metals. If you're familiar with electroplating, it's like that, but in reverse. Instead of adding metal to the surface of an object, you remove it in a controlled manner. ECM is used to cut tiny parts very accurately (micromachining), bore holes with very large aspect ratios, and create complex surfaces in hard metals.
+<img src="https://i.imgur.com/R9fKR9X.jpg" style="margin:20px;width:50%;" align="right" title="ECMed Doodad"/>
+
+Electrochemical machining (ECM) is an unusual way of machining hard metals. If you're familiar with electroplating, it's like that, but in reverse. Instead of adding metal to the surface of an object, you remove it in a controlled manner. ECM is used to cut tiny parts very accurately (micromachining), bore holes with very large aspect ratios, and create complex surfaces in hard metals, like the doodad on the right.
 
 ECM has some very interesting advantages compared to "mechanical" machining, which I think would be underexploited in the maker world, if it were possible to ECM metals at a small scale:
 
