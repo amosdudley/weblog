@@ -15,7 +15,7 @@ title: "Cutting Steel with (Electroplated) Plastic"
 
 <img src="https://i.imgur.com/R9fKR9X.jpg" style="margin:20px;width:50%;" align="right" title="ECMed Doodad"/>
 
-Electrochemical machining (ECM) is an unusual way of machining hard metals. If you're familiar with electroplating, it's like that, but in reverse. Instead of adding metal to the surface of an object, you remove it in a controlled manner. ECM is used to cut tiny parts very accurately (micromachining), bore holes with very large aspect ratios, and create complex surfaces in hard metals, like the doodad on the right.
+Electrochemical machining (ECM) is an unusual way of machining hard metals. If you're familiar with electroplating, it's like that, but in reverse. Instead of adding metal to the surface of an object, you remove it in a controlled manner. ECM is used to cut tiny parts very accurately (micromachining), bore holes with very large aspect ratios, and create complex surfaces in hard metals, like the doodad to the right.
 
 ECM has some very interesting advantages compared to "mechanical" machining, which I think would be underexploited in the maker world, if it were possible to ECM metals at a small scale:
 
@@ -75,7 +75,7 @@ I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the 
 
 So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware (and wear gloves).
 
-The ECM sludge is reddish brown and agglomerates slightly over time. Maybe sludge is a bad description - it's denser than the saltwater solution, but the particle size is so small that it takes a while to settle out. **See 30 minute time lapse on the right.**
+The ECM sludge is reddish brown and agglomerates slightly over time. Maybe sludge is a bad description - it's denser than the saltwater solution, but the particle size is so small that it takes a while to settle out. **See 30 minute time lapse to the right.**
 
 A few internet sources suggest that most of this sludge is iron (II) hydroxide or possibly Iron (III) oxide-hydroxide, or maybe even rust, which are safe and insoluble.
 
