@@ -11,7 +11,7 @@ title: "Machining Steel with (Electroplated) Plastic"
 
 If you have experience with ECM, you will surely notice that I'm flying by the seat of my pants, making tons of (likely wrong) assumptions that could be rectified with the right reading material. Let me know in the comments how I can make improvements!
 
-## Like Sinker EDM without the Pulse
+## Electroplating in Two Directions
 
 <img src="https://i.imgur.com/R9fKR9X.jpg" style="margin:20px;width:50%;" align="right" title="ECMed Doodad"/>
 
