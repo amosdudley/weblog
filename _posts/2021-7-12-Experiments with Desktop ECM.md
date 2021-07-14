@@ -101,11 +101,11 @@ A better way to separate and filter the sludge might be with gravity: two holdin
 
 I'm not going to go too deep into how to plate stuff here. The short version is, print, spray coat, test conductivity, electroplate in copper sulfate.
 
+Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part. I found I needed between 25-50 microns of copper to survive  occasionally crashing into the workpiece. With DIY plastic electroplating like this, adhesion is typically quite poor - it didn't seem to matter here though, because there really isn't much force on the part.    
+
 <a href="https://caswellplating.com/">Caswell</a> sells a guide that's detailed and helpful, if a little dated. I used a Caswell copper plating kit, but I've found that a quality silver conductive spray is the key to electroplating plastic parts with any success.
 
-The best quality spray I've found is from Pino Technology (a Swiss company that sells from China). If you attempt to plate a plastic part and it fails, most likely you don't have a great conductive layer, and need a better spray coat.
-
-Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part. I found I needed between 25-50 microns of copper to survive  occasionally crashing into the workpiece.   
+The best quality spray I've found is from Pino Technology (a Swiss company that sells from China). If you attempt to plate a plastic part and it fails, chances are you don't have a great conductive layer, and need a better spray coat.
 
 ## Results
 In "Sinker ECM," the tool moves towards the workpiece -
