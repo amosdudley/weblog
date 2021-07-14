@@ -150,7 +150,7 @@ This implies that some of the issues I had with tools crashing into the workpiec
 Other stuff to-do:
 - Some mechanism for cleaning the workpiece of sludge. Perhaps the tool could rise periodically to allow an external water jet access to clean the surface
 - Electrolyte filtration needs to work
-- Build a better tool-holder, with more rigidity and better ability to be aligned in plane to the work surface
+- Build a better tool-holder, with more rigidity and improved ability to be aligned in plane to the work surface
 - Automating some aspects of tool generation in software
 - Better understand how voltage drops across the thin plated surface of a tool, and how that affects maximum machinable surface area.  
 
