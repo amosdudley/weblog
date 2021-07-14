@@ -67,7 +67,7 @@ The motion stage is driven by a CNC Shield on an Arduino Mega running GRBL, beca
 
 Unfortunately it seems like there's a relatively high hard coded minimum feed rate in GRBL 0.8, so I wasn't able to just run single G-Code moves at the very slow rate I wanted. My workaround (in lieu of getting a better controller) was to write a little script to generate G-Code defining the overall move as a series of tiny steps (1 microstep) and *n* second waits. It also inserts lift/return moves at periodic intervals, in hopes that this would help with flushing ECM sludge (more on that later).
 
-The two pumps are powered by a cheap PC power supply, with a manual kill switch. Power for the ECM cutting is delivered by a 30V 10A <a href="https://www.amazon.com/gp/product/B087TK6ZM2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087TK6ZM2&linkCode=as2&tag=amosdudley-20&linkId=ea429096fd7fd0e34136f10c625cdce2">30V 10A bench power supply</a> in constant current mode, with the current set to 7.5A.
+The two pumps are powered by a cheap PC power supply, with a manual kill switch. Power for the ECM cutting is delivered by a <a href="https://www.amazon.com/gp/product/B087TK6ZM2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087TK6ZM2&linkCode=as2&tag=amosdudley-20&linkId=ea429096fd7fd0e34136f10c625cdce2">30V 10A bench power supply</a> in constant current mode, with the current set to 7.5A.
 
 I know for certain that ECM generates hydrogen gas, which can be seen as bubbles forming at the cutting interface. A small amount of chlorine is also likely being generated (based on the smell). So, just in case, I'm running the ECM in a ventilated box (a paint hood), with the electronics board & power supply outside the box.
 
