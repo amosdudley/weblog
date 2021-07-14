@@ -87,7 +87,7 @@ The main problem caused by ECM sludge seems to be when it builds up on the workp
 
 This residue insulates, or at least physically masks, the steel below it, and causes regions below it to remain as un-eroded high points in the machining operation. When ECM isn't uniformly eroding material, you get a crash - where the tool collides with those high points, creating a short circuit.  
 
-I'm not certain whether the black residue has the same composition as the reddish suspended particles, but it's a major problem. If it is the same stuff, it might be caused by reaching some critical concentration of sludge in the electrolytic solution, since I'm recirculating this fluid over anad over. I tried a few different methods of filtering the sludge to combat this:
+I'm not certain whether the black residue has the same composition as the reddish suspended particles, but it's a major problem. If it is the same stuff, it might be caused by reaching some critical concentration of sludge in the electrolytic solution, since I'm recirculating this fluid over and over. I tried a few different methods of filtering the sludge to combat this:
 
 - Layered cotton fabric in an in-line filter
 - Activated carbon filtration
