@@ -9,7 +9,9 @@ title: "Cutting Steel with (Electroplated) Plastic"
 
 **Writing in progress... divert your eyes.**
 
-If you're interested in ECM and want to get involved with an open-source project to design a useful desktop-scale machine, send me a message on Discord.
+**Note:** If you're interested in ECM and want to get involved with an open-source project to design a useful desktop-scale machine, send me a message on Discord.
+
+**Note 2:** If you have experience with ECM, you will surely see that I am flying by the seat of my pants, making tons of (likely wrong) assumptions that could be rectified with the right reading material. Feel free to let me know in the comments where I can make improvements!
 
 ## Cookie Cutters and Rubber Stamps
 
@@ -46,15 +48,23 @@ I embarked on this foolhardy journey with only the foggiest understanding of che
 
 Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work.
 
-If these folks can cut helical groves in (hopefully) barrel-grade steel, with what amounts to a wire wrapped plastic churro and some salt water, it didn't seem unreasonable to expect something in the realm of "results" with a copper-coated 3D print.
+If these folks can cut helical groves in (hopefully) barrel-grade steel, with what amounts to a wire wrapped plastic churro and some salt water, it didn't seem unreasonable to expect something in the realm of "results" with a copper-coated 3D print. The rifling process uses a static tool and controls the groove depth by running constant current for a set amount of time, which gradually widens the grooves as the steel closest to the helical wire erodes away. As a starting point, I used the same electrolyte concentration, pumping equipment, and amperage they do. I'll put the specifics into a wiki page soon after this post goes up.
 
-The rifling process uses a static tool and controls the groove depth by running constant current for a set amount of time, which gradually widens the grooves as the steel closest to the helical wire erodes away. As a starting point, I used the same electrolyte concentration and amperage they do. I'll put the specifics into a wiki page soon after this post goes up.
+I've put a diagram of the machine at the top of the article. It's quite a simple Z motion platform, geared down to make it possible to move very small increments. The toolhead is rigidly attached to the motion stage, with a "crown gear" pivot point to allow the tool to be rotated up and back into place manually for installation. I 3D printed a platform for holding the metal stock over a plastic capture tank. There's also a second plastic bin thats used as a cover, because pumping pressurized salt water between the tool and the stock causes a lot of overspray. I used a large glass beaker as a secondary holding tank to experiment with electrolyte filtration, and as a way to more easily replace the solution mid-cut if necessary without jostling the machine.
 
-In "Sinker ECM," the tool moves towards the workpiece - I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
+Electrolyte is pumped through the tool with a $40 micro-diaphragm pump, and returns to the capture tank with a cheap aquarium pump. Both these pumps seem to be fairly robust against getting clogged by ECM sludge, which at first seemed likely to become a problem. The amount of flow from the two pumps is not balanced (the injection flow gets constricted at the toolhead), but the aquarium pump has no trouble pumping without full submersion - so it just maintains the waterline in the capture tank.  
 
 <img src="https://i.imgur.com/EghvbqZ.png" style="margin:20px;height:900px;"/>
+*Most of the non-8020 parts are "Tough 2000" resin, but everything should be printable with FDM as well.*
 
-A little about the mechanics of this machine.
+The motion stage is driven by a CNC Shield on an Arduino Mega running GRBL, because that's what I had laying around. The 5:1 geared steppers + Tr8x2 leadscrews (2mm pitch) provide a truly unnecessary Z resolution of ~8145 steps/mm. Feed rates in real ECM vary from 0.5 to 15 mm min, but given my small power source I started at 1/10th that speed (50 microns/min). Unfortunately it seems like there's a relatively high hard coded minimum feed rate in GRBL 0.8, so I wasn't able to just run single G-Code moves at the very slow rate I wanted. My workaround (in lieu of getting a better controller) was to write a little script to generate G-Code defining the overall move as a series of tiny steps (1 microstep) and waits. It also inserts lift/return moves at periodic intervals, in hopes that this would help with flushing ECM sludge (more on that later).
+
+The two pumps are powered by a cheap PC power supply, with a manual kill switch. Power for the ECM cutting is delivered by a 30V 10A <a href="https://www.amazon.com/gp/product/B087TK6ZM2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087TK6ZM2&linkCode=as2&tag=amosdudley-20&linkId=ea429096fd7fd0e34136f10c625cdce2">30V 10A bench power supply</a> in constant current mode, with the current set to 7.5A.
+
+An obvious next step for this project is to synchronize pump activation + ECM current + tool motion. The last two are especially important - I found that voltage seems to vary as a function of gap distance and active surface area (the region between the tool and the workpiece that would be touching if you closed the gap), which implies that some of the issues I had with tools crashing into the workpiece could be remedied by dynamically slowing feed rate as voltage drops (with a multiplier from a table of surface areas over cut depth that is pre-calculated from the model)
+
+## Filtration
+
 
 ## Designing the ECM Tools
 
@@ -73,6 +83,8 @@ Depending on the plate thickness, plating can have a relatively minimal impact o
 The inner surface of the cookie cutter needs to be unplated in order to avoid ECM erosion from the middle of the part.
 
 ## Results
+In "Sinker ECM
+," the tool moves towards the workpiece - I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
 
 Right now the ECM is still controlled by an open loop, and requires a lot of babysitting. This bottlenecks experiments I'd like to run to start to relate surface area, cutting speed, and current density.
 
