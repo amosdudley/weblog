@@ -99,13 +99,17 @@ A better way to separate and filter the sludge might be with gravity. Two holdin
 
 <img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;width:50%;" align="right" title="Spray-coated Suzanne Cutter">
 
-I'm not going to go too deep into how to plate stuff here. <a href="https://caswellplating.com/">Caswell</a> sells a guide that's detailed and helpful, if a little dated. I used a Caswell copper plating kit, but I've found that a quality silver conductive spray is the key to electroplating plastic parts with any success. The best quality spray I've found is from Pino Technology (a Swiss company that sells from China). If you attempt to plate a plastic part and it fails, most likely you don't have a great conductive layer, and need a better spray coat.
+I'm not going to go too deep into how to plate stuff here. <a href="https://caswellplating.com/">Caswell</a> sells a guide that's detailed and helpful, if a little dated. I used a Caswell copper plating kit, but I've found that a quality silver conductive spray is the key to electroplating plastic parts with any success.
+
+The best quality spray I've found is from Pino Technology (a Swiss company that sells from China). If you attempt to plate a plastic part and it fails, most likely you don't have a great conductive layer, and need a better spray coat.
 
 Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part. I found I needed between 25-50 microns of copper to survive  occasionally crashing into the workpiece.   
 
 <img src="https://i.imgur.com/WGS2In8.png" style="margin:20px;width:95%;" title="Spray-coated Knife Cutter">
 
-In theory, the inner surface of the cookie cutter needs to be unplated in order to avoid ECM erosion removing material from middle of the "cookie" (everything inside the profile). I tried to accomplish this by printing a plug that would mask off the inside of the cutter. This didn't work as well as I'd hoped, and I ended up just spray-coating the whole thing, and then scribing the inside edge of the cutter to break electrical connectivity with the inner (now conductive) surface.
+In theory, the inner surface of the cookie cutter needs to be unplated in order to avoid ECM erosion removing material from middle of the "cookie" (everything inside the profile). I tried to accomplish this by printing a plug that would mask off the inside of the cutter.
+
+This didn't work as well as I'd hoped, and I ended up just spray-coating the whole thing, and then scribing the inside edge of the cutter to break electrical connectivity with the inner (now conductive) surface.
 
 ## Results
 In "Sinker ECM," the tool moves towards the workpiece -
