@@ -139,7 +139,7 @@ Why did the Suzanne not cause the same level of sludge generation as the knife p
 
 <img src="https://i.imgur.com/Obnvy8C.gif" title="Knife Profile Cutting" style="margin:20px;width:100%;">
 
-## Further work
+## Further work and Conclusion
 
 An obvious next step for this project is to synchronize pump activation + ECM current + tool motion. The last two are especially important - I found that voltage seems to vary as a function of gap distance and active surface area (the region between the tool and the workpiece that would be touching if you closed the gap).
 
@@ -150,3 +150,5 @@ Other stuff to-do:
 - Electrolyte filtration needs to work
 - Build a better tool-holder, with more rigidity and better ability to be aligned in plane to the work surface
 - Automating some aspects of tool generation in software
+
+I think ECM has interesting potential at this scale - mainly because I suspect its utility hasn't been extensively explored. Perhaps with modern simulation and generative software, some of the previously difficult tool design challenges could be automated. Then, maybe, this odd machining process would be more widely applied.
