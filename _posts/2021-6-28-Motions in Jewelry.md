@@ -1,6 +1,6 @@
 ---
 tags: [self-Amos, product-design, metal casting, jewelry, 3D design]
-title: "Motions in Jewelry"
+title: "Jewelry Design, 2019-2020"
 ---
 <div class="sketchfab-embed-wrapper"> <iframe title="High Arabesque" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="100%" height="540" src="https://sketchfab.com/models/f3a685f63954411eb524851a9b57c428/embed?ui_theme=dark"> </iframe> </div>
 *"High Arabesque"*, and other works inside.
