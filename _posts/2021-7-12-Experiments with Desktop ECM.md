@@ -101,7 +101,7 @@ I used a Caswell copper plating kit, but I've found that a quality silver conduc
 
 Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part. I needed between 25-50 microns of copper to survive ECMing through at least 5mm of material (mainly, it just needs to survive occasionally crashing into the workpiece).   
 
-<img src="https://i.imgur.com/WGS2In8.png" style="margin:20px;height:512px;width:900px;" align="right" title="Spray-coated Knife Cutter"/>
+<img src="https://i.imgur.com/WGS2In8.png" style="margin:20px;width:100%;" title="Spray-coated Knife Cutter"/>
 
 The inner surface of the cookie cutter needs to be unplated in order to avoid ECM erosion from the middle of the part.
 
