@@ -97,7 +97,9 @@ A better way to separate and filter the sludge might be with gravity: two holdin
 
 The necessary features for a basic cavity cutting tool are called out in the diagram above. I decided to use Blender Suzanne as the cutting shape. For electrolyte injection, I added channels through the tool, from a barbed fitting to the middle of the face. The channel starts at 4mm in diameter at the fitting and constricts to 2.5mm at each exit hole.
 
-Originally I had been adding holes to help attach the wire lead going to the PSU. Later on, I just started soldering directly to the electroplated copper.       
+Originally I had been adding holes to help attach the wire lead going to the PSU. Later on, I just started soldering directly to the electroplated copper.
+
+You can download a few different example tools <a href="https://github.com/amosdudley/weblog/blob/gh-pages/Cavity-Cutter-Mold.stl">here</a> and <a href="https://github.com/amosdudley/weblog/blob/gh-pages/Cavity-Cutter-Monkey.stl">here</a>.
 
 ## Electroplating Resin
 
