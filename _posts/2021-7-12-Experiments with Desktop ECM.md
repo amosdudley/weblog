@@ -98,7 +98,6 @@ A better way to separate and filter the sludge might be with gravity: two holdin
 ## Electroplating Resin
 
 <img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;width:50%;" align="right" title="Spray-coated Suzanne Cutter">
-*Silver spray-coated Suzanne prior to plating*
 
 I'm not going to go too deep into how to plate stuff here. The short version is, print, spray coat, test conductivity, electroplate in copper sulfate.
 
