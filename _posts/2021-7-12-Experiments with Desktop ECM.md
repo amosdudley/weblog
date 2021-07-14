@@ -36,7 +36,7 @@ From what I can tell, controlling the fluid behavior of the electrolyte through 
 
 So an ECM tool is not really trivial to make. Or hasn't been. But, it's rather easy to make arbitrary 3D shapes with a 3D printer, and copper happens to be one of the easiest metals to plate over plastic parts (plating baths for copper rank only moderately toxic, compared to, say plating chromium). Combine those two things, I thought, and maybe you can take most of the expense out of the tool making step. Maybe, just maybe, it would be possible to electrochemically machine steel stuff in the enforced quietude of my apartment.
 
-I imagined a process where a positive 3D printed "tool" is plated with a very thin layer of metal. Then, these tools could be used in a way similar to sinker EDM, to machine complex net shapes with resin-print-like tolerances, in tough metals like pre-hardened steels. If you wanted to cut a profile, maybe it would be possible to print a "cookie cutter" geometry, where the inside of the cutting tool is insulative and the edge is conductive.
+I imagined a process where a positive 3D printed "tool" is plated with a very thin layer of metal. Then, these tools could be used in a way similar to sinker EDM, to machine complex 3D shapes in tough metals like pre-hardened steels. I'm also curious if it's possible to print a "cookie cutter" geometry, where only the edge of the tool is conductive, in order to cut profiles similar to a waterjet with a much smaller footprint.
 
 I embarked on this foolhardy journey with only the foggiest understanding of chemistry and electricity. Armed with an SLA printer, a sacrificial RepRap, some plating chemicals, and a general idea of how to use them, I forged into the unknown.  
 
