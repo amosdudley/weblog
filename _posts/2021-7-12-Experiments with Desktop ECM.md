@@ -152,6 +152,6 @@ Other stuff to-do:
 - Electrolyte filtration needs to work
 - Build a better tool-holder, with more rigidity and better ability to be aligned in plane to the work surface
 - Automating some aspects of tool generation in software
-- Better understand how voltage drops across the thin plated surface of a tool, and how that might affect maximum machinable surface area.  
+- Better understand how voltage drops across the thin plated surface of a tool, and how that affects maximum machinable surface area.  
 
 I think ECM has interesting potential at this scale - mainly because I suspect its utility hasn't been extensively explored. Perhaps with modern simulation and generative software, some of the previously difficult tool design challenges could be automated. Then, maybe, this odd machining process would be more widely applied.
