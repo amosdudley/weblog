@@ -15,7 +15,7 @@ If you have experience with ECM, you will surely notice that I'm flying by the s
 
 <img src="https://i.imgur.com/R9fKR9X.jpg" style="margin:20px;width:50%;" align="right" title="ECMed Doodad"/>
 
-Electrochemical machining (ECM) is an unusual way of machining hard metals. If you're familiar with electroplating, it's like that, but in reverse. Instead of adding metal to the surface of an object, you remove it in a controlled manner. ECM is used to cut tiny parts very accurately (micromachining), bore holes with very high aspect ratios, and create complex surfaces in hard metals, like the doodad to the right (which I did not make).
+Electrochemical machining (ECM) is an unusual way of machining hard metals. If you're familiar with electroplating, it's like that, but in reverse. Instead of adding metal to the surface of an object, you remove it in a controlled manner. ECM is used to cut tiny parts very accurately (micromachining), bore holes with very high aspect ratios, and create complex surfaces in hard metals, like the doodad to the right (which I did not make). Ram ECM works a bit like sinker E**D**M, in that the tool has the inverse shape to the part you want to create.
 
 ECM has some very interesting advantages compared to "mechanical" machining - some of which might be useful in the maker world, if it were possible to ECM metals at a small scale:
 
@@ -26,7 +26,7 @@ ECM has some very interesting advantages compared to "mechanical" machining - so
 - No heat affected zone, and no heat-treating equipment required for annealing / rehardening
 - Theoretically high accuracy (though, we'll get to that later)
 
-ECM is scarcely seen outside of its niche manufacturing uses, and truly is a technology that seems to have gotten stuck in time. Part of the reason is that creating ECM tooling has always been challenging and expensive, and this hasn't changed much since the 1950s. The ECM tools themselves are usually conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
+ECM is scarcely seen outside of its niche manufacturing uses, and truly is a technology that seems to have gotten stuck in time. Part of the reason is that creating ECM tooling has always been challenging and expensive, and this hasn't changed much since the 1950s. The ECM tools themselves are usually conventionally machined out of metal (usually conductive copper).
 
 <img src="https://i.imgur.com/RgAL5J7.png" title="source: Okuwobi et al." style="margin:20px;height:80%;width:80%;">
 
