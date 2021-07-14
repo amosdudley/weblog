@@ -95,6 +95,10 @@ A better way to separate and filter the sludge might be with gravity: two holdin
 
 <img src="https://i.imgur.com/FtDlYBG.png" title="Tool Cutaways" style="margin:20px;width:80%;">
 
+The necessary features for a basic cavity cutting tool are called out in the diagram above. I decided to use Blender Suzanne as the cutting shape. For electrolyte injection, I added channels through the tool, from a barbed fitting to the middle of the face. The channel starts at 4mm in diameter at the fitting and constricts to 2.5mm at each exit hole.
+
+Originally I had been adding holes to help attach the wire lead going to the PSU. Later on, I just started soldering directly to the electroplated copper.       
+
 ## Electroplating Resin
 
 <img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;width:50%;" align="right" title="Spray-coated Suzanne Cutter">
@@ -108,7 +112,9 @@ Depending on the plate thickness, plating can have a relatively minimal impact o
 The best quality spray I've found is from Pino Technology (a Swiss company that sells from China). If you attempt to plate a plastic part and it fails, chances are you don't have a great conductive layer, and need a better spray coat.
 
 ## Results
-It should be possible to dial in the feed-rate of the tool to be in a steady-state condition relative to the rate of erosion. If this were accomplished, there should be a constant gap distance between the tool and the part. I didn't really accomplish this - I had the tool moving at a constant rate, which invariably wasn't quite steady state. Either it was too slow, in which case the gap would widen and cutting would just stop, or too fast, where the tool would contact the workpiece.
+It should be possible to dial in the feed-rate of the tool to be in a steady-state condition relative to the rate of erosion. If this were accomplished, there should be a constant gap distance between the tool and the part.
+
+I didn't accomplish this - I had the tool moving at a constant rate, which invariably wasn't quite steady state. Either it was too slow, in which case the gap would widen and cutting would just stop, or too fast, where the tool would contact the workpiece.
 
 Given that the cutting rate, current, and electrolyte concentration were totally unoptimized, this isn't too surprising. However, in the time before one of those conditions occurred, I managed to cut Blender Suzanne's face into some steel stock.     
 
