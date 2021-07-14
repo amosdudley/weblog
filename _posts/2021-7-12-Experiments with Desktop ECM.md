@@ -26,13 +26,13 @@ ECM has some very interesting advantages compared to "mechanical" machining - so
 - No heat affected zone, and no heat-treating equipment required for annealing / rehardening
 - Theoretically high accuracy (though, we'll get to that later)
 
-ECM is scarcely seen outside of its niche manufacturing uses, and truly is a technology that seems to have gotten stuck in time. Part of the reason is that creating ECM tooling has always been challenging and expensive, and this hasn't changed much since the 1950s. The ECM tools themselves are usually conventionally machined out of metal (usually conductive copper).
+ECM is scarcely seen outside of its niche manufacturing uses, and truly is a technology that seems to have gotten stuck in time. Part of the reason is that creating ECM tooling has always been challenging and expensive, and this hasn't changed much since the 1950s.
 
 <img src="https://i.imgur.com/RgAL5J7.png" title="source: Okuwobi et al." style="margin:20px;height:80%;width:80%;">
 
-A big difference between sinker EDM tooling and ECM, is that the ECM tool needs to inject pressurized electrolytic fluid directly at the interface between the tool and the workpiece. The electrolyte is the chemical transfer medium that provokes metal ions to cleave off the metal stock, and also flushes the unwanted particles (which quickly form a thick sludge) away at high speed.
+ECM tools themselves are usually conventionally machined out of metal (usually conductive copper), but that's only part of it. ECM tools also have to inject pressurized electrolytic fluid directly at the interface between the tool and the workpiece. The electrolyte is a chemical transfer medium that, together with electricity, provokes metal ions to separate from the metal stock. The fluid also flushes the unwanted waste particles (which quickly form a thick sludge) away at high speed.
 
-From what I can tell, controlling the fluid behavior of the electrolyte through tool design (where the conduits go, etc.) is the main reason ECM is expensive, because there's an unavoidable amount of trial and error involved.
+From what I can tell, controlling the fluid behavior of the electrolyte through tool design (where the conduits go, etc.) is the main reason ECM is expensive, because there's an unavoidable degree of trial and error involved.
 
 ![plants-crave](https://i.imgur.com/fkzxFaT.gif)
 
