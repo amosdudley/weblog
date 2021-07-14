@@ -52,7 +52,7 @@ If these folks can cut helical groves in (hopefully) barrel-grade steel, with wh
 
 I've put a diagram of the machine at the top of the article. It's quite a simple Z motion platform, geared down to make it possible to move very small increments. The toolhead is rigidly attached to the motion stage, with a "crown gear" pivot point to allow the tool to be rotated up and back into place manually for installation. I 3D printed a platform for holding the metal stock over a plastic capture tank, which seems to be rigid enough for the current purpose.
 
-A second plastic bin covers the top, because electrolyte injection causes a lot of overspray (which is corrosive to the leadscrews & rails). This worked fairly well, although the some overspray still escapes (which really calls for rubber accordion boots around the leadscrew). I repurposed a large glass beaker as a secondary holding tank to experiment with electrolyte filtration, and as a way to more easily replace the solution mid-cut if necessary without jostling the machine.
+A second plastic bin covers the top, because electrolyte injection causes a lot of overspray (which is corrosive to the leadscrews & rails). I repurposed a large glass beaker as a secondary holding tank to experiment with electrolyte filtration, and as a way to more easily replace the solution mid-cut if necessary without jostling the machine.
 
 Electrolyte is pumped through the tool with a $40 micro-diaphragm pump, and returns to the capture tank with a cheap aquarium pump. Both these pumps seem to be fairly robust against getting clogged by ECM sludge (and are fairly easily cleaned). The amount of flow from the two pumps is not balanced - the input flow gets constricted at the toolhead. Luckily, the aquarium pump has no trouble pumping without full submersion, and it happily maintains a constant waterline in the capture tank.  
 
@@ -73,7 +73,9 @@ I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the 
 
 The ECM sludge is reddish brown and agglomerates slightly over time. Maybe sludge is a bad description - it's denser than the saltwater solution, but the particle size is so small that it takes a while to settle out. A few internet sources suggest that most of this sludge is iron (II) hydroxide or possibly Iron (III) oxide-hydroxide, or maybe even rust, which are safe and insoluble.
 
-The main problem caused by ECM sludge seems to be when it builds up on the workpiece. After ECM runs undisturbed for ~10min, one finds that the cutting interface is often partially coated in a black residue. It's easily cleaned off with a wire brush or wiped off with a finger. This residue insulates, or at least physically masks, the steel below it, and causes regions below it to remain as un-eroded high points in the machining operation. When ECM isn't uniformly eroding material, you get a crash - where the tool collides with those high points, creating a short circuit.  
+The main problem caused by ECM sludge seems to be when it builds up on the workpiece. After ECM runs undisturbed for ~10min, one finds that the cutting interface is often partially coated in a black residue. It's easily cleaned off with a wire brush or wiped off with a finger.
+
+This residue insulates, or at least physically masks, the steel below it, and causes regions below it to remain as un-eroded high points in the machining operation. When ECM isn't uniformly eroding material, you get a crash - where the tool collides with those high points, creating a short circuit.  
 
 I'm not certain whether the black residue has the same composition as the reddish suspended particles, but it's a problem. If it is the same, it might be caused by reaching some critical concentration of sludge in the electrolytic solution, since I'm recirculating this fluid many times. I've tried a few different methods of filtering the sludge to combat this, but none have worked:
 
@@ -84,6 +86,7 @@ I'm not certain whether the black residue has the same composition as the reddis
 I was very surprised that activated carbon had virtually no filtration power. The particles here must be incredibly small and easily moved through the filter. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering. Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
 
 <img src="https://i.imgur.com/fGt0DWA.png" title="Hydrocyclone Manifold" style="margin:20px;height:25%;width:25%;">
+
 
 ## Designing the ECM Tools
 
