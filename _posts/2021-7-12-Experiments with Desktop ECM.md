@@ -56,7 +56,7 @@ A second plastic bin covers the top, because electrolyte injection causes a lot 
 
 Electrolyte is pumped through the tool with a $40 micro-diaphragm pump, and returns to the capture tank with a cheap aquarium pump. Both these pumps seem to be fairly robust against getting clogged by ECM sludge (and are fairly easily cleaned). The amount of flow from the two pumps is not balanced - the input flow gets constricted at the toolhead. Luckily, the aquarium pump has no trouble pumping without full submersion, and it happily maintains a constant waterline in the capture tank.  
 
-<img src="https://i.imgur.com/EghvbqZ.png" style="margin:20px;height:900px;"/>
+<img src="https://i.imgur.com/EghvbqZ.png" style="margin:20px;height:100%;width:100%;">
 *Most of the non-8020 parts are "Tough 2000" resin, but everything should be printable with FDM as well.*
 
 The motion stage is driven by a CNC Shield on an Arduino Mega running GRBL, because that's what I had laying around. The 5:1 geared steppers + Tr8x2 leadscrews (2mm pitch) provide a truly unnecessary Z resolution of ~8145 steps/mm. Feed rates in real ECM vary from 0.5 to 15 mm min, but given my small power source I started at 1/10th that speed (50 microns/min). Unfortunately it seems like there's a relatively high hard coded minimum feed rate in GRBL 0.8, so I wasn't able to just run single G-Code moves at the very slow rate I wanted. My workaround (in lieu of getting a better controller) was to write a little script to generate G-Code defining the overall move as a series of tiny steps (1 microstep) and waits. It also inserts lift/return moves at periodic intervals, in hopes that this would help with flushing ECM sludge (more on that later).
