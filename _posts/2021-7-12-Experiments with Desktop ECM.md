@@ -69,7 +69,7 @@ I know for certain that ECM generates hydrogen gas, which can be seen as bubbles
 
 I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the product of the reaction of the separated components of the work steel and the electrolyte. I'd like to mention at this point that ECM byproducts can be toxic, depending on the composition of the alloy. If the steel contains chromium (ie stainless and others), one of these byproducts might be hexavalent chromium, which is carcinogenic. So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware (and wear gloves when handling the waste).
 
-<img src="https://i.imgur.com/nX4YqbU.gif" style="margin:20px;height:640px;width:480px;" align="right" title="Sludge Settling"/>
+<img src="https://i.imgur.com/nX4YqbU.gif" style="margin:20px;height:512px;width:384px;;" align="right" title="Sludge Settling"/>
 
 The ECM sludge is reddish brown and agglomerates slightly over time. Maybe sludge is a bad description - it's denser than the saltwater solution, but the particle size is so small that it takes a while to settle out. A few internet sources suggest that most of this sludge is iron (II) hydroxide or possibly Iron (III) oxide-hydroxide, or maybe even rust, which are safe and insoluble.
 
@@ -83,7 +83,7 @@ I'm not certain whether the black residue has the same composition as the reddis
 
 I was very surprised that activated carbon had virtually no filtration power. The particles here must be incredibly small and easily moved through the filter. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering. Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
 
-<img src="https://i.imgur.com/fGt0DWA.png" height="700" title="Tool Cutaways"/>
+<img src="https://i.imgur.com/fGt0DWA.png" height="512px" title="Tool Cutaways"/>
 
 ## Designing the ECM Tools
 
