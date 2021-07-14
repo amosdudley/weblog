@@ -5,9 +5,7 @@ title: "Cutting Steel with (Electroplated) Plastic"
 ## Experiments in Sinker ECM
 ![ecmCAD](https://i.imgur.com/asmgMvv.png)
 
-*Schematic of ECM testbed - first machining results at the end of the page*
-
-**Writing in progress... divert your eyes.**
+*Schematic of ECM Testbed*
 
 **Note:** If you're interested in ECM and want to get involved with an open-source project to design a useful desktop-scale machine, send me a message on Discord.
 
@@ -44,7 +42,7 @@ I embarked on this foolhardy journey with only the foggiest understanding of che
 
 ## Build Overview
 
-
+<img src="https://i.imgur.com/wGtglp3.png" style="margin:20px;height:40%;width:40%;" align="right" title="ECM Testbed"/>
 
 Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work.
 
