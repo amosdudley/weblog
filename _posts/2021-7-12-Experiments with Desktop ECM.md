@@ -11,9 +11,9 @@ title: "Cutting Steel with (Electroplated) Plastic"
 
 **Note:** If you're interested in ECM and want to get involved with an open-source project to design a useful desktop-scale machine, send me a message on Discord.
 
-**Note 2:** If you have experience with ECM, you will surely see that I am flying by the seat of my pants, making tons of (likely wrong) assumptions that could be rectified with the right reading material. Feel free to let me know in the comments where I can make improvements!
+**Note 2:** If you have experience with ECM, you will surely see that I am flying by the seat of my pants, making tons of (likely wrong) assumptions that could be rectified with the right reading material. Feel free to let me know in the comments how I can make improvements!
 
-## Cookie Cutters and Rubber Stamps
+## Stamps and Cookie Cutters
 
 Electrochemical machining (ECM) is an unusual way of machining hard metals. If you're familiar with electroplating, it's like that, but in reverse. Instead of adding metal to the surface of an object, you remove it in a controlled manner. ECM is used to cut tiny parts very accurately (micromachining), bore holes with very large aspect ratios, and create complex surfaces in hard metals.
 
@@ -67,15 +67,17 @@ I know for certain that ECM generates hydrogen gas, which can be seen as bubbles
 
 ## Filtration
 
-I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the product of the reaction of the separated components of the work steel and the electrolyte. I'd like to mention at this point that ECM byproducts can be toxic, depending on the composition of the alloy. If the steel contains chromium (ie stainless and others), one of these byproducts might be hexavalent chromium, which is carcinogenic. So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware (and wear gloves when handling the waste).
+<img src="https://i.imgur.com/nX4YqbU.gif" style="margin:20px;height:512px;width:384px;" align="right" title="Sludge Settling"/>
 
-<img src="https://i.imgur.com/nX4YqbU.gif" style="margin:20px;height:512px;width:384px;;" align="right" title="Sludge Settling"/>
+I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the product of the reaction of the separated components of the work steel and the electrolyte. I'd like to mention at this point that ECM byproducts can be toxic, depending on the composition of the alloy. If the steel contains chromium (ie stainless and others), one of these byproducts might be hexavalent chromium, which is carcinogenic. So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware (and wear gloves when handling the waste).
 
 The ECM sludge is reddish brown and agglomerates slightly over time. Maybe sludge is a bad description - it's denser than the saltwater solution, but the particle size is so small that it takes a while to settle out. A few internet sources suggest that most of this sludge is iron (II) hydroxide or possibly Iron (III) oxide-hydroxide, or maybe even rust, which are safe and insoluble.
 
 The main problem caused by ECM sludge seems to be when it builds up on the workpiece. After ECM runs undisturbed for ~10min, one finds that the cutting interface is often partially coated in a black residue. It's easily cleaned off with a wire brush or wiped off with a finger.
 
 This residue insulates, or at least physically masks, the steel below it, and causes regions below it to remain as un-eroded high points in the machining operation. When ECM isn't uniformly eroding material, you get a crash - where the tool collides with those high points, creating a short circuit.  
+
+<img src="https://i.imgur.com/fGt0DWA.png" title="Hydrocyclone Manifold" style="margin:20px;height:25%;width:25%;" align="right">
 
 I'm not certain whether the black residue has the same composition as the reddish suspended particles, but it's a problem. If it is the same, it might be caused by reaching some critical concentration of sludge in the electrolytic solution, since I'm recirculating this fluid many times. I've tried a few different methods of filtering the sludge to combat this, but none have worked:
 
@@ -84,8 +86,6 @@ I'm not certain whether the black residue has the same composition as the reddis
 - Centrifugal separation with a 3D printed hydrocyclone manifold
 
 I was very surprised that activated carbon had virtually no filtration power. The hydroxide particles must be incredibly small. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering. Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
-
-<img src="https://i.imgur.com/fGt0DWA.png" title="Hydrocyclone Manifold" style="margin:20px;height:25%;width:25%;">
 
 A better way to separate and filter the sludge might be with gravity. Two holding tanks, with servo-operated valves to divert the loop to the "active" tank, while the other settles and the waste is sep-funneled away.
 
