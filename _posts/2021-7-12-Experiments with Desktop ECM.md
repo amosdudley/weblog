@@ -7,9 +7,9 @@ title: "Cutting Steel with (Electroplated) Plastic"
 
 *Schematic of ECM Testbed*
 
-**Note:** If you're interested in ECM and want to get involved with an open-source project to design a useful desktop-scale machine, send me a message on Discord.
+**Note A:** If you're interested in ECM and want to get involved with an open-source project to design a useful desktop-scale machine, feel free to <a href="amosdudley@gmail.com">drop me a line</a>.
 
-**Note 2:** If you have experience with ECM, you will surely see that I am flying by the seat of my pants, making tons of (likely wrong) assumptions that could be rectified with the right reading material. Feel free to let me know in the comments how I can make improvements!
+**Note B:** If you have experience with ECM, you will surely see that I am flying by the seat of my pants, making tons of (likely wrong) assumptions that could be rectified with the right reading material. Let me know in the comments how I can make improvements!
 
 ## Stamps and Cookie Cutters
 
