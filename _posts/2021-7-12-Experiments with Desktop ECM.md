@@ -73,7 +73,7 @@ I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the 
 
 So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware (and wear gloves).
 
-The ECM sludge is reddish brown and agglomerates slightly over time. Maybe sludge is a bad description - it's denser than the saltwater solution, but the particle size is so small that it takes a while to settle out (see 30 minute time lapse on the right).
+The ECM sludge is reddish brown and agglomerates slightly over time. Maybe sludge is a bad description - it's denser than the saltwater solution, but the particle size is so small that it takes a while to settle out. **See 30 minute time lapse on the right.**
 
 A few internet sources suggest that most of this sludge is iron (II) hydroxide or possibly Iron (III) oxide-hydroxide, or maybe even rust, which are safe and insoluble.
 
