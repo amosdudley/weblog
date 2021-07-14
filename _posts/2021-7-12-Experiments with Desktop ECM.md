@@ -63,10 +63,29 @@ The motion stage is driven by a CNC Shield on an Arduino Mega running GRBL, beca
 
 The two pumps are powered by a cheap PC power supply, with a manual kill switch. Power for the ECM cutting is delivered by a 30V 10A <a href="https://www.amazon.com/gp/product/B087TK6ZM2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087TK6ZM2&linkCode=as2&tag=amosdudley-20&linkId=ea429096fd7fd0e34136f10c625cdce2">30V 10A bench power supply</a> in constant current mode, with the current set to 7.5A.
 
-An obvious next step for this project is to synchronize pump activation + ECM current + tool motion. The last two are especially important - I found that voltage seems to vary as a function of gap distance and active surface area (the region between the tool and the workpiece that would be touching if you closed the gap), which implies that some of the issues I had with tools crashing into the workpiece could be remedied by dynamically slowing feed rate as voltage drops (with a multiplier from a table of surface areas over cut depth that is pre-calculated from the model)
+I know for certain that ECM generates hydrogen gas, which can be seen as bubbles forming at the cutting interface. A small amount of chlorine is also likely being generated (based on the smell). So, just in case, I'm running the ECM in a ventilated box (a paint hood), with the electronics board & power supply outside the box.
 
 ## Filtration
 
+I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the product of the reaction of the separated components of the work steel and the electrolyte. I'd like to mention at this point that ECM byproducts can be toxic, depending on the composition of the alloy. If the steel contains chromium (ie stainless and others), one of these byproducts might be hexavalent chromium, which is carcinogenic. So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware (and wear gloves when handling the waste).
+
+<img src="" style="margin:20px;height:400px;width:225px;" align="right" title="Sludge Settling"/>
+
+The ECM sludge is reddish brown and agglomerates slightly over time. Maybe sludge is a bad description - it's denser than the saltwater solution, but the particle size is so small that it takes a while to settle out. A few internet sources suggest that most of this sludge is iron (II) hydroxide or possibly Iron (III) oxide-hydroxide, or maybe even rust, which are safe and insoluble.
+
+The main problem caused by ECM sludge seems to be when it builds up on the workpiece. After ECM runs undisturbed for ~10min, one finds that the cutting interface is often partially coated in a black residue. It's easily cleaned off with a wire brush or wiped off with a finger. This residue insulates, or at least physically masks, the steel below it, and causes regions below it to remain as un-eroded high points in the machining operation. When ECM isn't uniformly eroding material, you get a crash - where the tool collides with those high points, creating a short circuit.  
+
+I'm not certain whether the black residue has the same composition as the reddish suspended particles, but it's a problem. If it is the same, it might be caused by reaching some critical concentration of sludge in the electrolytic solution, since I'm recirculating this fluid many times. I've tried a few different methods of filtering the sludge to combat this, but none have worked:
+
+- Layered cotton fabric in an in-line filter
+- Activated carbon filtration (with a 200GPH aquarium filter)
+- Centrifugal separation with a 3D printed hydrocyclone manifold
+
+I was very surprised that activated carbon had virtually no filtration power. The particles here must be incredibly small and easily moved through the filter. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering.
+
+Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
+
+<img src="https://i.imgur.com/fGt0DWA.png" height="700" title="Tool Cutaways"/>
 
 ## Designing the ECM Tools
 
@@ -91,3 +110,7 @@ In "Sinker ECM
 Right now the ECM is still controlled by an open loop, and requires a lot of babysitting. This bottlenecks experiments I'd like to run to start to relate surface area, cutting speed, and current density.
 
 <img src="https://i.imgur.com/3vxXUz3.jpg" height="700" title="source: imgur.com"/>
+
+## Further work
+
+An obvious next step for this project is to synchronize pump activation + ECM current + tool motion. The last two are especially important - I found that voltage seems to vary as a function of gap distance and active surface area (the region between the tool and the workpiece that would be touching if you closed the gap), which implies that some of the issues I had with tools crashing into the workpiece could be remedied by dynamically slowing feed rate as voltage drops (with a multiplier from a table of surface areas over cut depth that is pre-calculated from the model).
