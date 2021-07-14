@@ -83,7 +83,7 @@ I'm not certain whether the black residue has the same composition as the reddis
 
 I was very surprised that activated carbon had virtually no filtration power. The particles here must be incredibly small and easily moved through the filter. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering. Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
 
-<img src="https://i.imgur.com/fGt0DWA.png" height="512px" title="Tool Cutaways"/>
+<img src="https://i.imgur.com/fGt0DWA.png" title="Hydrocyclone Manifold" style="margin:20px;height:25%;width:25%;">
 
 ## Designing the ECM Tools
 
