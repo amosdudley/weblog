@@ -30,7 +30,7 @@ ECM is scarcely seen outside of industry, and truly is a technology that seems t
 
 <img src="https://i.imgur.com/RgAL5J7.png" title="source: Okuwobi et al." style="margin:20px;height:80%;width:80%;">
 
-The big difference is that an ECM tool needs to inject pressurized electrolytic fluid, right at the interface between the tool and the workpiece. The electrolyte is the chemical transfer medium that provokes metal ions to cleave off the metal stock, and also flushes the unwanted particles (which quickly form a thick sludge) away at high speed.
+The big difference is that an ECM tool needs to inject pressurized electrolytic fluid directly at the interface between the tool and the workpiece. The electrolyte is the chemical transfer medium that provokes metal ions to cleave off the metal stock, and also flushes the unwanted particles (which quickly form a thick sludge) away at high speed.
 
 From what I can tell, controlling the fluid behavior of the electrolyte through tool design (where the conduits go, etc.) is the main reason ECM is expensive, because there's an unavoidable amount of trial and error involved.
 
@@ -69,7 +69,7 @@ I know for certain that ECM generates hydrogen gas, which can be seen as bubbles
 
 <img src="https://i.imgur.com/nX4YqbU.gif" style="margin:20px;height:40%;width:40%;" align="right" title="Sludge Settling"/>
 
-I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the product of the reaction of the separated components of the work steel and the electrolyte. I'd like to mention at this point that ECM byproducts can be toxic, depending on the composition of the alloy. If the steel contains chromium (ie stainless and others), one of these byproducts might be hexavalent chromium, which is carcinogenic. So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware (and wear gloves when handling the waste).
+I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the product of the reaction of the separated components of the work steel and the electrolyte. I'd like to mention at this point that ECM byproducts can be toxic, depending on the composition of the alloy. If the steel contains chromium (ie stainless and others), one of these byproducts might be hexavalent chromium, which is carcinogenic. So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware (and wear gloves).
 
 The ECM sludge is reddish brown and agglomerates slightly over time. Maybe sludge is a bad description - it's denser than the saltwater solution, but the particle size is so small that it takes a while to settle out. A few internet sources suggest that most of this sludge is iron (II) hydroxide or possibly Iron (III) oxide-hydroxide, or maybe even rust, which are safe and insoluble.
 
@@ -77,7 +77,7 @@ The main problem caused by ECM sludge seems to be when it builds up on the workp
 
 This residue insulates, or at least physically masks, the steel below it, and causes regions below it to remain as un-eroded high points in the machining operation. When ECM isn't uniformly eroding material, you get a crash - where the tool collides with those high points, creating a short circuit.  
 
-<img src="https://i.imgur.com/fGt0DWA.png" title="Hydrocyclone Manifold" style="margin:20px;height:25%;width:25%;" align="right">
+<img src="https://i.imgur.com/fGt0DWA.png" title="Hydrocyclone Manifold" style="margin:20px;height:35%;width:35%;" align="right">
 
 I'm not certain whether the black residue has the same composition as the reddish suspended particles, but it's a problem. If it is the same, it might be caused by reaching some critical concentration of sludge in the electrolytic solution, since I'm recirculating this fluid many times. I've tried a few different methods of filtering the sludge to combat this, but none have worked:
 
