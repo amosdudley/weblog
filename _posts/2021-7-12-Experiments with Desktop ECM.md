@@ -17,7 +17,7 @@ If you have experience with ECM, you will surely notice that I'm flying by the s
 
 Electrochemical machining (ECM) is an unusual way of machining hard metals. If you're familiar with electroplating, it's like that, but in reverse. Instead of adding metal to the surface of an object, you remove it in a controlled manner. ECM is used to cut tiny parts very accurately (micromachining), bore holes with very large aspect ratios, and create complex surfaces in hard metals, like the doodad to the right (which I did not make).
 
-ECM has some very interesting advantages compared to "mechanical" machining, which I think would be underexploited in the maker world, if it were possible to ECM metals at a small scale:
+ECM has some very interesting advantages compared to "mechanical" machining - some of which might be useful in the maker world, if it were possible to ECM metals at a small scale:
 
 - Zero tool wear. The tool doesn't come in contact with the workpiece, it simply advances towards the metal while chemically eroding material away at the same rate.
 - No tool marks or burrs
