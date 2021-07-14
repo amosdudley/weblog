@@ -1,6 +1,6 @@
 ---
 tags: [self-Amos, reprap, ECM, electrochemistry, electroplating]
-title: "Cutting Steel with (Electroplated) Plastic"
+title: "Machining Steel with (Electroplated) Plastic"
 ---
 ## Experiments in Sinker ECM
 ![ecmCAD](https://i.imgur.com/asmgMvv.png)
