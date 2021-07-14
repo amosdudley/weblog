@@ -95,7 +95,7 @@ I'm not certain whether the black residue has the same composition as the reddis
 
 <img src="https://i.imgur.com/77a8eWW.png" title="Hydrocyclone Manifold" style="margin:20px;width:90%;">
 
-I was very surprised that activated carbon had virtually no filtration power with ECM sludge. The hydroxide particles must be incredibly small. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering. Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
+None of these worked. Like, at all. I was very surprised that activated carbon had virtually no filtration power with ECM sludge. The hydroxide particles must be incredibly small. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering. Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
 
 A better way to separate and filter the sludge might be with gravity: two holding tanks, with servo-operated valves to divert the loop to the "active" tank, while the other settles and the waste is sep-funneled away.
 
