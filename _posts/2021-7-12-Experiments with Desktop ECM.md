@@ -2,7 +2,7 @@
 tags: [self-Amos, reprap, ECM, electrochemistry, electroplating]
 title: "Machining Steel with (Electroplated) Plastic"
 ---
-## Experiments in Sinker ECM
+## Experiments in Ram ECM
 ![ecmCAD](https://i.imgur.com/asmgMvv.png)
 
 *Schematic of ECM Testbed*
@@ -11,7 +11,7 @@ title: "Machining Steel with (Electroplated) Plastic"
 
 **Note B:** If you have experience with ECM, you will surely notice that I'm flying by the seat of my pants, making tons of (likely wrong) assumptions that could be rectified with the right reading material. Let me know in the comments how I can make improvements!
 
-## Like Ram-EDM without the Pulse
+## Like Sinker EDM without the Pulse
 
 <img src="https://i.imgur.com/R9fKR9X.jpg" style="margin:20px;width:50%;" align="right" title="ECMed Doodad"/>
 
