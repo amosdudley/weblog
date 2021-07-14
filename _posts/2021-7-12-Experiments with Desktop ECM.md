@@ -99,7 +99,9 @@ A better way to separate and filter the sludge might be with gravity: two holdin
 
 <img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;width:50%;" align="right" title="Spray-coated Suzanne Cutter">
 
-I'm not going to go too deep into how to plate stuff here. The short version is, print, spray coat, test conductivity, plate. <a href="https://caswellplating.com/">Caswell</a> sells a guide that's detailed and helpful, if a little dated. I used a Caswell copper plating kit, but I've found that a quality silver conductive spray is the key to electroplating plastic parts with any success.
+I'm not going to go too deep into how to plate stuff here. The short version is, print, spray coat, test conductivity, electroplate in copper sulfate.
+
+<a href="https://caswellplating.com/">Caswell</a> sells a guide that's detailed and helpful, if a little dated. I used a Caswell copper plating kit, but I've found that a quality silver conductive spray is the key to electroplating plastic parts with any success.
 
 The best quality spray I've found is from Pino Technology (a Swiss company that sells from China). If you attempt to plate a plastic part and it fails, most likely you don't have a great conductive layer, and need a better spray coat.
 
