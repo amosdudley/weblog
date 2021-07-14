@@ -52,7 +52,7 @@ If these folks can cut helical groves in (hopefully) barrel-grade steel, with wh
 
 The rifling process uses a static tool and controls the groove depth by running constant current for a set amount of time, which gradually widens the grooves as the steel closest to the helical wire erodes away. As a starting point, I used the same electrolyte concentration, pumping equipment, and amperage they do. I'll put the specifics into a wiki page soon after this post goes up.
 
-Onto the machine: I've put a schematic at the top of the article. At heart it's a simple Z motion platform, geared down to make it possible to move very small increments. The toolhead is rigidly attached to the motion stage, with a "crown gear" pivot point to allow the tool to be rotated up and back into place manually for installation. I 3D printed a platform for holding the metal stock over a plastic capture tank, which seems to be rigid enough for the current purpose.
+On to the machine: I've put a schematic at the top of the article. At heart it's a simple Z motion platform, geared down to make it possible to move very small increments. The toolhead is rigidly attached to the motion stage, with a "crown gear" pivot point to allow the tool to be rotated up and back into place manually for installation. I 3D printed a platform for holding the metal stock over a plastic capture tank, which seems to be rigid enough for the current purpose.
 
 A second plastic bin covers the top, because electrolyte injection causes a lot of overspray (which is corrosive to the leadscrews & rails). I repurposed a large glass beaker as a secondary holding tank to experiment with electrolyte filtration, and as a way to more easily replace the solution mid-cut if necessary without jostling the machine.
 
