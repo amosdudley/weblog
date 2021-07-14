@@ -30,7 +30,7 @@ ECM is scarcely seen outside of its niche manufacturing uses, and truly is a tec
 
 <img src="https://i.imgur.com/RgAL5J7.png" title="source: Okuwobi et al." style="margin:20px;height:80%;width:80%;">
 
-ECM tools are themselves usually conventionally machined out of metal (usually conductive copper), but that's only part of it. ECM tools also have to inject pressurized electrolytic fluid directly at the interface between the tool and the workpiece. The electrolyte is a chemical transfer medium that, together with electricity, provokes metal ions to separate from the metal stock. This fluid also flushes the unwanted waste particles (which quickly form a thick sludge) away at high speed.
+ECM tools are themselves usually conventionally machined out of metal (usually conductive copper), but that's only part of the challenge. ECM tools also have to inject pressurized electrolytic fluid directly at the interface between the tool and the workpiece. The electrolyte is a chemical transfer medium that, together with electricity, provokes metal ions to separate from the metal stock. This fluid also flushes the unwanted waste particles (which quickly form a thick sludge) away at high speed.
 
 From what I can tell, controlling the fluid behavior of the electrolyte through tool design (where the conduits go, etc.) is the main reason ECM is expensive, because there's an unavoidable degree of trial and error involved.
 
