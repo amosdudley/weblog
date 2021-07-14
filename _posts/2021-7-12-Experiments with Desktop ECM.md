@@ -116,7 +116,7 @@ Given that the cutting rate, current, and electrolyte concentration were totally
 
 It's interesting to see that the electrolyte injection holes (which I conveniently placed in Suzanne's eyes) didn't erode nearly as much as the rest - although they did erode. My understanding is that in the industrial process, these holes are a **lot** smaller than mine. I'm somewhat limited in how small I can go.
 
-The second design I tried was a bit more complex, which was to attempt to profile a pocket knife blade with a "cookie cutter"-like tool. Here, the injected electrolyte fills the the tool and is forced out the sides (between the tool and the part). This one didn't make it very far - it continually crashed, even at slow speeds, likely because to the sludge-masking problem I mentioned earlier.
+The second design I tried was a bit more complex, which was to attempt to profile a pocket knife blade with a "cookie cutter"-like tool. Here, the injected electrolyte fills the tool and is forced out the sides (between the tool and the part). This one didn't make it very far - it continually crashed, even at slow speeds, likely because to the sludge-masking problem I mentioned earlier.
 
 <img src="https://i.imgur.com/x7yjYvM.png" title="Knife Profile Stallout" style="margin:20px;width:80%;">
 *Only the bumpy region next to the red arrow was covered in black sludge after a few minutes of ECM*
