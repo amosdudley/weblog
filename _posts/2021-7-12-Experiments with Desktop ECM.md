@@ -28,7 +28,7 @@ ECM has some very interesting advantages compared to "mechanical" machining, whi
 
 ECM is scarcely seen outside of industry, and truly is a technology that seems to have gotten stuck in time. Part of the reason for that is, making ECM tools has always been challenging and expensive, and that hasn't changed much since the 1950s. The ECM tools themselves have to be conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
 
-<img src="https://i.imgur.com/RgAL5J7.png" height="300" title="source: Okuwobi et al."/>
+<img src="https://i.imgur.com/RgAL5J7.png" title="source: Okuwobi et al." style="margin:20px;height:60%;width:60%;">
 
 The big difference is that an ECM tool needs to inject pressurized electrolytic fluid, right at the interface between the tool and the workpiece. The electrolyte is the chemical transfer medium that provokes metal ions to cleave off the metal stock, and also flushes the unwanted particles (which quickly form a thick sludge) away at high speed.
 
@@ -44,7 +44,7 @@ I embarked on this foolhardy journey with only the foggiest understanding of che
 
 ## Build Overview
 
-<img src="https://i.imgur.com/n45vC1d.gif" style="margin:20px;height:400px;width:225px;" align="right" title="Ram ECM with Suzanne"/>
+<img src="https://i.imgur.com/n45vC1d.gif" style="margin:20px;height:355px;width:200px;" align="right" title="Ram ECM with Suzanne"/>
 
 Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work.
 
