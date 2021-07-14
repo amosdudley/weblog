@@ -108,13 +108,13 @@ Depending on the plate thickness, plating can have a relatively minimal impact o
 The best quality spray I've found is from Pino Technology (a Swiss company that sells from China). If you attempt to plate a plastic part and it fails, chances are you don't have a great conductive layer, and need a better spray coat.
 
 ## Results
-In "Sinker ECM," the tool moves towards the workpiece -
+It should be possible to dial in the feed-rate of the tool to be in a steady-state condition relative to the rate of erosion. If this were accomplished, there should be a constant gap distance between the tool and the part. I didn't really accomplish this - I had the tool moving at a constant rate, which invariably wasn't quite steady state. Either it was too slow, in which case the gap would widen and cutting would just stop, or too fast, where the tool would contact the workpiece.
 
-I've had it moving at a constant rate, though this may not be ideal. It should be possible to dial in the feed-rate of the tool to where it is in a steady-state condition relative to the rate of erosion, and as a result there would be a constant gap distance between the tool and the part.
-
-Right now the ECM is still controlled by an open loop, and requires a lot of babysitting. This bottlenecks experiments I'd like to run to start to relate surface area, cutting speed, and current density.
+Given that the cutting rate, current, and electrolyte concentration were totally unoptimized, this isn't too surprising. However, in the time before one of those conditions occurred, I managed to cut Blender Suzanne's face into some steel stock.     
 
 <img src="https://i.imgur.com/3vxXUz3.jpg" title="Impression of Suzanne in A36 Steel" style="margin:20px;width:80%;">
+
+The 
 
 ## Further work
 
