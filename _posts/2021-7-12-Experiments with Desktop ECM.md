@@ -79,13 +79,13 @@ The main problem caused by ECM sludge seems to be when it builds up on the workp
 
 This residue insulates, or at least physically masks, the steel below it, and causes regions below it to remain as un-eroded high points in the machining operation. When ECM isn't uniformly eroding material, you get a crash - where the tool collides with those high points, creating a short circuit.  
 
-I'm not certain whether the black residue has the same composition as the reddish suspended particles, but it's a problem. If it is the same, it might be caused by reaching some critical concentration of sludge in the electrolytic solution, since I'm recirculating this fluid many times. I've tried a few different methods of filtering the sludge to combat this, but none have worked:
+I'm not certain whether the black residue has the same composition as the reddish suspended particles, but it's a problem. If it is the same, it might be caused by reaching some critical concentration of sludge in the electrolytic solution, since I'm recirculating this fluid many times. I tried a few different methods of filtering the sludge to combat this, but none have worked:
 
 - Layered cotton fabric in an in-line filter
 - Activated carbon filtration (with a 200GPH aquarium filter)
 - Centrifugal separation with a 3D printed hydrocyclone manifold
 
-<img src="https://i.imgur.com/yXyBC2k.png" title="Hydrocyclone Manifold" style="margin:20px;width:30%;">
+<img src="https://i.imgur.com/yXyBC2k.png" title="Hydrocyclone Manifold" style="margin:20px;width:100%;">
 
 I was very surprised that activated carbon had virtually no filtration power. The hydroxide particles must be incredibly small. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering. Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
 
