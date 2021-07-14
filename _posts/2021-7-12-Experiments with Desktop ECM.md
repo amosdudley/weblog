@@ -89,7 +89,7 @@ I'm not certain whether the black residue has the same composition as the reddis
 
 I was very surprised that activated carbon had virtually no filtration power. The hydroxide particles must be incredibly small. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering. Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
 
-A better way to separate and filter the sludge might be with gravity. Two holding tanks, with servo-operated valves to divert the loop to the "active" tank, while the other settles and the waste is sep-funneled away.
+A better way to separate and filter the sludge might be with gravity: two holding tanks, with servo-operated valves to divert the loop to the "active" tank, while the other settles and the waste is sep-funneled away.
 
 ## Designing ECM Tools
 
@@ -118,7 +118,7 @@ I've had it moving at a constant rate, though this may not be ideal. It should b
 
 Right now the ECM is still controlled by an open loop, and requires a lot of babysitting. This bottlenecks experiments I'd like to run to start to relate surface area, cutting speed, and current density.
 
-<img src="https://i.imgur.com/3vxXUz3.jpg" height="700" title="source: imgur.com"/>
+<img src="https://i.imgur.com/3vxXUz3.jpg" title="Impression of Suzanne in A36 Steel" style="margin:20px;width:80%;">
 
 ## Further work
 
