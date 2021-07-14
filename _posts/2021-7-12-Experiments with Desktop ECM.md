@@ -44,7 +44,7 @@ I embarked on this foolhardy journey with only the foggiest understanding of che
 
 ## Build Overview
 
-<img src="https://i.imgur.com/n45vC1d.gif" style="margin:20px;height:355px;width:200px;" align="right" title="Ram ECM with Suzanne"/>
+
 
 Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work.
 
@@ -58,6 +58,8 @@ Electrolyte is pumped through the tool with a $40 micro-diaphragm pump, and retu
 
 <img src="https://i.imgur.com/EghvbqZ.png" style="margin:20px;height:100%;width:100%;">
 *Most of the non-8020 parts are "Tough 2000" resin, but everything should be printable with FDM as well.*
+
+<img src="https://i.imgur.com/n45vC1d.gif" style="margin:20px;height:355px;width:200px;" align="right" title="Ram ECM with Suzanne"/>
 
 The motion stage is driven by a CNC Shield on an Arduino Mega running GRBL, because that's what I had laying around. The 5:1 geared steppers + Tr8x2 leadscrews (2mm pitch) provide a truly unnecessary Z resolution of ~8145 steps/mm. Feed rates in real ECM vary from 0.5 to 15 mm min, but given my small power source I started at 1/10th that speed (50 microns/min). Unfortunately it seems like there's a relatively high hard coded minimum feed rate in GRBL 0.8, so I wasn't able to just run single G-Code moves at the very slow rate I wanted. My workaround (in lieu of getting a better controller) was to write a little script to generate G-Code defining the overall move as a series of tiny steps (1 microstep) and waits. It also inserts lift/return moves at periodic intervals, in hopes that this would help with flushing ECM sludge (more on that later).
 
@@ -97,13 +99,13 @@ A better way to separate and filter the sludge might be with gravity. Two holdin
 
 <img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;width:50%;" align="right" title="Spray-coated Suzanne Cutter">
 
-I used a Caswell copper plating kit, but I've found that a quality silver conductive spray is the key to electroplating plastic parts with any success. Caswell sells a servicable one. The best quality spray I've found is from Pino Technology (a Swiss company with operations in China). If you attempt to plate a plastic part and it fails, most likely you don't have a great conductive layer, and need a better spray coat.
+I'm not going to go too deep into how to plate stuff here. <a href="https://caswellplating.com/">Caswell</a> sells a guide that's detailed and helpful, if a little dated. I used a Caswell copper plating kit, but I've found that a quality silver conductive spray is the key to electroplating plastic parts with any success. The best quality spray I've found is from Pino Technology (a Swiss company that sells from China). If you attempt to plate a plastic part and it fails, most likely you don't have a great conductive layer, and need a better spray coat.
 
 Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part. I found I needed between 25-50 microns of copper to survive  occasionally crashing into the workpiece.   
 
 <img src="https://i.imgur.com/WGS2In8.png" style="margin:20px;width:95%;" title="Spray-coated Knife Cutter">
 
-The inner surface of the cookie cutter needs to be unplated in order to avoid ECM erosion from the middle of the part.
+In theory, the inner surface of the cookie cutter needs to be unplated in order to avoid ECM erosion removing material from middle of the "cookie" (everything inside the profile). I tried to accomplish this by printing a plug that would mask off the inside of the cutter. This didn't work as well as I'd hoped, and I ended up just spray-coating the whole thing, and then scribing the inside edge of the cutter to break electrical connectivity with the inner (now conductive) surface.
 
 ## Results
 In "Sinker ECM," the tool moves towards the workpiece -
