@@ -116,12 +116,21 @@ Given that the cutting rate, current, and electrolyte concentration were totally
 
 It's interesting to see that the electrolyte injection holes (which I conveniently placed in Suzanne's eyes) didn't erode nearly as much as the rest - although they did erode. My understanding is that in the industrial process, these holes are a **lot** smaller than mine. I'm somewhat limited in how small I can go.
 
-The second design I tried was a bit more complex, which was to attempt to profile a knife blade with a "cookie cutter"-like tool. This one didn't make it as far - it continually crashed, possibly due to the sludge-masking problem I mentioned earlier.
+The second design I tried was a bit more complex, which was to attempt to profile a pocket knife blade with a "cookie cutter"-like tool. Here, the injected electrolyte fills the the tool and is forced out the sides (between the tool and the part). This one didn't make it very far - it continually crashed, even at slow speeds, likely because to the sludge-masking problem I mentioned earlier.
 
 <img src="https://i.imgur.com/x7yjYvM.png" title="Knife Profile Stallout" style="margin:20px;width:80%;">
+*Only the bumpy region next to the red arrow was covered in black sludge after a few minutes of ECM*
+
+Why did the Suzanne not cause the same level of sludge generation as the knife profile? It might in part have to do with the fluid flow in that area, since it's conspicuously at the pointed tip of the knife. If there's too much turbulence there, maybe there's not enough pressure to blast away the sludge.
 
 ## Further work
 
 An obvious next step for this project is to synchronize pump activation + ECM current + tool motion. The last two are especially important - I found that voltage seems to vary as a function of gap distance and active surface area (the region between the tool and the workpiece that would be touching if you closed the gap).
 
 This implies that some of the issues I had with tools crashing into the workpiece could be remedied by dynamically slowing feed rate as voltage drops (with a multiplier from a table of surface areas over cut depth that is pre-calculated from the model).
+
+Other stuff to-do:
+- Some mechanism for cleaning the workpiece of sludge. Perhaps the tool could rise periodically to allow an external water jet access to clean the surface
+- Electrolyte filtration needs to work
+- Build a better tool-holder, with more rigidity and better ability to be aligned in plane to the work surface
+- Automating some aspects of tool generation in software
