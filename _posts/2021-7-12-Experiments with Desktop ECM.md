@@ -124,10 +124,12 @@ It's interesting to see that the electrolyte injection holes (which I convenient
 
 The second design I tried was a bit more complex, which was to attempt to profile a pocket knife blade with a "cookie cutter"-like tool. Here, the injected electrolyte fills the tool and is forced out the sides (between the tool and the part). This one didn't make it very far - it continually crashed, even at slow speeds, likely because to the sludge-masking problem I mentioned earlier.
 
-<img src="https://i.imgur.com/x7yjYvM.png" title="Knife Profile Stallout" style="margin:20px;width:80%;">
+<img src="https://i.imgur.com/x7yjYvM.png" title="Knife Profile Stallout" style="margin:20px;width:100%;">
 *Only the bumpy region next to the red arrow was covered in black sludge after a few minutes of ECM*
 
 Why did the Suzanne not cause the same level of sludge generation as the knife profile? It might in part have to do with the fluid flow in that area, since it's conspicuously at the pointed tip of the knife. If there's too much turbulence there, maybe there's not enough pressure to blast away the sludge.
+
+<img src="https://i.imgur.com/Obnvy8C.gif" title="Knife Profile Cutting" style="margin:20px;width:100%;">
 
 ## Further work
 
