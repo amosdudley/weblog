@@ -81,9 +81,7 @@ I'm not certain whether the black residue has the same composition as the reddis
 - Activated carbon filtration (with a 200GPH aquarium filter)
 - Centrifugal separation with a 3D printed hydrocyclone manifold
 
-I was very surprised that activated carbon had virtually no filtration power. The particles here must be incredibly small and easily moved through the filter. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering.
-
-Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
+I was very surprised that activated carbon had virtually no filtration power. The particles here must be incredibly small and easily moved through the filter. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering. Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
 
 <img src="https://i.imgur.com/fGt0DWA.png" height="700" title="Tool Cutaways"/>
 
