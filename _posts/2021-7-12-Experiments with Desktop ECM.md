@@ -28,7 +28,7 @@ ECM has some very interesting advantages compared to "mechanical" machining, whi
 
 ECM is scarcely seen outside of industry, and truly is a technology that seems to have gotten stuck in time. Part of the reason for that is, making ECM tools has always been challenging and expensive, and that hasn't changed much since the 1950s. The ECM tools themselves have to be conventionally machined out of metal (usually conductive copper), and work kind of like sinker E**D**M, in that they have the inverse shape to the part you want to cut.
 
-<img src="https://i.imgur.com/RgAL5J7.png" title="source: Okuwobi et al." style="margin:20px;height:60%;width:60%;">
+<img src="https://i.imgur.com/RgAL5J7.png" title="source: Okuwobi et al." style="margin:20px;height:80%;width:80%;">
 
 The big difference is that an ECM tool needs to inject pressurized electrolytic fluid, right at the interface between the tool and the workpiece. The electrolyte is the chemical transfer medium that provokes metal ions to cleave off the metal stock, and also flushes the unwanted particles (which quickly form a thick sludge) away at high speed.
 
