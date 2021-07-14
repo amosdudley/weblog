@@ -95,7 +95,7 @@ A better way to separate and filter the sludge might be with gravity. Two holdin
 
 ## Electroplating Resin
 
-<img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;height:450px" align="right" title="Spray-coated Suzanne Cutter"/>
+<img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;height:100%;width:50%;" align="right" title="Spray-coated Suzanne Cutter">
 
 I used a Caswell copper plating kit, but I've found that a quality silver conductive spray is the key to electroplating plastic parts with any success. Caswell sells a servicable one. The best quality spray I've found is from Pino Technology (a Swiss company with operations in China). If you attempt to plate a plastic part and it fails, most likely you don't have a great conductive layer, and need a better spray coat.
 
