@@ -113,7 +113,7 @@ You can download a few different example tools <a href="https://github.com/amosd
 
 <img src="https://i.imgur.com/z7eNbk9.jpg" style="margin:20px;width:50%;" align="right" title="Spray-coated Suzanne Cutter">
 
-I'm not going to go too deep into how to plate stuff here. The short version is, print, spray coat, test conductivity, electroplate in copper sulfate.
+I'm not going to go too deep into how to plate stuff here. The short version is, print, spray coat, test conductivity, electroplate using copper sulfate.
 
 Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part. I found I needed between 25-50 microns of copper to survive  occasionally crashing into the workpiece. With DIY plastic electroplating like this, adhesion is typically quite poor - it didn't seem to matter here though, because there really isn't much force on the part.    
 
