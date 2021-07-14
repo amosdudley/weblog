@@ -77,7 +77,7 @@ The main problem caused by ECM sludge seems to be when it builds up on the workp
 
 This residue insulates, or at least physically masks, the steel below it, and causes regions below it to remain as un-eroded high points in the machining operation. When ECM isn't uniformly eroding material, you get a crash - where the tool collides with those high points, creating a short circuit.  
 
-<img src="https://i.imgur.com/fGt0DWA.png" title="Hydrocyclone Manifold" style="margin:20px;height:35%;width:35%;" align="right">
+<img src="https://i.imgur.com/fGt0DWA.png" title="Hydrocyclone Manifold" style="margin:20px;width:35%;" align="right">
 
 I'm not certain whether the black residue has the same composition as the reddish suspended particles, but it's a problem. If it is the same, it might be caused by reaching some critical concentration of sludge in the electrolytic solution, since I'm recirculating this fluid many times. I've tried a few different methods of filtering the sludge to combat this, but none have worked:
 
@@ -101,7 +101,7 @@ I used a Caswell copper plating kit, but I've found that a quality silver conduc
 
 Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part. I found I needed between 25-50 microns of copper to survive  occasionally crashing into the workpiece.   
 
-<img src="https://i.imgur.com/WGS2In8.png" style="margin:20px;width:100%;" title="Spray-coated Knife Cutter"/>
+<img src="https://i.imgur.com/WGS2In8.png" style="margin:20px;width:95%;" title="Spray-coated Knife Cutter">
 
 The inner surface of the cookie cutter needs to be unplated in order to avoid ECM erosion from the middle of the part.
 
