@@ -93,7 +93,7 @@ A better way to separate and filter the sludge might be with gravity. Two holdin
 
 ## Designing ECM Tools
 
-<img src="https://i.imgur.com/FtDlYBG.png" title="Tool Cutaways" style="margin:20px;height:100%;width:100%;">
+<img src="https://i.imgur.com/FtDlYBG.png" title="Tool Cutaways" style="margin:20px;width:80%;">
 
 ## Electroplating Resin
 
