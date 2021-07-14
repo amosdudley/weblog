@@ -145,12 +145,13 @@ Why did the Suzanne not cause the same level of sludge generation as the knife p
 
 Clearly, two cuts later, this isn't a done deal. However, it's rather arduous to experimentally arrive at better process parameters with slow tests of this sort. An obvious next step for this project is to synchronize pump activation + ECM current + tool motion. The last two are especially important - I found that voltage seems to vary as a function of gap distance and active surface area (the region between the tool and the workpiece that would be touching if you closed the gap).
 
-This implies that some of the issues I had with tools crashing into the workpiece could be remedied by dynamically slowing feed rate as voltage drops (with a multiplier from a table of surface areas over cut depth that is pre-calculated from the model).
+This implies that some of the issues I had with tools crashing into the workpiece could be remedied by dynamically slowing feed rate as voltage drops (with a multiplier from a table of surface areas over cut-depth that is pre-calculated from the model). If crashing was avoidable, it would be much more efficient to test and refine other variables.
 
 Other stuff to-do:
 - Some mechanism for cleaning the workpiece of sludge. Perhaps the tool could rise periodically to allow an external water jet access to clean the surface
 - Electrolyte filtration needs to work
 - Build a better tool-holder, with more rigidity and better ability to be aligned in plane to the work surface
 - Automating some aspects of tool generation in software
+- Better understand how voltage drops across the thin plated surface of a tool, and how that might affect maximum machinable surface area.  
 
 I think ECM has interesting potential at this scale - mainly because I suspect its utility hasn't been extensively explored. Perhaps with modern simulation and generative software, some of the previously difficult tool design challenges could be automated. Then, maybe, this odd machining process would be more widely applied.
