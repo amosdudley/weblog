@@ -67,7 +67,7 @@ I know for certain that ECM generates hydrogen gas, which can be seen as bubbles
 
 ## Filtration
 
-<img src="https://i.imgur.com/nX4YqbU.gif" style="margin:20px;height:512px;width:384px;" align="right" title="Sludge Settling"/>
+<img src="https://i.imgur.com/nX4YqbU.gif" style="margin:20px;height:40%;width:40%;" align="right" title="Sludge Settling"/>
 
 I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the product of the reaction of the separated components of the work steel and the electrolyte. I'd like to mention at this point that ECM byproducts can be toxic, depending on the composition of the alloy. If the steel contains chromium (ie stainless and others), one of these byproducts might be hexavalent chromium, which is carcinogenic. So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware (and wear gloves when handling the waste).
 
