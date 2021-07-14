@@ -135,7 +135,7 @@ The second design I tried was a bit more complex, which was to attempt to profil
 <img src="https://i.imgur.com/x7yjYvM.png" title="Knife Profile Stallout" style="margin:20px;width:100%;">
 *Only the bumpy region next to the red arrow was covered in black sludge after a few minutes of ECM*
 
-Why did the Suzanne not cause the same level of sludge generation as the knife profile? It might in part have to do with the fluid flow in that area, since it's conspicuously at the pointed tip of the knife. If there's too much turbulence there, maybe there's not enough pressure to blast away the sludge. Beyond that, the tool was not perfectly in-plane with the stock, due to my mistake of using an undersized ball joint to affix the tool.   
+Why did the Suzanne not cause the same level of sludge generation as the knife profile? It might in part have to do with the fluid flow in that area, since it's conspicuously at the pointed tip of the knife. If there's too much turbulence there, maybe there's not enough pressure to blast away the sludge. Beyond that, the tool was not perfectly in-plane with the stock, due to my mistake of using an undersized ball joint to affix the tool.
 
 <img src="https://i.imgur.com/Obnvy8C.gif" title="Knife Profile Cutting" style="margin:20px;width:100%;">
 
