@@ -107,12 +107,6 @@ The best quality spray I've found is from Pino Technology (a Swiss company that 
 
 Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part. I found I needed between 25-50 microns of copper to survive  occasionally crashing into the workpiece.   
 
-<img src="https://i.imgur.com/WGS2In8.png" style="margin:20px;width:95%;" title="Spray-coated Knife Cutter">
-
-In theory, the inner surface of the cookie cutter needs to be unplated in order to avoid ECM erosion removing material from middle of the "cookie" (everything inside the profile). I tried to accomplish this by printing a plug that would mask off the inside of the cutter.
-
-This didn't work as well as I'd hoped, and I ended up just spray-coating the whole thing, and then scribing the inside edge of the cutter to break electrical connectivity with the inner (now conductive) surface.
-
 ## Results
 In "Sinker ECM," the tool moves towards the workpiece -
 
