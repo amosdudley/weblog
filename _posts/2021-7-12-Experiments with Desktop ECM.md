@@ -42,13 +42,13 @@ I embarked on this foolhardy journey with only the foggiest understanding of che
 
 ## Build Overview
 
-<img src="https://i.imgur.com/wGtglp3.png" style="margin:20px;height:40%;width:40%;" align="right" title="ECM Testbed"/>
+<img src="https://i.imgur.com/wGtglp3.png" style="margin:20px;width:50%;" align="right" title="ECM Testbed"/>
 
 Ok, not totally unknown. In the past year or two, intrepid souls on the internet have taken it on themselves to use the principles of ECM to cut gun barrel rifling at home. Whether or not you think the end product is worthwhile, the process seems to work.
 
 If these folks can cut helical groves in (hopefully) barrel-grade steel, with what amounts to a wire wrapped plastic churro and some salt water, it didn't seem unreasonable to expect something in the realm of "results" with a copper-coated 3D print. The rifling process uses a static tool and controls the groove depth by running constant current for a set amount of time, which gradually widens the grooves as the steel closest to the helical wire erodes away. As a starting point, I used the same electrolyte concentration, pumping equipment, and amperage they do. I'll put the specifics into a wiki page soon after this post goes up.
 
-I've put a diagram of the machine at the top of the article. Mainly, it's a simple Z motion platform, geared down to make it possible to move very small increments. The toolhead is rigidly attached to the motion stage, with a "crown gear" pivot point to allow the tool to be rotated up and back into place manually for installation. I 3D printed a platform for holding the metal stock over a plastic capture tank, which seems to be rigid enough for the current purpose.
+I've put a diagram of the machine at the top of the article. At heart it's a simple Z motion platform, geared down to make it possible to move very small increments. The toolhead is rigidly attached to the motion stage, with a "crown gear" pivot point to allow the tool to be rotated up and back into place manually for installation. I 3D printed a platform for holding the metal stock over a plastic capture tank, which seems to be rigid enough for the current purpose.
 
 A second plastic bin covers the top, because electrolyte injection causes a lot of overspray (which is corrosive to the leadscrews & rails). I repurposed a large glass beaker as a secondary holding tank to experiment with electrolyte filtration, and as a way to more easily replace the solution mid-cut if necessary without jostling the machine.
 
