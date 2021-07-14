@@ -40,7 +40,7 @@ So an ECM tool is not really trivial to make. Or hasn't been. But, it's rather e
 
 I imagined a process where a positive 3D printed "tool" is plated with a very thin layer of metal. Then, these tools could be used in a way similar to sinker EDM, to machine complex 3D shapes in tough metals like pre-hardened steels. I was also curious if it's possible to print a "cookie cutter" geometry, where only the edge of the tool is conductive, in order to cut profiles similar to a waterjet with a much smaller footprint.
 
-I embarked on this foolhardy journey with only the foggiest understanding of chemistry and electricity. Armed with an SLA printer, a sacrificial RepRap, some plating chemicals, and a general idea of how to use them, I forged into the unknown.  
+In the usual fashion, I embarked on this foolhardy journey with only the foggiest understanding of chemistry and electricity. Armed with an SLA printer, a sacrificial RepRap, some plating chemicals, and a general idea of how to use them, I forged into the unknown.  
 
 ## Build Overview
 
