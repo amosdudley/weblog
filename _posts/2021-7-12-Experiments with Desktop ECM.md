@@ -115,7 +115,7 @@ You can download a few different example tools <a href="https://github.com/amosd
 
 I'm not going to go too deep into how to plate stuff here. The short version is, print, spray coat, test conductivity, electroplate using copper sulfate.
 
-Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part. I found I needed between 25-50 microns of copper to survive  occasionally crashing into the workpiece. With DIY plastic electroplating like this, adhesion is typically quite poor - it didn't seem to matter here though, because there really isn't much force on the part.    
+Depending on the plate thickness, plating can have a relatively minimal impact on the dimensions of the part. When you're dealing with a resin print that starts smooth, electroplating can actually make the surface even smoother. I found I needed between 25-50 microns of copper to survive  occasionally crashing into the workpiece. With DIY plastic electroplating like this, adhesion is typically quite poor - it didn't seem to matter here though, because there really isn't much force on the part.    
 
 <a href="https://caswellplating.com/">Caswell</a> sells a guide that's detailed and helpful, if a little dated. I used a Caswell copper plating kit, but I've found that a quality silver conductive spray is the key to electroplating plastic parts with any success.
 
