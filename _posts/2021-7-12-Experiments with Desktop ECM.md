@@ -95,7 +95,7 @@ None of these worked. Like, at all. I was very surprised that activated carbon h
 
 A better way to separate and filter the sludge might be with gravity: two holding tanks, with servo-operated valves to divert the loop to the "active" tank, while the other settles and the waste is sep-funneled away.
 
-I'd like to mention at this point that ECM byproducts can be toxic, depending on the composition of the alloy. If the steel contains chromium (ie stainless and others), one of these byproducts might be hexavalent chromium, which is carcinogenic. So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware. And wear gloves.
+I'd like to mention at this point that ECM byproducts can be toxic, depending on the composition of the alloy. If the steel contains chromium (ie stainless and others), one of these byproducts might be hexavalent chromium, which is carcinogenic. **So please, don't try this at home with chromium-containing alloys.** My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware. And wear gloves.
 
 ## Designing ECM Tools
 
