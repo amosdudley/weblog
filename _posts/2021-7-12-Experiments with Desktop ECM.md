@@ -75,13 +75,9 @@ I know for certain that ECM generates hydrogen gas, which can be seen as bubbles
 
 <img src="https://i.imgur.com/nX4YqbU.gif" style="margin:20px;height:40%;width:40%;" align="right" title="Sludge Settling"/>
 
-I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the product of the reaction of the separated components of the work steel and the electrolyte. I'd like to mention at this point that ECM byproducts can be toxic, depending on the composition of the alloy. If the steel contains chromium (ie stainless and others), one of these byproducts might be hexavalent chromium, which is carcinogenic.
+I wasn't prepared for how quickly ECM produces waste sludge. This sludge is the product of the reaction of the separated components of the work steel and the electrolyte.
 
-So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware. And wear gloves.
-
-The ECM sludge is reddish brown and agglomerates slightly over time. Maybe sludge is a bad description - it's denser than the saltwater solution, but the particle size is so small that it takes a while to settle out. **See 30 minute time lapse to the right.**
-
-A few internet sources suggest that most of this sludge is iron (II) hydroxide or possibly Iron (III) oxide-hydroxide, or maybe even rust, which are safe and insoluble.
+The ECM sludge is reddish brown and agglomerates slightly over time. Maybe sludge is a bad description - it's denser than the saltwater solution, but the particle size is so small that it takes a while to settle out. **See 30 minute time lapse to the right.** A few internet sources suggest that most of this sludge is iron (II) hydroxide or possibly Iron (III) oxide-hydroxide, or maybe even rust, which are insoluble.
 
 The main problem caused by ECM sludge seems to be when it builds up on the workpiece. After my ECM runs undisturbed for ~10min, I find that the cutting interface is often partially coated in a black residue. It's easily cleaned off with a wire brush or wiped off with a finger.
 
@@ -95,9 +91,11 @@ I'm not certain whether the black residue has the same composition as the reddis
 
 <img src="https://i.imgur.com/77a8eWW.png" title="Hydrocyclone Manifold" style="margin:20px;width:90%;">
 
-None of these worked. Like, at all. I was very surprised that activated carbon had virtually no filtration power with ECM sludge. The hydroxide particles must be incredibly small. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering. Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale.
+None of these worked. Like, at all. I was very surprised that activated carbon had virtually no filtration power with ECM sludge. The hydroxide particles must be incredibly small. I tested this independently of the ECM, and there was no visible change in the level of settled sludge after four hours of filtering. Although kind of neat, the hydrocyclone was clearly just mixing the sludge into suspension rather than doing any separation. The difference in densities is just too small for it to work, at least at this scale. I also tried magnetic filtering - the sludge is not appreciably ferromagnetic.
 
 A better way to separate and filter the sludge might be with gravity: two holding tanks, with servo-operated valves to divert the loop to the "active" tank, while the other settles and the waste is sep-funneled away.
+
+I'd like to mention at this point that ECM byproducts can be toxic, depending on the composition of the alloy. If the steel contains chromium (ie stainless and others), one of these byproducts might be hexavalent chromium, which is carcinogenic. So please, don't try this at home with chromium-containing alloys. My experiments thusfar have been with A36 and 1095 carbon steel. These steels are iron alloyed with manganese, carbon, silicon, copper, sulphur and phosphorous. Which doesn't mean there aren't other hazardous byproducts being formed, but I'm blissfully unaware. And wear gloves.
 
 ## Designing ECM Tools
 
