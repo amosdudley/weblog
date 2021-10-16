@@ -42,7 +42,7 @@ The steps to model an object like this were:
 
 ![Subsurface process](https://i.imgur.com/9RXFShj.png)
 
-Once you have a shape that fits your intent, we switch to thinking with solids. The shell is given a uniform thickness (Solidify), and I draw volumes representing bolt holes and other features that are Boolean subtracted from the model. I considered using solid CAD (ie Onshape or Solidworks), but I find making 3D curved shaped in this software to be terribly slow. Want to make a single 3D spline? Better be prepared to draw it twice from two angles, and don't forget that every single control point on one curve has to correspond to the other! No thanks!
+Once you have a shape that fits your intent, we switch to thinking with solids. The shell is given a uniform thickness (Solidify), and I draw volumes representing bolt holes and other features that are Boolean subtracted from the model. I considered using solid CAD (ie Onshape or Solidworks), but I found making 3D curved shapes in solid CAD software to be needlessly slow for my purposes here. Want to make a single 3D spline? Better be prepared to draw it twice from two angles, and don't forget that every single control point on one curve has to correspond to the other! No thanks!
 
 The final part:
 ![finalpart](https://i.imgur.com/E9PdixZ.png)
@@ -60,7 +60,9 @@ After adding straps, here's a view of the inside:
 
 ## How did it go?
 
-**The good:** Quality-wise, I'm very happy with the build. Since I wanted to get the outer shell to the printer ASAP, before I had finished designing the retaining inserts for the eye and ear protectors, I didn't have many screw holes defined in the shell. To get things moving a little faster, I hand-drilled the holes for heat-set inserts using the retaining inserts as a drill guide - which worked like a charm, if a little labor intensive. Printing or molding the insert holes would be the way to go if this were manufactured at any scale.
+**The good:** Quality-wise, I'm quite happy with the build. Since I wanted to get the outer shell to the printer ASAP, before I had finished designing the retaining inserts for the eye and ear protectors, I didn't have many screw holes defined in the shell. To get things moving a little faster, I hand-drilled the holes for heat-set inserts using the retaining inserts as a drill guide - which worked like a charm, if a little labor intensive. Printing or molding the insert holes would be the way to go if this were manufactured at any scale.
+
+Fabrication of the foam padding was a bit of an afterthought, because it's normally hidden. It's rather crudely hand-cut. If I had a laser engraver on hand, I'd have preferred to design and cut the pattern as a single piece.
 
 **The bad:** In testing, my ignorance of the vagaries of dog psychology became clear. It seems like other dogs don't react very well to this headgear, either. Larger dogs in particular find it threatening, which makes me cautious of using it at the dog park for Hilde's safety. So instead, it will be reserved for hikes and other activities.
 
